@@ -23,7 +23,11 @@
     // without also restoring the PBS and Plugins folders.
     "editor": { "debug": false, "battleTest": false },
 
-    "windowTitle": "Pokémon Sunday",
+    "windowTitle": "Pok\u00e9mon Sunday",
+    // Essentials falls back to "Arial" when a font is missing, and Linux and
+    // macOS have no Arial, so the engine used its own bundled Liberation Sans
+    // in a game drawn for a pixel font. Point it at the font we ship.
+    "fontSub": ["Arial>Power Green"],
 
     // The game window's width and height, in pixels.
     //

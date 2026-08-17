@@ -11,10 +11,21 @@ lives separately.
 
 ## Playing
 
-Windows only for now.
+Windows and Linux.
 
 **Just want to play:** click the green **Code** button above, then
-**Download ZIP**. Unzip it anywhere and run **Pokémon Sunday (Windows).exe**.
+**Download ZIP**. Unzip it anywhere and run **Pokémon Sunday (Windows).exe**,
+or **Pokémon Sunday (Linux)** on Linux.
+
+On Linux the launcher may need its executable bit set, depending on how the
+files reached you - a ZIP does not carry one:
+
+```
+chmod +x "Pokemon Sunday (Linux)"
+./"Pokemon Sunday (Linux)"
+```
+
+A clone keeps the bit, so cloning avoids that step.
 
 **Want quick updates:** clone it instead, and updates become a `git pull`
 that downloads only what changed rather than the whole game again.
