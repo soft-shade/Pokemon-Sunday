@@ -62,7 +62,13 @@
     // will be the "Game Title" as defined in RPG Maker XP. It should not
     // contain any accented characters.
     //
-    // "dataPathApp": "Pokemon Essentials v21",
+    // Pinned rather than left to the default, which is the Title out of
+    // Game.ini. That default is only reached if mkxp-z finds Game.ini at all -
+    // it looks for <execName>.ini - and if it does not, the title is empty and
+    // this becomes empty with it, which silently moves every player's saves
+    // somewhere they will not find them. The value here is exactly what the
+    // default already resolved to, so nothing moves; it just cannot move now.
+    "dataPathApp": "Pokemon Sunday 3.0",
 
     // If defined, the game's save folder goes into a folder with this name (in
     // C:\Users\USERNAME\AppData\Roaming). If undefined, the game's save folder

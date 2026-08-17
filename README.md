@@ -14,7 +14,7 @@ lives separately.
 Windows only for now.
 
 **Just want to play:** click the green **Code** button above, then
-**Download ZIP**. Unzip it anywhere and run **Game.exe**.
+**Download ZIP**. Unzip it anywhere and run **Pokémon Sunday (Windows).exe**.
 
 **Want quick updates:** clone it instead, and updates become a `git pull`
 that downloads only what changed rather than the whole game again.
