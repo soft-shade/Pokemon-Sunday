@@ -1,0 +1,7 @@
+# mkxp-z writes saves next to the game unless told otherwise.
+*.rxdata.bak
+Saves/
+*.sav
+
+# Build bookkeeping for tools/build_player_release.py in the dev repo.
+.player-build.json
