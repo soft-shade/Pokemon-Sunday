@@ -24,9 +24,10 @@
     "editor": { "debug": false, "battleTest": false },
 
     "windowTitle": "Pok\u00e9mon Sunday",
-    // Essentials falls back to "Arial" when a font is missing, and Linux and
-    // macOS have no Arial, so the engine used its own bundled Liberation Sans
-    // in a game drawn for a pixel font. Point it at the font we ship.
+    // Essentials' DrawText falls back to "Arial" whenever the font it wants
+    // is missing, and Linux has no Arial - so the engine drops to its own
+    // bundled Liberation Sans, which is not a pixel font and does not fit the
+    // game's text boxes. Point it at the font the game actually ships with.
     "fontSub": ["Arial>Power Green"],
 
     // The game window's width and height, in pixels.
