@@ -100,6 +100,13 @@ jobs:
               echo 'for a in "$@"; do'
               echo '  [ "$a" = "-force_cpusubtype_ALL" ] && continue'
               echo '  [ "$a" = "-c" ] && compiling=1'
+              echo '  # A build that asked for C23 did not mean to: configure'
+              echo '  # probes the compiler and records whatever it defaults to.'
+              echo '  # Rewrite C23 only - a deliberate -std=c99 is left alone.'
+              echo '  case "$a" in'
+              echo '    -std=gnu23|-std=gnu2x) a=-std=gnu17;;'
+              echo '    -std=c23|-std=c2x)     a=-std=c17;;'
+              echo '  esac'
               echo '  case "$a" in -std=*) has_std=1;; esac'
               echo '  args+=("$a")'
               echo 'done'
@@ -125,7 +132,9 @@ jobs:
           "$HOME/shim/clang" -force_cpusubtype_ALL -o /tmp/t /tmp/t.o
           echo 'int main(){return 0;}' > /tmp/t.cpp
           "$HOME/shim/clang++" -c -o /tmp/tpp.o /tmp/t.cpp
-          echo "C with an unprototyped getenv, and C++, both build: OK"
+          echo 'char *getenv(); int main(void){return 0;}' > /tmp/t23.c
+          "$HOME/shim/clang" -c -std=gnu23 -o /tmp/t23.o /tmp/t23.c
+          echo "C with an unprototyped getenv, -std=gnu23 rewritten, and C++: OK"
           echo "$HOME/shim" >> "$GITHUB_PATH"
 
       # libpng takes a Classic Mac OS branch on any SDK that defines
