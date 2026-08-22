@@ -155,6 +155,10 @@ jobs:
       #          TARGET_OS_MAC and tries to include <fp.h>, a header that left
       #          with Mac OS 9. Patched to fall through to math.h as intended.
       #
+      #  ruby    has its bundled-gem list emptied. make install builds each
+      #          one's native extension and rbs-2.7.0's does not build; none of
+      #          them matter here.
+      #
       #  openssl is pinned to the tag the dependency Makefile means to use.
       #          Its clone line reads:
       #
@@ -181,6 +185,24 @@ jobs:
               echo "FAILED to patch $dir/pngpriv.h"; exit 1
             fi
             echo "libpng  ready in $dir"
+
+            # Ruby's make install builds every bundled gem's native
+            # extension, and rbs-2.7.0's fails: its extconf probes the compiler
+            # through mkmf, the probe does not build, and Ruby reports it as
+            # missing development tools. None of the bundled gems - rbs,
+            # typeprof, debug - mean anything to a game engine, and Ruby decides
+            # what to install from this one file, so emptying it skips the lot
+            # and takes a whole category of failure with it. The standard
+            # library, which mkxp-z does use, is untouched.
+            rb="downloads/$host/ruby"
+            if [ ! -d "$rb/.git" ]; then
+              git clone -q --single-branch -b mkxp-z-3.1.3 --depth 1                   https://github.com/mkxp-z/ruby "$rb"
+            fi
+            if [ -f "$rb/gems/bundled_gems" ]; then
+              echo "bundled gems dropped: $(wc -l < "$rb/gems/bundled_gems")"
+              : > "$rb/gems/bundled_gems"
+            fi
+            echo "ruby    ready in $rb"
 
             ssl="downloads/$host/openssl"
             if [ ! -d "$ssl/.git" ]; then
