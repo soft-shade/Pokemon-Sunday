@@ -65,6 +65,35 @@ jobs:
         working-directory: engine/macos/Dependencies
         run: brew bundle
 
+      # libvorbis's 2013-era build passes -force_cpusubtype_ALL, a flag Apple's
+      # linker dropped years ago; on Xcode 26 it is a hard error and the whole
+      # dependency build dies at libvorbis.a. It is a no-op on anything this
+      # century, so it gets filtered in a compiler shim rather than by patching
+      # makefiles the dependency build regenerates anyway.
+      - name: Shim out an obsolete linker flag
+        run: |
+          REAL_CC="$(xcrun -f clang)"
+          REAL_CXX="$(xcrun -f clang++)"
+          mkdir -p "$HOME/shim"
+          write_shim() {
+            cat > "$HOME/shim/$1" <<SH
+          #!/bin/bash
+          args=()
+          for a in "\$@"; do
+            [ "\$a" = "-force_cpusubtype_ALL" ] && continue
+            args+=("\$a")
+          done
+          exec "$2" "\${args[@]}"
+          SH
+            chmod +x "$HOME/shim/$1"
+          }
+          write_shim clang   "$REAL_CC"
+          write_shim cc      "$REAL_CC"
+          write_shim clang++ "$REAL_CXX"
+          write_shim c++     "$REAL_CXX"
+          echo "$HOME/shim" >> "$GITHUB_PATH"
+          echo "--- shim ---"; cat "$HOME/shim/clang"
+
       - name: Build dependencies
         working-directory: engine/macos/Dependencies
         run: ./setup.sh
