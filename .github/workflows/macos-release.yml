@@ -131,6 +131,13 @@ jobs:
 
       - name: Build dependencies
         working-directory: engine/macos/Dependencies
+        # CMake 4 removed compatibility with cmake_minimum_required(<3.5), and
+        # every CMake-based dependency here predates that - physfs asks for 3.0.
+        # CMake reads this as an environment variable, so one setting covers the
+        # lot instead of patching each CMakeLists in turn. It is exactly what
+        # CMake's own error message suggests.
+        env:
+          CMAKE_POLICY_VERSION_MINIMUM: "3.5"
         run: ./setup.sh
 
       - name: Build the app
