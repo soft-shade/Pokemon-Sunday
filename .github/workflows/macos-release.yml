@@ -65,59 +65,67 @@ jobs:
         working-directory: engine/macos/Dependencies
         run: brew bundle
 
-      # libvorbis's 2013-era build passes -force_cpusubtype_ALL, a flag Apple's
-      # linker dropped years ago; on Xcode 26 it is a hard error and the whole
-      # dependency build dies at libvorbis.a. It is a no-op on anything this
-      # century, so it gets filtered in a compiler shim rather than by patching
-      # makefiles the dependency build regenerates anyway.
+      # Three separate ways a 2013 codebase meets a 2026 toolchain, all
+      # handled by putting a shim ahead of the compiler on PATH:
+      #
+      #  * -force_cpusubtype_ALL: libvorbis has passed it since the PowerPC
+      #    days and Apple's linker no longer knows it. Dropped.
+      #  * warnings clang 16 promoted to errors by default. Put back to
+      #    warnings - this is the severity all of these libraries were written,
+      #    tested and shipped against, and the alternative is patching Ruby.
+      #  * clang 21 defaults to -std=gnu23, and C23 removed declarations
+      #    without prototypes. Ruby 3.1's dln.c and error.c still use them, so
+      #    C compiles are pinned to gnu17 unless the build asked for a standard
+      #    itself. Only the C shims do this: -std=gnu17 is not valid for C++.
       #
       # Written with quoted echoes rather than a heredoc: a heredoc inside a
       # shell function produced an empty file here, and an empty but executable
       # "clang" fails as "C compiler cannot create executables", which points
-      # nowhere near the actual cause. The self-test at the end is so that a
-      # broken shim announces itself instead of being diagnosed twice.
+      # nowhere near the cause. The self-test is so a broken shim says so here
+      # rather than being diagnosed twice, three steps later.
       - name: Shim the compiler for a 2013 codebase
         run: |
           mkdir -p "$HOME/shim"
-          # /usr/bin/clang, not the toolchain-internal binary xcrun -f reports.
-          # The former resolves the SDK; the latter does not, and linking then
-          # fails with "library 'System' not found".
-          for pair in "clang:/usr/bin/clang" "cc:/usr/bin/clang"                       "clang++:/usr/bin/clang++" "c++:/usr/bin/clang++"; do
-            name="${pair%%:*}"; real="${pair#*:}"
+          # /usr/bin/clang, not the toolchain binary xcrun -f reports: the
+          # former resolves the SDK, the latter does not and linking then fails
+          # with "library 'System' not found".
+          for spec in "clang:/usr/bin/clang:c" "cc:/usr/bin/clang:c"                       "clang++:/usr/bin/clang++:cxx" "c++:/usr/bin/clang++:cxx"; do
+            name="${spec%%:*}"; rest="${spec#*:}"
+            real="${rest%%:*}"; lang="${rest#*:}"
             {
               echo '#!/bin/bash'
               echo 'args=()'
               echo 'compiling=0'
+              echo 'has_std=0'
               echo 'for a in "$@"; do'
               echo '  [ "$a" = "-force_cpusubtype_ALL" ] && continue'
               echo '  [ "$a" = "-c" ] && compiling=1'
+              echo '  case "$a" in -std=*) has_std=1;; esac'
               echo '  args+=("$a")'
               echo 'done'
-              echo '# Diagnostics clang promoted to errors by default in 16+,'
-              echo '# put back to warnings. Not silencing real problems: this is'
-              echo '# the severity every one of these libraries was written and'
-              echo '# shipped against. SDL2 makes declaration-after-statement an'
-              echo '# error itself to stay C89-clean; the other three are Ruby'
-              echo '# and friends relying on pre-C23 implicit conversions.'
-              echo '# Compile only, so a link line collects no unused-argument'
-              echo '# warning that something further along treats as fatal.'
               echo 'if [ "$compiling" = 1 ]; then'
               echo '  args+=(-Wno-error=declaration-after-statement)'
               echo '  args+=(-Wno-error=incompatible-function-pointer-types)'
               echo '  args+=(-Wno-error=implicit-function-declaration)'
               echo '  args+=(-Wno-error=int-conversion)'
+              if [ "$lang" = c ]; then
+                echo '  [ "$has_std" = 0 ] && args+=(-std=gnu17)'
+              fi
               echo 'fi'
               echo "exec \"$real\" \"\${args[@]}\""
             } > "$HOME/shim/$name"
             chmod +x "$HOME/shim/$name"
           done
-          echo "--- generated shim ---"
+          echo "--- generated shim (clang) ---"
           cat "$HOME/shim/clang"
           echo "--- self-test ---"
           "$HOME/shim/clang" --version | head -1
-          echo 'int main(void){return 0;}' > /tmp/t.c
-          "$HOME/shim/clang" -force_cpusubtype_ALL -o /tmp/t /tmp/t.c
-          echo "compiled and linked with the flag present: OK"
+          echo 'char *getenv(); int main(void){return 0;}' > /tmp/t.c
+          "$HOME/shim/clang" -c -force_cpusubtype_ALL -o /tmp/t.o /tmp/t.c
+          "$HOME/shim/clang" -force_cpusubtype_ALL -o /tmp/t /tmp/t.o
+          echo 'int main(){return 0;}' > /tmp/t.cpp
+          "$HOME/shim/clang++" -c -o /tmp/tpp.o /tmp/t.cpp
+          echo "C with an unprototyped getenv, and C++, both build: OK"
           echo "$HOME/shim" >> "$GITHUB_PATH"
 
       # libpng takes a Classic Mac OS branch on any SDK that defines
