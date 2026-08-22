@@ -79,7 +79,10 @@ jobs:
       - name: Shim out an obsolete linker flag
         run: |
           mkdir -p "$HOME/shim"
-          for pair in "clang:$(xcrun -f clang)" "cc:$(xcrun -f clang)"                       "clang++:$(xcrun -f clang++)" "c++:$(xcrun -f clang++)"; do
+          # /usr/bin/clang, not the toolchain-internal binary xcrun -f reports.
+          # The former resolves the SDK; the latter does not, and linking then
+          # fails with "library 'System' not found".
+          for pair in "clang:/usr/bin/clang" "cc:/usr/bin/clang"                       "clang++:/usr/bin/clang++" "c++:/usr/bin/clang++"; do
             name="${pair%%:*}"; real="${pair#*:}"
             {
               echo '#!/bin/bash'
