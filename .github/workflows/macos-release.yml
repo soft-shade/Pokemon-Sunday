@@ -76,7 +76,7 @@ jobs:
       # "clang" fails as "C compiler cannot create executables", which points
       # nowhere near the actual cause. The self-test at the end is so that a
       # broken shim announces itself instead of being diagnosed twice.
-      - name: Shim out an obsolete linker flag
+      - name: Shim the compiler for a 2013 codebase
         run: |
           mkdir -p "$HOME/shim"
           # /usr/bin/clang, not the toolchain-internal binary xcrun -f reports.
@@ -87,10 +87,20 @@ jobs:
             {
               echo '#!/bin/bash'
               echo 'args=()'
+              echo 'compiling=0'
               echo 'for a in "$@"; do'
               echo '  [ "$a" = "-force_cpusubtype_ALL" ] && continue'
+              echo '  [ "$a" = "-c" ] && compiling=1'
               echo '  args+=("$a")'
               echo 'done'
+              echo '# SDL2 of this vintage promotes -Wdeclaration-after-statement'
+              echo '# to an error; its own Cocoa sources trip it on modern clang.'
+              echo '# Only added when compiling, so a link line does not collect'
+              echo '# an unused-argument warning that something else treats as'
+              echo '# fatal.'
+              echo 'if [ "$compiling" = 1 ]; then'
+              echo '  args+=(-Wno-error=declaration-after-statement)'
+              echo 'fi'
               echo "exec \"$real\" \"\${args[@]}\""
             } > "$HOME/shim/$name"
             chmod +x "$HOME/shim/$name"
