@@ -1,0 +1,116 @@
+# Build the macOS launcher on GitHub's Mac runners.
+#
+# This lives in the public release repository because macOS runners are free
+# there and billed at ten times the normal rate on a private one - an mkxp-z
+# build is long enough that the difference is the whole free allowance.
+#
+# Canonical copy is tools/macos-release.yml in the dev repo; the release build
+# installs it here, so edit it there.
+#
+# Run it from the Actions tab, or:
+#   gh workflow run macos-release.yml --repo soft-shade/Pokemon-Sunday
+name: macOS launcher
+
+on:
+  workflow_dispatch:
+    inputs:
+      engine_ref:
+        description: "mkxp-z commit to build"
+        default: "c9378cfaba06e0b299a1bfd4197f62da018693da"
+      runner:
+        description: "Runner image (try macos-14 if latest fails)"
+        default: "macos-latest"
+
+jobs:
+  build:
+    name: Build and bundle
+    runs-on: ${{ github.event.inputs.runner || 'macos-latest' }}
+    timeout-minutes: 180
+
+    steps:
+      # The game itself. This repo is the play tree, so a plain checkout is
+      # exactly what belongs inside the bundle.
+      - name: Check out the game
+        uses: actions/checkout@v4
+        with:
+          path: game
+
+      # Pinned, not the default branch. dev is hundreds of commits ahead and
+      # its hi-res "mega surface" work renders every line of text in the game
+      # as its top half only - the title screen looks perfect and every menu is
+      # unreadable. Essentials names the commit it expects on startup.
+      - name: Check out mkxp-z at the pinned commit
+        uses: actions/checkout@v4
+        with:
+          repository: mkxp-z/mkxp-z
+          ref: ${{ github.event.inputs.engine_ref || 'c9378cfaba06e0b299a1bfd4197f62da018693da' }}
+          path: engine
+
+      # The runner ships a large brew set whose headers get picked up ahead of
+      # the ones the dependency build makes. Upstream's own workflow clears it.
+      - name: Clear pre-installed homebrew packages
+        run: brew remove --force $(brew list) || true
+
+      - name: Cache the dependency build
+        uses: actions/cache@v4
+        with:
+          path: |
+            engine/macos/Dependencies/build-macosx-x86_64
+            engine/macos/Dependencies/build-macosx-arm64
+            engine/macos/Dependencies/build-macosx-universal
+            engine/macos/Dependencies/downloads
+          key: mkxpz-${{ inputs.engine_ref }}-${{ hashFiles('engine/macos/Dependencies/*.make', 'engine/macos/Dependencies/*.sh') }}
+
+      - name: Install homebrew tools
+        working-directory: engine/macos/Dependencies
+        run: brew bundle
+
+      - name: Build dependencies
+        working-directory: engine/macos/Dependencies
+        run: ./setup.sh
+
+      - name: Build the app
+        working-directory: engine/macos
+        run: |
+          xcodebuild -project mkxp-z.xcodeproj \
+                     -configuration Release \
+                     -scheme Universal \
+                     -derivedDataPath "$GITHUB_WORKSPACE/build"
+
+      - name: Confirm it is universal
+        run: |
+          APP="$GITHUB_WORKSPACE/build/Build/Products/Release/Z-universal.app"
+          BIN=$(ls "$APP/Contents/MacOS/" | head -1)
+          echo "binary: $BIN"
+          lipo -archs "$APP/Contents/MacOS/$BIN"
+
+      # Contents/Game is compiled into the engine, not a convention: the Apple
+      # filesystem layer defines the game root as <bundle>/Contents/Game and
+      # chdirs into it before reading any config, so the name is not adjustable.
+      - name: Put the game inside the bundle
+        run: |
+          APP="$GITHUB_WORKSPACE/build/Build/Products/Release/Z-universal.app"
+          mkdir -p "$APP/Contents/Game"
+          rsync -a --exclude '.git' --exclude '.github' \
+                   --exclude '*.exe' --exclude '*.dll' \
+                   --exclude 'README.md' --exclude '.gitattributes' \
+                   --exclude '.gitignore' \
+                   game/ "$APP/Contents/Game/"
+          echo "bundled:"; ls "$APP/Contents/Game" | head -20
+
+      - name: Name it and compress it
+        run: |
+          cd "$GITHUB_WORKSPACE/build/Build/Products/Release"
+          mv Z-universal.app "Pokemon Sunday (macOS).app"
+          # ditto, not zip: it keeps the bundle's symlinks and permission bits,
+          # and a .app that loses either does not launch.
+          ditto -c -k --sequesterRsrc --keepParent \
+                "Pokemon Sunday (macOS).app" "Pokemon Sunday (macOS).zip"
+          ls -lh "Pokemon Sunday (macOS).zip"
+
+      - name: Upload
+        uses: actions/upload-artifact@v4
+        with:
+          name: Pokemon Sunday (macOS)
+          path: build/Build/Products/Release/Pokemon Sunday (macOS).zip
+          if-no-files-found: error
