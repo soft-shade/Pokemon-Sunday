@@ -96,10 +96,16 @@ jobs:
               echo '#!/bin/bash'
               echo 'args=()'
               echo 'compiling=0'
+              echo 'has_src=0'
               echo 'has_std=0'
               echo 'for a in "$@"; do'
               echo '  [ "$a" = "-force_cpusubtype_ALL" ] && continue'
               echo '  [ "$a" = "-c" ] && compiling=1'
+              echo '  # mkmf compiles and links in one command, with no -c, so'
+              echo '  # keying off -c alone left its probes on the C23 default'
+              echo '  # and every one of them failed against ruby.h. Any source'
+              echo '  # file on the line means this is a compile.'
+              echo '  case "$a" in *.c|*.m|*.mm|*.cc|*.cpp|*.cxx) has_src=1;; esac'
               echo '  # A build that asked for C23 did not mean to: configure'
               echo '  # probes the compiler and records whatever it defaults to.'
               echo '  # Rewrite C23 only - a deliberate -std=c99 is left alone.'
@@ -110,7 +116,7 @@ jobs:
               echo '  case "$a" in -std=*) has_std=1;; esac'
               echo '  args+=("$a")'
               echo 'done'
-              echo 'if [ "$compiling" = 1 ]; then'
+              echo 'if [ "$compiling" = 1 ] || [ "$has_src" = 1 ]; then'
               echo '  args+=(-Wno-error=declaration-after-statement)'
               echo '  args+=(-Wno-error=incompatible-function-pointer-types)'
               echo '  args+=(-Wno-error=implicit-function-declaration)'
@@ -134,7 +140,11 @@ jobs:
           "$HOME/shim/clang++" -c -o /tmp/tpp.o /tmp/t.cpp
           echo 'char *getenv(); int main(void){return 0;}' > /tmp/t23.c
           "$HOME/shim/clang" -c -std=gnu23 -o /tmp/t23.o /tmp/t23.c
-          echo "C with an unprototyped getenv, -std=gnu23 rewritten, and C++: OK"
+          # mkmf's shape: compile and link together, with -Werror, including a
+          # declaration C23 rejects. This is what rbs's extconf does.
+          echo 'char *getenv(); int main(void){return 0;}' > /tmp/tm.c
+          "$HOME/shim/clang" -Werror -std=gnu23 -o /tmp/tm /tmp/tm.c
+          echo "C, C23 rewritten, mkmf-style one-step -Werror build, and C++: OK"
           echo "$HOME/shim" >> "$GITHUB_PATH"
 
       # Two sources are fetched ahead of the dependency build, because make
