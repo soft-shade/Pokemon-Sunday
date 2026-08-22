@@ -104,6 +104,31 @@ jobs:
           echo "compiled and linked with the flag present: OK"
           echo "$HOME/shim" >> "$GITHUB_PATH"
 
+      # libpng takes a Classic Mac OS branch on any SDK that defines
+      # TARGET_OS_MAC, and tries to include <fp.h> - a header that left with
+      # Mac OS 9. Modern SDKs do define it, so the build dies at png.lo.
+      #
+      # Patched at source rather than worked around in flags, because the
+      # alternative is forcing math.h ahead of every translation unit in every
+      # dependency to satisfy one guard. The dependency Makefile only clones
+      # libpng when configure is absent, so pre-cloning and patching means it
+      # picks up the fixed tree and never fetches its own. Idempotent, which
+      # matters because the download cache can restore an already-patched tree.
+      - name: Pre-clone and patch libpng
+        working-directory: engine/macos/Dependencies
+        run: |
+          for host in aarch64-apple-darwin x86_64-apple-darwin; do
+            dir="downloads/$host/libpng"
+            mkdir -p "downloads/$host"
+            [ -d "$dir/.git" ] || git clone -q https://github.com/mkxp-z/libpng "$dir"
+            perl -pi -e 's/\s*\|\|\s*defined\(TARGET_OS_MAC\)//' "$dir/pngpriv.h"
+            if grep -q 'TARGET_OS_MAC' "$dir/pngpriv.h"; then
+              echo "FAILED to patch $dir/pngpriv.h"; exit 1
+            fi
+            echo "patched $dir/pngpriv.h"
+            grep -n 'include <fp.h>' -B3 "$dir/pngpriv.h" | head -5
+          done
+
       - name: Build dependencies
         working-directory: engine/macos/Dependencies
         run: ./setup.sh
