@@ -70,29 +70,36 @@ jobs:
       # dependency build dies at libvorbis.a. It is a no-op on anything this
       # century, so it gets filtered in a compiler shim rather than by patching
       # makefiles the dependency build regenerates anyway.
+      #
+      # Written with quoted echoes rather than a heredoc: a heredoc inside a
+      # shell function produced an empty file here, and an empty but executable
+      # "clang" fails as "C compiler cannot create executables", which points
+      # nowhere near the actual cause. The self-test at the end is so that a
+      # broken shim announces itself instead of being diagnosed twice.
       - name: Shim out an obsolete linker flag
         run: |
-          REAL_CC="$(xcrun -f clang)"
-          REAL_CXX="$(xcrun -f clang++)"
           mkdir -p "$HOME/shim"
-          write_shim() {
-            cat > "$HOME/shim/$1" <<SH
-          #!/bin/bash
-          args=()
-          for a in "\$@"; do
-            [ "\$a" = "-force_cpusubtype_ALL" ] && continue
-            args+=("\$a")
+          for pair in "clang:$(xcrun -f clang)" "cc:$(xcrun -f clang)"                       "clang++:$(xcrun -f clang++)" "c++:$(xcrun -f clang++)"; do
+            name="${pair%%:*}"; real="${pair#*:}"
+            {
+              echo '#!/bin/bash'
+              echo 'args=()'
+              echo 'for a in "$@"; do'
+              echo '  [ "$a" = "-force_cpusubtype_ALL" ] && continue'
+              echo '  args+=("$a")'
+              echo 'done'
+              echo "exec \"$real\" \"\${args[@]}\""
+            } > "$HOME/shim/$name"
+            chmod +x "$HOME/shim/$name"
           done
-          exec "$2" "\${args[@]}"
-          SH
-            chmod +x "$HOME/shim/$1"
-          }
-          write_shim clang   "$REAL_CC"
-          write_shim cc      "$REAL_CC"
-          write_shim clang++ "$REAL_CXX"
-          write_shim c++     "$REAL_CXX"
+          echo "--- generated shim ---"
+          cat "$HOME/shim/clang"
+          echo "--- self-test ---"
+          "$HOME/shim/clang" --version | head -1
+          echo 'int main(void){return 0;}' > /tmp/t.c
+          "$HOME/shim/clang" -force_cpusubtype_ALL -o /tmp/t /tmp/t.c
+          echo "compiled and linked with the flag present: OK"
           echo "$HOME/shim" >> "$GITHUB_PATH"
-          echo "--- shim ---"; cat "$HOME/shim/clang"
 
       - name: Build dependencies
         working-directory: engine/macos/Dependencies
