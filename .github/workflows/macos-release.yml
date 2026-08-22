@@ -137,29 +137,46 @@ jobs:
           echo "C with an unprototyped getenv, -std=gnu23 rewritten, and C++: OK"
           echo "$HOME/shim" >> "$GITHUB_PATH"
 
-      # libpng takes a Classic Mac OS branch on any SDK that defines
-      # TARGET_OS_MAC, and tries to include <fp.h> - a header that left with
-      # Mac OS 9. Modern SDKs do define it, so the build dies at png.lo.
+      # Two sources are fetched ahead of the dependency build, because make
+      # only clones each when its configure script is missing - so putting a
+      # prepared tree in place means it adopts ours and never fetches its own.
       #
-      # Patched at source rather than worked around in flags, because the
-      # alternative is forcing math.h ahead of every translation unit in every
-      # dependency to satisfy one guard. The dependency Makefile only clones
-      # libpng when configure is absent, so pre-cloning and patching means it
-      # picks up the fixed tree and never fetches its own. Idempotent, which
-      # matters because the download cache can restore an already-patched tree.
-      - name: Pre-clone and patch libpng
+      #  libpng  takes a Classic Mac OS branch on any SDK defining
+      #          TARGET_OS_MAC and tries to include <fp.h>, a header that left
+      #          with Mac OS 9. Patched to fall through to math.h as intended.
+      #
+      #  openssl is pinned to the tag the dependency Makefile means to use.
+      #          Its clone line reads:
+      #
+      #            git clone -q https://github.com/openssl/openssl $(DOWNLOADS)/openssl;       #            cd $(DOWNLOADS)/openssl --single-branch --branch OpenSSL_1_1_1i --depth 1
+      #
+      #          The branch flags are on the cd, not the clone, so it takes
+      #          openssl's default branch instead of the tag. That was close
+      #          enough in 2023 and is OpenSSL 4.1 now, which Ruby 3.1's
+      #          bundled extension cannot build against - ASN1_STRING and
+      #          friends became opaque. Cloning the intended tag is what the
+      #          line was written to do.
+      #
+      # Both are idempotent: the download cache can hand back a prepared tree.
+      - name: Pre-clone the sources the build gets wrong
         working-directory: engine/macos/Dependencies
         run: |
           for host in aarch64-apple-darwin x86_64-apple-darwin; do
-            dir="downloads/$host/libpng"
             mkdir -p "downloads/$host"
+
+            dir="downloads/$host/libpng"
             [ -d "$dir/.git" ] || git clone -q https://github.com/mkxp-z/libpng "$dir"
             perl -pi -e 's/\s*\|\|\s*defined\(TARGET_OS_MAC\)//' "$dir/pngpriv.h"
             if grep -q 'TARGET_OS_MAC' "$dir/pngpriv.h"; then
               echo "FAILED to patch $dir/pngpriv.h"; exit 1
             fi
-            echo "patched $dir/pngpriv.h"
-            grep -n 'include <fp.h>' -B3 "$dir/pngpriv.h" | head -5
+            echo "libpng  ready in $dir"
+
+            ssl="downloads/$host/openssl"
+            if [ ! -d "$ssl/.git" ]; then
+              git clone -q --depth 1 --branch OpenSSL_1_1_1i                   https://github.com/openssl/openssl "$ssl"
+            fi
+            echo "openssl ready in $ssl ($(cd "$ssl" && git describe --tags 2>/dev/null || echo unknown))"
           done
 
       - name: Build dependencies
