@@ -246,6 +246,7 @@ jobs:
           mkdir -p "$APP/Contents/Game"
           rsync -a --exclude '.git' --exclude '.github' \
                    --exclude '*.exe' --exclude '*.dll' \
+                   --exclude 'Pokemon Sunday (Linux)' \
                    --exclude 'README.md' --exclude '.gitattributes' \
                    --exclude '.gitignore' \
                    game/ "$APP/Contents/Game/"
