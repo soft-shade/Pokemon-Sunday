@@ -267,6 +267,11 @@ jobs:
         run: |
           cd "$GITHUB_WORKSPACE/build/Build/Products/Release"
           mv Z-universal.app "Pokemon Sunday (macOS).app"
+          # The Xcode project ships a stub Contents/Game holding mkxp-z's own
+          # default mkxp.json. Nothing reads it now that the game root is the
+          # bundle's parent, and leaving it invites someone to edit a config
+          # that has no effect. Removed so the bundle holds only the engine.
+          rm -rf "Pokemon Sunday (macOS).app/Contents/Game"
           du -sh "Pokemon Sunday (macOS).app"
           # ditto, not zip: it keeps the bundle's symlinks and permission bits,
           # and a .app that loses either does not launch.
