@@ -256,9 +256,21 @@ jobs:
           p = "engine/src/filesystem/filesystemImplApple.mm"
           s = io.open(p).read()
 
+          # SecTranslocate lives in the Security framework but its header is
+          # not in the public SDK, so the two calls are declared here instead.
+          # weak_import: on an OS without them the pointers are null and the
+          # check below simply skips, rather than the app failing to launch.
+          decl = [
+              'extern "C" {',
+              'Boolean SecTranslocateIsTranslocatedURL(CFURLRef path, bool *isTranslocated,',
+              '                                        CFErrorRef *error) __attribute__((weak_import));',
+              'CFURLRef SecTranslocateCreateOriginalPathForURL(CFURLRef translocatedPath,',
+              '                                                CFErrorRef *error) __attribute__((weak_import));',
+              '}',
+          ]
           imp = '#import "util/exception.h"'
           assert imp in s, "import anchor not found"
-          s = s.replace(imp, imp + chr(10) + '#import <Security/SecTranslocate.h>', 1)
+          s = s.replace(imp, imp + chr(10) + chr(10) + chr(10).join(decl), 1)
 
           old = '    NSString *p = [NSString stringWithFormat: @"%@/%s", NSBundle.mainBundle.bundlePath, "Contents/Game"];'
           new = """    NSString *bundle = NSBundle.mainBundle.bundlePath;
@@ -268,8 +280,10 @@ jobs:
               // beside us is a temp directory with no game in it.
               NSURL *url = NSBundle.mainBundle.bundleURL;
               bool translocated = false;
-              if (SecTranslocateIsTranslocatedURL((__bridge CFURLRef)url, &translocated, NULL)
-                  && translocated) {
+              if (SecTranslocateIsTranslocatedURL != NULL &&
+                  SecTranslocateCreateOriginalPathForURL != NULL &&
+                  SecTranslocateIsTranslocatedURL((__bridge CFURLRef)url, &translocated, NULL) &&
+                  translocated) {
                   CFURLRef real = SecTranslocateCreateOriginalPathForURL((__bridge CFURLRef)url, NULL);
                   if (real) {
                       bundle = [(__bridge_transfer NSURL *)real path];
