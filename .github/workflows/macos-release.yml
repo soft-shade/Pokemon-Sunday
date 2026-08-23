@@ -232,30 +232,50 @@ jobs:
           CMAKE_POLICY_VERSION_MINIMUM: "3.5"
         run: ./setup.sh
 
-      # The engine hardcodes its game root as <bundle>/Contents/Game and chdirs
-      # there before reading any config, which is why a Mac build normally
-      # swallows a second copy of the whole game. It now prefers the folder the
+      # Where the Mac app looks for the game.
+      #
+      # Stock mkxp-z uses <bundle>/Contents/Game, which means a Mac build
+      # carries a second copy of the whole game. It now prefers the folder the
       # app sits in, so one copy in the repo serves all three launchers.
       #
-      # It only prefers it when Game.ini is actually there, and falls back to
-      # Contents/Game otherwise. Two reasons that matters. An app run on its own
-      # - out of a CI artifact, say - then still behaves the way an unmodified
-      # mkxp-z would rather than failing with "no script file specified" and no
-      # hint as to why. And macOS App Translocation runs a quarantined app from
-      # a randomised read-only path, where the folder beside it is not the one
-      # the player is looking at; falling back is better than reading a
-      # directory that has nothing to do with the game.
+      # The catch, found the hard way: macOS App Translocation. Double-click a
+      # quarantined app and macOS runs it from a randomised read-only copy, so
+      # the folder "beside" it is a temp directory with no game in it - the app
+      # opens, finds no Game.ini, and reports no script file. Running the binary
+      # from Terminal works, because that path skips translocation, which is
+      # exactly how this was pinned down.
       #
-      # stringByDeletingLastPathComponent rather than appending "..", so the
-      # path that reaches chdir and PhysicsFS has no traversal in it.
-      - name: Read the game from beside the app, not inside it
+      # SecTranslocate answers where the app really lives, so the game is found
+      # whether or not macOS moved us. Falls back to Contents/Game if there is
+      # no game beside the app at all, so a bundle used on its own still behaves
+      # the way an unmodified mkxp-z would.
+      - name: Find the game beside the app, even when macOS hides it
         run: |
           python3 - <<'PATCH'
           import io
           p = "engine/src/filesystem/filesystemImplApple.mm"
           s = io.open(p).read()
+
+          imp = '#import "util/exception.h"'
+          assert imp in s, "import anchor not found"
+          s = s.replace(imp, imp + chr(10) + '#import <Security/SecTranslocate.h>', 1)
+
           old = '    NSString *p = [NSString stringWithFormat: @"%@/%s", NSBundle.mainBundle.bundlePath, "Contents/Game"];'
           new = """    NSString *bundle = NSBundle.mainBundle.bundlePath;
+
+              // App Translocation runs a quarantined app from a randomised
+              // read-only copy. Ask where it actually lives, or the folder
+              // beside us is a temp directory with no game in it.
+              NSURL *url = NSBundle.mainBundle.bundleURL;
+              bool translocated = false;
+              if (SecTranslocateIsTranslocatedURL((__bridge CFURLRef)url, &translocated, NULL)
+                  && translocated) {
+                  CFURLRef real = SecTranslocateCreateOriginalPathForURL((__bridge CFURLRef)url, NULL);
+                  if (real) {
+                      bundle = [(__bridge_transfer NSURL *)real path];
+                  }
+              }
+
               NSString *beside = [bundle stringByDeletingLastPathComponent];
               NSString *inside = [bundle stringByAppendingPathComponent: @"Contents/Game"];
               BOOL besideHasGame = [NSFileManager.defaultManager fileExistsAtPath:
@@ -265,7 +285,7 @@ jobs:
           io.open(p, "w").write(s.replace(old, new, 1))
           print("patched")
           PATCH
-          sed -n '55,62p' engine/src/filesystem/filesystemImplApple.mm
+          sed -n '/getDefaultGameRoot/,/^}/p' engine/src/filesystem/filesystemImplApple.mm
 
       - name: Build the app
         working-directory: engine/macos
@@ -273,7 +293,8 @@ jobs:
           xcodebuild -project mkxp-z.xcodeproj \
                      -configuration Release \
                      -scheme Universal \
-                     -derivedDataPath "$GITHUB_WORKSPACE/build"
+                     -derivedDataPath "$GITHUB_WORKSPACE/build" \
+                     OTHER_LDFLAGS='$(inherited) -framework Security'
 
       - name: Confirm it is universal
         run: |
