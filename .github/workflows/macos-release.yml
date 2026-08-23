@@ -234,19 +234,38 @@ jobs:
 
       # The engine hardcodes its game root as <bundle>/Contents/Game and chdirs
       # there before reading any config, which is why a Mac build normally
-      # swallows the whole game. Pointed at the bundle's parent instead, so the
-      # app sits beside Data/ and Graphics/ and reads them exactly the way the
-      # Windows and Linux launchers do - one copy of the game in the repo,
-      # shared by all three, rather than a second copy inside the bundle.
+      # swallows a second copy of the whole game. It now prefers the folder the
+      # app sits in, so one copy in the repo serves all three launchers.
+      #
+      # It only prefers it when Game.ini is actually there, and falls back to
+      # Contents/Game otherwise. Two reasons that matters. An app run on its own
+      # - out of a CI artifact, say - then still behaves the way an unmodified
+      # mkxp-z would rather than failing with "no script file specified" and no
+      # hint as to why. And macOS App Translocation runs a quarantined app from
+      # a randomised read-only path, where the folder beside it is not the one
+      # the player is looking at; falling back is better than reading a
+      # directory that has nothing to do with the game.
+      #
+      # stringByDeletingLastPathComponent rather than appending "..", so the
+      # path that reaches chdir and PhysicsFS has no traversal in it.
       - name: Read the game from beside the app, not inside it
         run: |
-          f=engine/src/filesystem/filesystemImplApple.mm
-          perl -pi -e 's{"Contents/Game"}{".."}' "$f"
-          grep -n 'bundlePath' "$f" | head -3
-          if grep -q '"Contents/Game"' "$f"; then
-            echo "patch did not apply"; exit 1
-          fi
-          echo "game root now resolves to the bundle's parent"
+          python3 - <<'PATCH'
+          import io
+          p = "engine/src/filesystem/filesystemImplApple.mm"
+          s = io.open(p).read()
+          old = '    NSString *p = [NSString stringWithFormat: @"%@/%s", NSBundle.mainBundle.bundlePath, "Contents/Game"];'
+          new = """    NSString *bundle = NSBundle.mainBundle.bundlePath;
+              NSString *beside = [bundle stringByDeletingLastPathComponent];
+              NSString *inside = [bundle stringByAppendingPathComponent: @"Contents/Game"];
+              BOOL besideHasGame = [NSFileManager.defaultManager fileExistsAtPath:
+                                    [beside stringByAppendingPathComponent: @"Game.ini"]];
+              NSString *p = besideHasGame ? beside : inside;"""
+          assert old in s, "the line to patch was not found"
+          io.open(p, "w").write(s.replace(old, new, 1))
+          print("patched")
+          PATCH
+          sed -n '55,62p' engine/src/filesystem/filesystemImplApple.mm
 
       - name: Build the app
         working-directory: engine/macos
@@ -279,12 +298,10 @@ jobs:
                 "Pokemon Sunday (macOS).app" "Pokemon Sunday (macOS).zip"
           ls -lh "Pokemon Sunday (macOS).zip"
 
-      - name: Upload
-        uses: actions/upload-artifact@v4
-        with:
-          name: Pokemon Sunday (macOS)
-          path: build/Build/Products/Release/Pokemon Sunday (macOS).zip
-          if-no-files-found: error
+      # No artifact upload. The launcher goes into the repo, where the game is,
+      # and an engine-only bundle offered as a download is a trap: it runs, then
+      # reports "no script file has been specified" because there is no game
+      # beside it. That already cost somebody an evening.
 
       # Committed from the runner because it has to be. A .app is a tree of
       # symlinks and executable bits, and checking one out on Windows turns the
