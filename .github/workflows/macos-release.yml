@@ -20,6 +20,12 @@ on:
       runner:
         description: "Runner image (try macos-14 if latest fails)"
         default: "macos-latest"
+      publish:
+        description: "Commit the launcher into the repo (false to only upload)"
+        default: "true"
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -34,6 +40,10 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: game
+          # On a branch, not the detached HEAD checkout defaults to: the
+          # launcher is committed back here and a detached HEAD has nowhere
+          # to push to.
+          ref: ${{ github.ref_name }}
 
       # Pinned, not the default branch. dev is hundreds of commits ahead and
       # its hi-res "mega surface" work renders every line of text in the game
@@ -222,6 +232,22 @@ jobs:
           CMAKE_POLICY_VERSION_MINIMUM: "3.5"
         run: ./setup.sh
 
+      # The engine hardcodes its game root as <bundle>/Contents/Game and chdirs
+      # there before reading any config, which is why a Mac build normally
+      # swallows the whole game. Pointed at the bundle's parent instead, so the
+      # app sits beside Data/ and Graphics/ and reads them exactly the way the
+      # Windows and Linux launchers do - one copy of the game in the repo,
+      # shared by all three, rather than a second copy inside the bundle.
+      - name: Read the game from beside the app, not inside it
+        run: |
+          f=engine/src/filesystem/filesystemImplApple.mm
+          perl -pi -e 's{"Contents/Game"}{".."}' "$f"
+          grep -n 'bundlePath' "$f" | head -3
+          if grep -q '"Contents/Game"' "$f"; then
+            echo "patch did not apply"; exit 1
+          fi
+          echo "game root now resolves to the bundle's parent"
+
       - name: Build the app
         working-directory: engine/macos
         run: |
@@ -237,25 +263,11 @@ jobs:
           echo "binary: $BIN"
           lipo -archs "$APP/Contents/MacOS/$BIN"
 
-      # Contents/Game is compiled into the engine, not a convention: the Apple
-      # filesystem layer defines the game root as <bundle>/Contents/Game and
-      # chdirs into it before reading any config, so the name is not adjustable.
-      - name: Put the game inside the bundle
-        run: |
-          APP="$GITHUB_WORKSPACE/build/Build/Products/Release/Z-universal.app"
-          mkdir -p "$APP/Contents/Game"
-          rsync -a --exclude '.git' --exclude '.github' \
-                   --exclude '*.exe' --exclude '*.dll' \
-                   --exclude 'Pokemon Sunday (Linux)' \
-                   --exclude 'README.md' --exclude '.gitattributes' \
-                   --exclude '.gitignore' \
-                   game/ "$APP/Contents/Game/"
-          echo "bundled:"; ls "$APP/Contents/Game" | head -20
-
       - name: Name it and compress it
         run: |
           cd "$GITHUB_WORKSPACE/build/Build/Products/Release"
           mv Z-universal.app "Pokemon Sunday (macOS).app"
+          du -sh "Pokemon Sunday (macOS).app"
           # ditto, not zip: it keeps the bundle's symlinks and permission bits,
           # and a .app that loses either does not launch.
           ditto -c -k --sequesterRsrc --keepParent \
@@ -268,3 +280,29 @@ jobs:
           name: Pokemon Sunday (macOS)
           path: build/Build/Products/Release/Pokemon Sunday (macOS).zip
           if-no-files-found: error
+
+      # Committed from the runner because it has to be. A .app is a tree of
+      # symlinks and executable bits, and checking one out on Windows turns the
+      # links into text files and drops the bits, so a bundle committed from
+      # there would not launch. macOS keeps both, so the machine that built it
+      # is the machine that files it.
+      - name: Commit the launcher to the repo
+        if: ${{ github.event.inputs.publish != 'false' }}
+        working-directory: game
+        run: |
+          APP="$GITHUB_WORKSPACE/build/Build/Products/Release/Pokemon Sunday (macOS).app"
+          rm -rf "Pokemon Sunday (macOS).app"
+          cp -a "$APP" "Pokemon Sunday (macOS).app"
+          git config user.name  "macOS launcher build"
+          git config user.email "actions@github.com"
+          git add -A "Pokemon Sunday (macOS).app"
+          if git diff --cached --quiet; then
+            echo "launcher unchanged"
+            exit 0
+          fi
+          git commit -q -m "macOS launcher, built from mkxp-z ${ENGINE_REF:0:7}"
+          git pull --rebase -q
+          git push
+          echo "committed and pushed"
+        env:
+          ENGINE_REF: ${{ github.event.inputs.engine_ref || 'c9378cfaba06e0b299a1bfd4197f62da018693da' }}

@@ -14,7 +14,19 @@ lives separately.
 Windows only for now.
 
 **Just want to play:** click the green **Code** button above, then
-**Download ZIP**. Unzip it anywhere and run **Pokémon Sunday (Windows).exe**.
+**Download ZIP**, and unzip it. Then run the launcher for your system, all
+three of which sit in the folder beside the game:
+
+| | |
+|---|---|
+| Windows | **Pokémon Sunday (Windows).exe** |
+| Linux | **Pokemon Sunday (Linux)** |
+| macOS | **Pokemon Sunday (macOS).app** |
+
+**macOS, first run only.** The app is not signed, so macOS refuses it and says
+it is damaged. It is not. Open **System Settings → Privacy & Security**, scroll
+to the bottom and press **Open Anyway**. Also move the folder somewhere other
+than Downloads first — the app deliberately will not start from there.
 
 **Want quick updates:** clone it instead, and updates become a `git pull`
 that downloads only what changed rather than the whole game again.
