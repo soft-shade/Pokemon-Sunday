@@ -11,228 +11,228 @@ fluidsynth: error: function fluid_stat is a stub, always returning -1
 fluidsynth: error: function fluid_file_test is a stub, always returning true
 fluidsynth: error: function fluid_file_test is a stub, always returning true
 fluidsynth: error: function fluid_stat is a stub, always returning -1
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map001.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map002.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map003.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map004.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map005.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map006.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map007.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map008.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map009.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map010.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map011.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map012.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map013.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map014.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map015.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map016.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map017.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map018.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map019.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map020.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map021.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map022.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map023.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map024.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map025.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map026.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map027.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map028.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map029.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map030.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map031.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map032.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map033.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map034.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map035.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map036.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map037.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map038.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map039.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map040.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map041.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map042.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map043.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map044.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map045.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map046.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map047.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map048.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map049.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map050.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map051.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map052.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map053.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map054.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map055.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map056.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map057.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map058.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map059.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map060.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map061.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map062.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map063.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map064.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map065.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map066.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map067.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map068.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map069.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map070.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map071.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map072.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map073.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map074.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map075.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map076.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map077.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map078.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map079.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map080.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map081.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map082.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map083.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map084.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map085.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map086.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map087.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map088.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map089.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map090.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map091.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map092.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map093.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map094.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map095.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map096.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map097.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map098.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map099.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map100.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map101.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map102.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map103.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map104.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map105.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map106.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map107.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map108.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map109.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map110.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map111.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map112.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map113.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map114.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map115.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map116.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map117.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map118.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map119.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map120.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map121.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map122.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map123.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map124.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map125.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map126.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map127.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map128.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map129.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map130.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map131.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map132.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map133.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map134.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map135.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map136.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map137.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map138.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map139.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map140.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map141.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map142.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map143.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map144.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map145.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map146.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map147.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map148.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map149.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map150.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map151.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map152.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map153.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map154.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map155.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map156.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map157.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map158.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map159.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map160.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map161.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map162.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map163.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map164.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map165.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map166.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map167.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map168.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map169.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map170.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map171.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map172.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map173.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map174.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map175.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map176.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map177.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map178.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map179.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map180.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map181.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map182.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map183.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map184.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map185.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map186.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map187.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map188.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map189.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map190.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map191.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map192.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map193.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map194.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map195.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map196.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map197.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map198.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map199.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map200.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map201.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map202.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map203.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map204.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map205.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map206.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map207.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map208.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map209.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map210.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map211.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map212.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map213.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map215.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map216.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map217.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map218.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map219.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map220.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map221.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map222.rxdata
-Exception `Errno::ENOENT' at Section398:318 - No such file or directory - Data/map223.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map001.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map002.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map003.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map004.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map005.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map006.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map007.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map008.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map009.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map010.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map011.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map012.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map013.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map014.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map015.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map016.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map017.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map018.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map019.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map020.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map021.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map022.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map023.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map024.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map025.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map026.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map027.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map028.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map029.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map030.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map031.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map032.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map033.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map034.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map035.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map036.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map037.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map038.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map039.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map040.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map041.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map042.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map043.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map044.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map045.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map046.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map047.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map048.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map049.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map050.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map051.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map052.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map053.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map054.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map055.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map056.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map057.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map058.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map059.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map060.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map061.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map062.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map063.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map064.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map065.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map066.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map067.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map068.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map069.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map070.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map071.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map072.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map073.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map074.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map075.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map076.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map077.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map078.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map079.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map080.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map081.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map082.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map083.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map084.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map085.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map086.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map087.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map088.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map089.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map090.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map091.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map092.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map093.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map094.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map095.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map096.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map097.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map098.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map099.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map100.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map101.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map102.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map103.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map104.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map105.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map106.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map107.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map108.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map109.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map110.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map111.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map112.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map113.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map114.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map115.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map116.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map117.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map118.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map119.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map120.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map121.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map122.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map123.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map124.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map125.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map126.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map127.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map128.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map129.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map130.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map131.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map132.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map133.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map134.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map135.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map136.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map137.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map138.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map139.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map140.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map141.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map142.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map143.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map144.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map145.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map146.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map147.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map148.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map149.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map150.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map151.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map152.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map153.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map154.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map155.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map156.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map157.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map158.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map159.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map160.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map161.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map162.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map163.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map164.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map165.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map166.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map167.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map168.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map169.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map170.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map171.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map172.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map173.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map174.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map175.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map176.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map177.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map178.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map179.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map180.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map181.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map182.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map183.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map184.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map185.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map186.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map187.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map188.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map189.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map190.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map191.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map192.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map193.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map194.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map195.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map196.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map197.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map198.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map199.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map200.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map201.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map202.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map203.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map204.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map205.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map206.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map207.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map208.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map209.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map210.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map211.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map212.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map213.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map215.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map216.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map217.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map218.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map219.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map220.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map221.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map222.rxdata
+Exception `Errno::ENOENT' at 398:Compiler_MapsAndEvents:318 - No such file or directory - Data/map223.rxdata
 GPU Cache Max: 16384
 -------------------------------------------------------------------------------
 Pokemon Sunday 3.0 Output Window
@@ -272,7 +272,7 @@ Debug Output:
 [0;33m  -> [0mCompiling PBS file [0;36mpokemon_metrics.txt[0m...............[0;32mdone[0m
 [0;33m  -> [0mCompiling PBS file [0;36mregional_dexes.txt[0m...[0;32mdone[0m
 [0;33m  -> [0mCompiling PBS file [0;36mribbons.txt[0m....[0;32mdone[0m
-[0;33m  -> [0mCompiling PBS file [0;36mencounters.txt[0m.....................[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mencounters.txt[0m....................[0;32mdone[0m
 [0;33m  -> [0mCompiling PBS file [0;36mtrainer_types.txt[0m.....[0;32mdone[0m
 [0;33m  -> [0mCompiling PBS file [0;36mtrainers.txt[0m.............................................................[0;32mdone[0m
 [0;33m  -> [0mCompiling PBS file [0;36mbattle_facility_lists.txt[0m........[0;32mdone[0m
@@ -319,619 +319,622 @@ Successfully loaded all Elite Battle: DX data.
 
 [Sunday] font in use: "Power Green"
 RGSS thread ack'd request after 10 ms 
-[BUG] Segmentation fault at 0x000075450e8496e0
+[BUG] Segmentation fault at 0x00007e8fce8525d0
 ruby 3.1.3p185 (2022-11-24 revision 4d85560cf6) [x86_64-linux]
 
 -- Machine register context ------------------------------------------------
- RIP: 0x00005cb526eb355b RBP: 0x00000000068d3b3c RSP: 0x00007544dfffe890
- RAX: 0x00007544da1abd00 RBX: 0x000075450e8496e0 RCX: 0x00000000068d3b3c
- RDX: 0x00000000068d3b3c RDI: 0x00007544dfffe910 RSI: 0x00007544dfffe915
+ RIP: 0x00006326a22c455b RBP: 0x00000000068d3b3c RSP: 0x00007e8f9fffe890
+ RAX: 0x00007e8f9a1b4bf0 RBX: 0x00007e8fce8525d0 RCX: 0x00000000068d3b3c
+ RDX: 0x00000000068d3b3c RDI: 0x00007e8f9fffe910 RSI: 0x00007e8f9fffe915
   R8: 0x0000000000000000  R9: 0x000000000000002e R10: 0x0000000000000000
- R11: 0x82e6c9612ea07f0d R12: 0x00007544dfffe910 R13: 0x00007544d93547f0
- R14: 0x00007544dfffe8d0 R15: 0x00007ffef3ffe760 EFL: 0x0000000000210202
+ R11: 0x2c84c6d95233da06 R12: 0x00007e8f9fffe910 R13: 0x00007e8f99354960
+ R14: 0x00007e8f9fffe8d0 R15: 0x00007ffee8e90790 EFL: 0x0000000000210202
 
 -- C level backtrace information -------------------------------------------
-/home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1(rb_print_backtrace+0x19) [0x75450a4e0c79]
-/home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1(0x2e6439) [0x75450a4e6439]
-/home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1(0xe60d4) [0x75450a2e60d4]
-/home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1(0x23a83f) [0x75450a43a83f]
-/lib/x86_64-linux-gnu/libc.so.6(__restore_rt+0x0) [0x754509e45330]
-./Pokemon Sunday (Linux)(0xaea55b) [0x5cb526eb355b]
-./Pokemon Sunday (Linux)(0xab1ce4) [0x5cb526e7ace4]
-./Pokemon Sunday (Linux)(0xab23e0) [0x5cb526e7b3e0]
-./Pokemon Sunday (Linux)(0xab4f1b) [0x5cb526e7df1b]
-./Pokemon Sunday (Linux)(0x142959) [0x5cb52650b959]
-./Pokemon Sunday (Linux)(0x1436e8) [0x5cb52650c6e8]
-./Pokemon Sunday (Linux)(0x114d5c) [0x5cb5264ddd5c]
-./Pokemon Sunday (Linux)(0x61c90a) [0x5cb5269e590a]
-./Pokemon Sunday (Linux)(0x663a2d) [0x5cb526a2ca2d]
-/lib/x86_64-linux-gnu/libc.so.6(0x9cb84) [0x754509e9cb84]
-/lib/x86_64-linux-gnu/libc.so.6(0x129d6c) [0x754509f29d6c]
+/home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1(rb_print_backtrace+0x19) [0x7e8fca4e0c79]
+/home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1(0x2e6439) [0x7e8fca4e6439]
+/home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1(0xe60d4) [0x7e8fca2e60d4]
+/home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1(0x23a83f) [0x7e8fca43a83f]
+/lib/x86_64-linux-gnu/libc.so.6(__restore_rt+0x0) [0x7e8fc9e45330]
+./Pokemon Sunday (Linux)(0xaea55b) [0x6326a22c455b]
+./Pokemon Sunday (Linux)(0xab1ce4) [0x6326a228bce4]
+./Pokemon Sunday (Linux)(0xab23e0) [0x6326a228c3e0]
+./Pokemon Sunday (Linux)(0xab4f1b) [0x6326a228ef1b]
+./Pokemon Sunday (Linux)(0x142959) [0x6326a191c959]
+./Pokemon Sunday (Linux)(0x1436e8) [0x6326a191d6e8]
+./Pokemon Sunday (Linux)(0x114d5c) [0x6326a18eed5c]
+./Pokemon Sunday (Linux)(0x61c90a) [0x6326a1df690a]
+./Pokemon Sunday (Linux)(0x663a2d) [0x6326a1e3da2d]
+/lib/x86_64-linux-gnu/libc.so.6(0x9cb84) [0x7e8fc9e9cb84]
+/lib/x86_64-linux-gnu/libc.so.6(0x129d6c) [0x7e8fc9f29d6c]
 
 -- Other runtime information -----------------------------------------------
 
 * Process memory map:
 
-5cb5263c9000-5cb526498000 r--p 00000000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
-5cb526498000-5cb526edb000 r-xp 000cf000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
-5cb526edb000-5cb5272a0000 r--p 00b12000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
-5cb5272a0000-5cb527326000 r--p 00ed6000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
-5cb527326000-5cb527402000 rw-p 00f5c000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
-5cb527402000-5cb527559000 rw-p 00000000 00:00 0 
-5cb530c73000-5cb5310be000 rw-p 00000000 00:00 0                          [heap]
-754480000000-754483ffd000 rw-p 00000000 00:00 0 
-754483ffd000-754484000000 ---p 00000000 00:00 0 
-754488000000-754488096000 rw-p 00000000 00:00 0 
-754488096000-75448c000000 ---p 00000000 00:00 0 
-754490000000-754497ffc000 rw-p 00000000 00:00 0 
-754497ffc000-754498000000 ---p 00000000 00:00 0 
-754498000000-754498021000 rw-p 00000000 00:00 0 
-754498021000-75449c000000 ---p 00000000 00:00 0 
-75449c000000-7544a0000000 rw-p 00000000 00:00 0 
-7544a0000000-7544a0021000 rw-p 00000000 00:00 0 
-7544a0021000-7544a4000000 ---p 00000000 00:00 0 
-7544a8000000-7544a8021000 rw-p 00000000 00:00 0 
-7544a8021000-7544ac000000 ---p 00000000 00:00 0 
-7544b0000000-7544b0021000 rw-p 00000000 00:00 0 
-7544b0021000-7544b4000000 ---p 00000000 00:00 0 
-7544b8000000-7544b8021000 rw-p 00000000 00:00 0 
-7544b8021000-7544bc000000 ---p 00000000 00:00 0 
-7544be600000-7544bf89c000 r--s 00000000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
-7544bf9a0000-7544bf9b0000 rw-s 1212d1000 00:0f 1052                      anon_inode:i915.gem
-7544bfbb0000-7544bfbc0000 rw-s 106c65000 00:0f 1052                      anon_inode:i915.gem
-7544c0000000-7544c0021000 rw-p 00000000 00:00 0 
-7544c0021000-7544c4000000 ---p 00000000 00:00 0 
-7544c4600000-7544c4807000 r--s 00000000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
-7544c4a00000-7544c52ef000 r--s 00000000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
-7544c5354000-7544c8021000 rw-p 00000000 00:00 0 
-7544c8021000-7544cc000000 ---p 00000000 00:00 0 
-7544cc004000-7544cc3b8000 rw-p 00000000 00:00 0 
-7544cc3bb000-7544cc3bc000 ---p 00000000 00:00 0 
-7544cc3bc000-7544cc45d000 rw-p 00000000 00:00 0 
-7544cc45d000-7544cc45e000 ---p 00000000 00:00 0 
-7544cc45e000-7544cc4ff000 rw-p 00000000 00:00 0 
-7544cc4ff000-7544cc500000 ---p 00000000 00:00 0 
-7544cc500000-7544cc5a1000 rw-p 00000000 00:00 0 
-7544cc5a1000-7544cc5a2000 ---p 00000000 00:00 0 
-7544cc5a2000-7544cc643000 rw-p 00000000 00:00 0 
-7544cc643000-7544cc644000 ---p 00000000 00:00 0 
-7544cc644000-7544cc6e5000 rw-p 00000000 00:00 0 
-7544cc6e5000-7544cc6e6000 ---p 00000000 00:00 0 
-7544cc6e6000-7544cc787000 rw-p 00000000 00:00 0 
-7544cc787000-7544cc788000 ---p 00000000 00:00 0 
-7544cc788000-7544cc829000 rw-p 00000000 00:00 0 
-7544cc829000-7544cc82a000 ---p 00000000 00:00 0 
-7544cc82a000-7544cc8cb000 rw-p 00000000 00:00 0 
-7544cc8cb000-7544cc8cc000 ---p 00000000 00:00 0 
-7544cc8cc000-7544cc96d000 rw-p 00000000 00:00 0 
-7544cc96d000-7544cc96e000 ---p 00000000 00:00 0 
-7544cc96e000-7544cca0f000 rw-p 00000000 00:00 0 
-7544cca0f000-7544cca10000 ---p 00000000 00:00 0 
-7544cca10000-7544ccab1000 rw-p 00000000 00:00 0 
-7544ccab1000-7544ccab2000 ---p 00000000 00:00 0 
-7544ccab2000-7544ccb53000 rw-p 00000000 00:00 0 
-7544ccb53000-7544ccb54000 ---p 00000000 00:00 0 
-7544ccb54000-7544ccbf5000 rw-p 00000000 00:00 0 
-7544ccbf5000-7544ccbf6000 ---p 00000000 00:00 0 
-7544ccbf6000-7544ccc97000 rw-p 00000000 00:00 0 
-7544ccc97000-7544ccc98000 ---p 00000000 00:00 0 
-7544ccc98000-7544ccd39000 rw-p 00000000 00:00 0 
-7544ccd39000-7544ccd3a000 ---p 00000000 00:00 0 
-7544ccd3a000-7544ccddb000 rw-p 00000000 00:00 0 
-7544ccddb000-7544ccddc000 ---p 00000000 00:00 0 
-7544ccddc000-7544cce7d000 rw-p 00000000 00:00 0 
-7544cce7d000-7544cce7e000 ---p 00000000 00:00 0 
-7544cce7e000-7544ccf1f000 rw-p 00000000 00:00 0 
-7544ccf1f000-7544ccf20000 ---p 00000000 00:00 0 
-7544ccf20000-7544ccfc1000 rw-p 00000000 00:00 0 
-7544ccfc1000-7544ccfc2000 ---p 00000000 00:00 0 
-7544ccfc2000-7544cd063000 rw-p 00000000 00:00 0 
-7544cd063000-7544cd064000 ---p 00000000 00:00 0 
-7544cd064000-7544cd105000 rw-p 00000000 00:00 0 
-7544cd105000-7544cd106000 ---p 00000000 00:00 0 
-7544cd106000-7544cd1a7000 rw-p 00000000 00:00 0 
-7544cd1a7000-7544cd1a8000 ---p 00000000 00:00 0 
-7544cd1a8000-7544cd249000 rw-p 00000000 00:00 0 
-7544cd249000-7544cd24a000 ---p 00000000 00:00 0 
-7544cd24a000-7544cd2eb000 rw-p 00000000 00:00 0 
-7544cd2eb000-7544cd2ec000 ---p 00000000 00:00 0 
-7544cd2ec000-7544cd38d000 rw-p 00000000 00:00 0 
-7544cd38d000-7544cd38e000 ---p 00000000 00:00 0 
-7544cd38e000-7544cd42f000 rw-p 00000000 00:00 0 
-7544cd42f000-7544cd430000 ---p 00000000 00:00 0 
-7544cd430000-7544cd4d1000 rw-p 00000000 00:00 0 
-7544cd4d1000-7544cd4d2000 ---p 00000000 00:00 0 
-7544cd4d2000-7544cd573000 rw-p 00000000 00:00 0 
-7544cd573000-7544cd574000 ---p 00000000 00:00 0 
-7544cd574000-7544cd615000 rw-p 00000000 00:00 0 
-7544cd615000-7544cd616000 ---p 00000000 00:00 0 
-7544cd616000-7544cd6b7000 rw-p 00000000 00:00 0 
-7544cd6b7000-7544cd6b8000 ---p 00000000 00:00 0 
-7544cd6b8000-7544cd759000 rw-p 00000000 00:00 0 
-7544cd759000-7544cd75a000 ---p 00000000 00:00 0 
-7544cd75a000-7544cd7fb000 rw-p 00000000 00:00 0 
-7544cd7fb000-7544cd7fc000 ---p 00000000 00:00 0 
-7544cd7fc000-7544cdffc000 rw-p 00000000 00:00 0 
-7544cdffc000-7544cdffd000 ---p 00000000 00:00 0 
-7544cdffd000-7544ce7fd000 rw-p 00000000 00:00 0 
-7544ce7fd000-7544ce7fe000 ---p 00000000 00:00 0 
-7544ce7fe000-7544ceffe000 rw-p 00000000 00:00 0 
-7544ceffe000-7544cefff000 ---p 00000000 00:00 0 
-7544cefff000-7544cf7ff000 rw-p 00000000 00:00 0 
-7544cf7ff000-7544cf800000 ---p 00000000 00:00 0 
-7544cf800000-7544d0000000 rw-p 00000000 00:00 0 
-7544d0000000-7544d0021000 rw-p 00000000 00:00 0 
-7544d0021000-7544d4000000 ---p 00000000 00:00 0 
-7544d4000000-7544d4021000 rw-p 00000000 00:00 0 
-7544d4021000-7544d8000000 ---p 00000000 00:00 0 
-7544d8000000-7544dc000000 rw-p 00000000 00:00 0 
-7544dc004000-7544dc208000 rw-p 00000000 00:00 0 
-7544dc38c000-7544dc428000 rw-p 00000000 00:00 0 
-7544dc428000-7544dc429000 ---p 00000000 00:00 0 
-7544dc429000-7544dcc29000 rw-p 00000000 00:00 0 
-7544dcc29000-7544dcc2a000 ---p 00000000 00:00 0 
-7544dcc2a000-7544dd42a000 rw-p 00000000 00:00 0 
-7544dd42a000-7544dd7fb000 rw-p 00000000 00:00 0 
-7544dd7fb000-7544dd7fc000 ---p 00000000 00:00 0 
-7544dd7fc000-7544ddffc000 rw-p 00000000 00:00 0 
-7544ddffc000-7544ddffd000 ---p 00000000 00:00 0 
-7544ddffd000-7544de7fd000 rw-p 00000000 00:00 0 
-7544de7fd000-7544de7fe000 ---p 00000000 00:00 0 
-7544de7fe000-7544deffe000 rw-p 00000000 00:00 0 
-7544deffe000-7544defff000 ---p 00000000 00:00 0 
-7544defff000-7544df7ff000 rw-p 00000000 00:00 0 
-7544df7ff000-7544df800000 ---p 00000000 00:00 0 
-7544df800000-7544e0000000 rw-p 00000000 00:00 0 
-7544e0000000-7544e4000000 rw-s 00000000 00:01 903923                     /memfd:pulseaudio (deleted)
-7544e4000000-7544e4021000 rw-p 00000000 00:00 0 
-7544e4021000-7544e8000000 ---p 00000000 00:00 0 
-7544e8000000-7544ec000000 rw-s 00000000 00:01 901946                     /memfd:pulseaudio (deleted)
-7544ec000000-7544ec021000 rw-p 00000000 00:00 0 
-7544ec021000-7544f0000000 ---p 00000000 00:00 0 
-7544f0000000-7544f0021000 rw-p 00000000 00:00 0 
-7544f0021000-7544f4000000 ---p 00000000 00:00 0 
-7544f4000000-7544f4021000 rw-p 00000000 00:00 0 
-7544f4021000-7544f8000000 ---p 00000000 00:00 0 
-7544f8004000-7544f84d1000 rw-p 00000000 00:00 0 
-7544f84d1000-7544f86d1000 rw-s 107373000 00:0f 1052                      anon_inode:i915.gem
-7544f86d1000-7544f86f1000 rw-s 10662d000 00:0f 1052                      anon_inode:i915.gem
-7544f86f1000-7544f8711000 rw-s 1212b1000 00:0f 1052                      anon_inode:i915.gem
-7544f8718000-7544f87cc000 rw-p 00000000 00:00 0 
-7544f87cc000-7544f87dc000 rw-s 12103f000 00:0f 1052                      anon_inode:i915.gem
-7544f87dc000-7544f87dd000 ---p 00000000 00:00 0 
-7544f87dd000-7544f8fdd000 rw-p 00000000 00:00 0 
-7544f8fdd000-7544f8ffd000 rw-s 120b22000 00:0f 1052                      anon_inode:i915.gem
-7544f8ffd000-7544f8ffe000 ---p 00000000 00:00 0 
-7544f8ffe000-7544f97fe000 rw-p 00000000 00:00 0 
-7544f97fe000-7544f97ff000 ---p 00000000 00:00 0 
-7544f97ff000-7544f9fff000 rw-p 00000000 00:00 0 
-7544f9fff000-7544fa000000 ---p 00000000 00:00 0 
-7544fa000000-7544fa800000 rw-p 00000000 00:00 0 
-7544fa800000-7544faa00000 rw-s 10e0ff000 00:0f 1052                      anon_inode:i915.gem
-7544faa00000-7544faa01000 r--p 00000000 103:02 18613580                  /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
-7544faa01000-7544faa02000 r-xp 00001000 103:02 18613580                  /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
-7544faa02000-7544fc75e000 r--p 00002000 103:02 18613580                  /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
-7544fc75e000-7544fc75f000 r--p 01d5d000 103:02 18613580                  /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
-7544fc75f000-7544fc760000 rw-p 01d5e000 103:02 18613580                  /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
-7544fc764000-7544fc780000 rw-p 00000000 00:00 0 
-7544fc780000-7544fc800000 rw-s 1068d5000 00:0f 1052                      anon_inode:i915.gem
-7544fc800000-7544fc868000 r--p 00000000 103:02 18613603                  /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
-7544fc868000-7544fc96d000 r-xp 00068000 103:02 18613603                  /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
-7544fc96d000-7544fc9f7000 r--p 0016d000 103:02 18613603                  /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
-7544fc9f7000-7544fca0a000 r--p 001f7000 103:02 18613603                  /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
-7544fca0a000-7544fca0b000 rw-p 0020a000 103:02 18613603                  /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
-7544fca0b000-7544fca0d000 rw-p 00000000 00:00 0 
-7544fca0e000-7544fca1e000 rw-s 102ed0000 00:0f 1052                      anon_inode:i915.gem
-7544fca1e000-7544fca4d000 r--p 00000000 103:02 18612331                  /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
-7544fca4d000-7544fcbb3000 r-xp 0002f000 103:02 18612331                  /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
-7544fcbb3000-7544fcbf5000 r--p 00195000 103:02 18612331                  /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
-7544fcbf5000-7544fcbfe000 r--p 001d6000 103:02 18612331                  /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
-7544fcbfe000-7544fcbff000 rw-p 001df000 103:02 18612331                  /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
-7544fcbff000-7544fcc00000 rw-p 00000000 00:00 0 
-7544fcc00000-7544fcc9d000 r--p 00000000 103:02 18614443                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
-7544fcc9d000-7544fcde5000 r-xp 0009d000 103:02 18614443                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
-7544fcde5000-7544fce6c000 r--p 001e5000 103:02 18614443                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
-7544fce6c000-7544fce77000 r--p 0026b000 103:02 18614443                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
-7544fce77000-7544fce7a000 rw-p 00276000 103:02 18614443                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
-7544fce7a000-7544fce7e000 rw-p 00000000 00:00 0 
-7544fce7f000-7544fcfc0000 rw-s 00000000 103:02 17695250                  /home/ryan.underwood/.cache/mesa_shader_cache/index
-7544fcfc0000-7544fd000000 rw-s 1276b5000 00:0f 1052                      anon_inode:i915.gem
-7544fd000000-754505208000 r-xp 00000000 103:02 18626137                  /usr/lib/x86_64-linux-gnu/libLLVM.so.20.1
-754505208000-754505209000 ---p 08208000 103:02 18626137                  /usr/lib/x86_64-linux-gnu/libLLVM.so.20.1
-754505209000-75450589e000 r--p 08208000 103:02 18626137                  /usr/lib/x86_64-linux-gnu/libLLVM.so.20.1
-75450589e000-7545058e6000 rw-p 0889d000 103:02 18626137                  /usr/lib/x86_64-linux-gnu/libLLVM.so.20.1
-7545058e6000-75450598e000 rw-p 00000000 00:00 0 
-754505994000-75450599c000 rw-p 00000000 00:00 0 
-75450599c000-7545059ac000 rw-s 106c85000 00:0f 1052                      anon_inode:i915.gem
-7545059ac000-7545059cc000 rw-s 1273c5000 00:0f 1052                      anon_inode:i915.gem
-7545059cc000-7545059da000 r--p 00000000 103:02 18613434                  /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
-7545059da000-7545059ed000 r-xp 0000e000 103:02 18613434                  /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
-7545059ed000-7545059fb000 r--p 00021000 103:02 18613434                  /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
-7545059fb000-7545059ff000 r--p 0002e000 103:02 18613434                  /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
-7545059ff000-754505a00000 rw-p 00032000 103:02 18613434                  /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
-754505a00000-754505acf000 r--p 00000000 103:02 18626141                  /usr/lib/x86_64-linux-gnu/libgallium-25.2.8-0ubuntu0.24.04.2.so
-754505acf000-7545072e2000 r-xp 000cf000 103:02 18626141                  /usr/lib/x86_64-linux-gnu/libgallium-25.2.8-0ubuntu0.24.04.2.so
-7545072e2000-754508221000 r--p 018e2000 103:02 18626141                  /usr/lib/x86_64-linux-gnu/libgallium-25.2.8-0ubuntu0.24.04.2.so
-754508221000-754508347000 r--p 02821000 103:02 18626141                  /usr/lib/x86_64-linux-gnu/libgallium-25.2.8-0ubuntu0.24.04.2.so
-754508347000-754508369000 rw-p 02947000 103:02 18626141                  /usr/lib/x86_64-linux-gnu/libgallium-25.2.8-0ubuntu0.24.04.2.so
-754508369000-754508533000 rw-p 00000000 00:00 0 
-754508538000-75450853c000 rw-p 00000000 00:00 0 
-75450853c000-75450853e000 r--p 00000000 103:02 18613596                  /usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1
-75450853e000-754508543000 r-xp 00002000 103:02 18613596                  /usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1
-754508543000-754508545000 r--p 00007000 103:02 18613596                  /usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1
-754508545000-754508546000 r--p 00008000 103:02 18613596                  /usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1
-754508546000-754508547000 rw-p 00009000 103:02 18613596                  /usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1
-754508547000-75450854f000 r--p 00000000 103:02 18612315                  /usr/lib/x86_64-linux-gnu/libedit.so.2.0.72
-75450854f000-75450856e000 r-xp 00008000 103:02 18612315                  /usr/lib/x86_64-linux-gnu/libedit.so.2.0.72
-75450856e000-75450857a000 r--p 00027000 103:02 18612315                  /usr/lib/x86_64-linux-gnu/libedit.so.2.0.72
-75450857a000-75450857c000 r--p 00033000 103:02 18612315                  /usr/lib/x86_64-linux-gnu/libedit.so.2.0.72
-75450857c000-75450857d000 rw-p 00035000 103:02 18612315                  /usr/lib/x86_64-linux-gnu/libedit.so.2.0.72
-75450857d000-754508581000 rw-p 00000000 00:00 0 
-754508581000-754508585000 r--p 00000000 103:02 18619410                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
-754508585000-7545085a9000 r-xp 00004000 103:02 18619410                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
-7545085a9000-7545085ad000 r--p 00028000 103:02 18619410                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
-7545085ad000-7545085ae000 r--p 0002b000 103:02 18619410                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
-7545085ae000-7545085af000 rw-p 0002c000 103:02 18619410                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
-7545085af000-7545085b2000 r--p 00000000 103:02 18613610                  /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.125.0
-7545085b2000-7545085c8000 r-xp 00003000 103:02 18613610                  /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.125.0
-7545085c8000-7545085d1000 r--p 00019000 103:02 18613610                  /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.125.0
-7545085d1000-7545085d2000 r--p 00021000 103:02 18613610                  /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.125.0
-7545085d2000-7545085d3000 rw-p 00022000 103:02 18613610                  /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.125.0
-7545085d3000-7545085d6000 r--p 00000000 103:02 18614351                  /usr/lib/x86_64-linux-gnu/libelf-0.190.so
-7545085d6000-7545085ec000 r-xp 00003000 103:02 18614351                  /usr/lib/x86_64-linux-gnu/libelf-0.190.so
-7545085ec000-7545085f0000 r--p 00019000 103:02 18614351                  /usr/lib/x86_64-linux-gnu/libelf-0.190.so
-7545085f0000-7545085f1000 r--p 0001c000 103:02 18614351                  /usr/lib/x86_64-linux-gnu/libelf-0.190.so
-7545085f1000-7545085f2000 rw-p 0001d000 103:02 18614351                  /usr/lib/x86_64-linux-gnu/libelf-0.190.so
-7545085f2000-7545085f5000 r--p 00000000 103:02 18613587                  /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.125.0
-7545085f5000-7545085fb000 r-xp 00003000 103:02 18613587                  /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.125.0
-7545085fb000-7545085fd000 r--p 00009000 103:02 18613587                  /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.125.0
-7545085fd000-7545085fe000 r--p 0000a000 103:02 18613587                  /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.125.0
-7545085fe000-7545085ff000 rw-p 0000b000 103:02 18613587                  /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.125.0
-7545085ff000-754508600000 r--p 00000000 103:02 18626130                  /usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0
-754508600000-754508601000 r-xp 00001000 103:02 18626130                  /usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0
-754508601000-754508602000 r--p 00002000 103:02 18626130                  /usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0
-754508602000-754508603000 r--p 00002000 103:02 18626130                  /usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0
-754508603000-754508604000 rw-p 00003000 103:02 18626130                  /usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0
-754508604000-754508607000 r--p 00000000 103:02 18625801                  /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
-754508607000-75450860a000 r-xp 00003000 103:02 18625801                  /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
-75450860a000-75450860b000 r--p 00006000 103:02 18625801                  /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
-75450860b000-75450860c000 r--p 00007000 103:02 18625801                  /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
-75450860c000-75450860d000 rw-p 00008000 103:02 18625801                  /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
-75450860d000-754508614000 r--p 00000000 103:02 18625797                  /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
-754508614000-754508619000 r-xp 00007000 103:02 18625797                  /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
-754508619000-75450861c000 r--p 0000c000 103:02 18625797                  /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
-75450861c000-75450861d000 r--p 0000f000 103:02 18625797                  /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
-75450861d000-75450861e000 rw-p 00010000 103:02 18625797                  /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
-75450861e000-754508620000 r--p 00000000 103:02 18615383                  /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
-754508620000-754508627000 r-xp 00002000 103:02 18615383                  /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
-754508627000-75450862b000 r--p 00009000 103:02 18615383                  /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
-75450862b000-75450862c000 r--p 0000d000 103:02 18615383                  /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
-75450862c000-75450862d000 rw-p 0000e000 103:02 18615383                  /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
-75450862d000-754508630000 r--p 00000000 103:02 18626031                  /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0
-754508630000-754508633000 r-xp 00003000 103:02 18626031                  /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0
-754508633000-754508635000 r--p 00006000 103:02 18626031                  /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0
-754508635000-754508636000 r--p 00007000 103:02 18626031                  /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0
-754508636000-754508637000 rw-p 00008000 103:02 18626031                  /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0
-754508637000-754508638000 r--p 00000000 103:02 18621503                  /usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0
-754508638000-754508639000 r-xp 00001000 103:02 18621503                  /usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0
-754508639000-75450863a000 r--p 00002000 103:02 18621503                  /usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0
-75450863a000-75450863b000 r--p 00002000 103:02 18621503                  /usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0
-75450863b000-75450863c000 rw-p 00003000 103:02 18621503                  /usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0
-75450863c000-75450863e000 r--p 00000000 103:02 18617209                  /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.1.0
-75450863e000-754508640000 r-xp 00002000 103:02 18617209                  /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.1.0
-754508640000-754508641000 r--p 00004000 103:02 18617209                  /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.1.0
-754508641000-754508642000 r--p 00004000 103:02 18617209                  /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.1.0
-754508642000-754508643000 rw-p 00005000 103:02 18617209                  /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.1.0
-754508643000-754508647000 r--p 00000000 103:02 18632115                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
-754508647000-754508664000 r-xp 00004000 103:02 18632115                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
-754508664000-75450866c000 r--p 00021000 103:02 18632115                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
-75450866c000-75450866e000 r--p 00028000 103:02 18632115                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
-75450866e000-75450866f000 rw-p 0002a000 103:02 18632115                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
-75450866f000-754508670000 r--p 00000000 103:02 18613700                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
-754508670000-754508671000 r-xp 00001000 103:02 18613700                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
-754508671000-754508672000 r--p 00002000 103:02 18613700                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
-754508672000-754508673000 r--p 00002000 103:02 18613700                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
-754508673000-754508674000 rw-p 00003000 103:02 18613700                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
-754508674000-75450867f000 r--p 00000000 103:02 18617167                  /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0
-75450867f000-7545086ac000 r-xp 0000b000 103:02 18617167                  /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0
-7545086ac000-7545086bb000 r--p 00038000 103:02 18617167                  /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0
-7545086bb000-7545086be000 r--p 00047000 103:02 18617167                  /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0
-7545086be000-7545086bf000 rw-p 0004a000 103:02 18617167                  /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0
-7545086bf000-7545086c0000 rw-p 00000000 00:00 0 
-7545086c0000-754508701000 r--p 00000000 103:02 18617177                  /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0
-754508701000-754508740000 r-xp 00041000 103:02 18617177                  /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0
-754508740000-754508753000 r--p 00080000 103:02 18617177                  /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0
-754508753000-75450876f000 r--p 00093000 103:02 18617177                  /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0
-75450876f000-754508770000 rw-p 000af000 103:02 18617177                  /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0
-754508770000-754508778000 rw-p 00000000 00:00 0 
-754508778000-7545087bb000 r--p 00000000 103:02 18613561                  /usr/lib/x86_64-linux-gnu/libGL.so.1.7.0
-7545087bb000-7545087db000 r-xp 00043000 103:02 18613561                  /usr/lib/x86_64-linux-gnu/libGL.so.1.7.0
-7545087db000-7545087ef000 r--p 00063000 103:02 18613561                  /usr/lib/x86_64-linux-gnu/libGL.so.1.7.0
-7545087ef000-7545087fd000 r--p 00077000 103:02 18613561                  /usr/lib/x86_64-linux-gnu/libGL.so.1.7.0
-7545087fd000-7545087fe000 rw-p 00085000 103:02 18613561                  /usr/lib/x86_64-linux-gnu/libGL.so.1.7.0
-7545087fe000-7545087ff000 rw-p 00000000 00:00 0 
-7545087ff000-754508800000 ---p 00000000 00:00 0 
-754508800000-754509000000 rw-p 00000000 00:00 0 
-754509000000-754509575000 r--p 00000000 103:02 18614460                  /usr/lib/locale/locale-archive
-754509577000-754509578000 r--p 00000000 103:02 18625325                  /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
-754509578000-75450957b000 r-xp 00001000 103:02 18625325                  /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
-75450957b000-75450957c000 r--p 00004000 103:02 18625325                  /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
-75450957c000-75450957d000 r--p 00004000 103:02 18625325                  /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
-75450957d000-75450957e000 rw-p 00005000 103:02 18625325                  /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
-75450957e000-754509589000 r--p 00000000 103:02 18626186                  /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0
-754509589000-754509592000 r-xp 0000b000 103:02 18626186                  /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0
-754509592000-754509597000 r--p 00014000 103:02 18626186                  /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0
-754509597000-754509599000 r--p 00019000 103:02 18626186                  /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0
-754509599000-75450959a000 rw-p 0001b000 103:02 18626186                  /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0
-75450959a000-75450959f000 r--p 00000000 103:02 18616349                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
-75450959f000-7545095ab000 r-xp 00005000 103:02 18616349                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
-7545095ab000-7545095af000 r--p 00011000 103:02 18616349                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
-7545095af000-7545095b0000 r--p 00015000 103:02 18616349                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
-7545095b0000-7545095b1000 rw-p 00016000 103:02 18616349                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
-7545095b1000-7545095b4000 r--p 00000000 103:02 18617170                  /usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0
-7545095b4000-7545095cf000 r-xp 00003000 103:02 18617170                  /usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0
-7545095cf000-7545095d2000 r--p 0001e000 103:02 18617170                  /usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0
-7545095d2000-7545095d3000 r--p 00020000 103:02 18617170                  /usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0
-7545095d3000-7545095d4000 rw-p 00021000 103:02 18617170                  /usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0
-7545095d4000-7545095e4000 rw-p 00000000 00:00 0 
-7545095e4000-7545095e5000 r--p 00000000 103:02 18625385                  /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
-7545095e5000-7545095e6000 r-xp 00001000 103:02 18625385                  /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
-7545095e6000-7545095e7000 r--p 00002000 103:02 18625385                  /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
-7545095e7000-7545095e8000 r--p 00002000 103:02 18625385                  /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
-7545095e8000-7545095e9000 rw-p 00003000 103:02 18625385                  /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
-7545095e9000-7545095eb000 r--p 00000000 103:02 18612873                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
-7545095eb000-7545095f2000 r-xp 00002000 103:02 18612873                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
-7545095f2000-7545095f4000 r--p 00009000 103:02 18612873                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
-7545095f4000-7545095f5000 r--p 0000a000 103:02 18612873                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
-7545095f5000-7545095f6000 rw-p 0000b000 103:02 18612873                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
-7545095f6000-7545095f9000 r--p 00000000 103:02 18619487                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
-7545095f9000-754509605000 r-xp 00003000 103:02 18619487                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
-754509605000-754509607000 r--p 0000f000 103:02 18619487                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
-754509607000-754509608000 r--p 00011000 103:02 18619487                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
-754509608000-754509609000 rw-p 00012000 103:02 18619487                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
-754509609000-75450960b000 r--p 00000000 103:02 18614142                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
-75450960b000-75450960e000 r-xp 00002000 103:02 18614142                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
-75450960e000-75450960f000 r--p 00005000 103:02 18614142                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
-75450960f000-754509610000 r--p 00005000 103:02 18614142                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
-754509610000-754509611000 rw-p 00006000 103:02 18614142                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
-754509611000-754509613000 r--p 00000000 103:02 18612852                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
-754509613000-75450961a000 r-xp 00002000 103:02 18612852                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
-75450961a000-75450961b000 r--p 00009000 103:02 18612852                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
-75450961b000-75450961c000 r--p 00009000 103:02 18612852                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
-75450961c000-75450961d000 rw-p 0000a000 103:02 18612852                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
-75450961d000-75450961f000 r--p 00000000 103:02 18626873                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
-75450961f000-754509625000 r-xp 00002000 103:02 18626873                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
-754509625000-754509627000 r--p 00008000 103:02 18626873                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
-754509627000-754509628000 r--p 00009000 103:02 18626873                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
-754509628000-754509629000 rw-p 0000a000 103:02 18626873                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
-754509629000-75450962d000 r--p 00000000 103:02 18612545                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
-75450962d000-754509638000 r-xp 00004000 103:02 18612545                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
-754509638000-75450963b000 r--p 0000f000 103:02 18612545                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
-75450963b000-75450963c000 r--p 00011000 103:02 18612545                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
-75450963c000-75450963d000 rw-p 00012000 103:02 18612545                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
-75450963d000-754509640000 rw-p 00000000 00:00 0 
-754509640000-754509642000 r--p 00000000 103:02 18612431                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
-754509642000-75450964b000 r-xp 00002000 103:02 18612431                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
-75450964b000-75450964d000 r--p 0000b000 103:02 18612431                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
-75450964d000-75450964e000 r--p 0000c000 103:02 18612431                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
-75450964e000-75450964f000 rw-p 0000d000 103:02 18612431                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
-75450964f000-754509653000 r--p 00000000 103:02 18612329                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
-754509653000-754509669000 r-xp 00004000 103:02 18612329                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
-754509669000-754509672000 r--p 0001a000 103:02 18612329                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
-754509672000-754509673000 r--p 00023000 103:02 18612329                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
-754509673000-754509674000 rw-p 00024000 103:02 18612329                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
-754509674000-754509678000 r--p 00000000 103:02 18612463                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
-754509678000-754509684000 r-xp 00004000 103:02 18612463                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
-754509684000-754509687000 r--p 00010000 103:02 18612463                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
-754509687000-754509688000 r--p 00012000 103:02 18612463                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
-754509688000-754509689000 rw-p 00013000 103:02 18612463                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
-754509689000-75450968a000 rw-p 00000000 00:00 0 
-75450968a000-75450968e000 r--p 00000000 103:02 18618624                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
-75450968e000-754509735000 r-xp 00004000 103:02 18618624                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
-754509735000-754509742000 r--p 000ab000 103:02 18618624                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
-754509742000-754509743000 r--p 000b7000 103:02 18618624                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
-754509743000-754509744000 rw-p 000b8000 103:02 18618624                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
-754509744000-754509747000 r--p 00000000 103:02 18622605                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
-754509747000-754509769000 r-xp 00003000 103:02 18622605                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
-754509769000-754509774000 r--p 00025000 103:02 18622605                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
-754509774000-754509775000 r--p 00030000 103:02 18622605                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
-754509775000-754509776000 rw-p 00031000 103:02 18622605                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
-754509776000-754509779000 r--p 00000000 103:02 18615396                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
-754509779000-754509794000 r-xp 00003000 103:02 18615396                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
-754509794000-754509796000 r--p 0001e000 103:02 18615396                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
-754509796000-754509797000 r--p 00020000 103:02 18615396                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
-754509797000-754509798000 rw-p 00021000 103:02 18615396                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
-754509798000-7545097a7000 r--p 00000000 103:02 18624819                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
-7545097a7000-75450989b000 r-xp 0000f000 103:02 18624819                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
-75450989b000-7545098d6000 r--p 00103000 103:02 18624819                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
-7545098d6000-7545098db000 r--p 0013e000 103:02 18624819                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
-7545098db000-7545098df000 rw-p 00143000 103:02 18624819                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
-7545098df000-7545098e0000 rw-p 00000000 00:00 0 
-7545098e0000-7545098e3000 r--p 00000000 103:02 18615385                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
-7545098e3000-7545098e9000 r-xp 00003000 103:02 18615385                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
-7545098e9000-7545098eb000 r--p 00009000 103:02 18615385                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
-7545098eb000-7545098ec000 r--p 0000b000 103:02 18615385                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
-7545098ec000-7545098ed000 rw-p 0000c000 103:02 18615385                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
-7545098ed000-7545098f3000 r--p 00000000 103:02 18618409                  /usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0
-7545098f3000-754509924000 r-xp 00006000 103:02 18618409                  /usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0
-754509924000-754509934000 r--p 00037000 103:02 18618409                  /usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0
-754509934000-754509935000 r--p 00047000 103:02 18618409                  /usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0
-754509935000-754509936000 rw-p 00048000 103:02 18618409                  /usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0
-754509936000-754509963000 rw-p 00000000 00:00 0 
-754509963000-754509968000 r--p 00000000 103:02 18613630                  /usr/lib/x86_64-linux-gnu/libmpg123.so.0.48.2
-754509968000-7545099a3000 r-xp 00005000 103:02 18613630                  /usr/lib/x86_64-linux-gnu/libmpg123.so.0.48.2
-7545099a3000-7545099bd000 r--p 00040000 103:02 18613630                  /usr/lib/x86_64-linux-gnu/libmpg123.so.0.48.2
-7545099bd000-7545099be000 r--p 0005a000 103:02 18613630                  /usr/lib/x86_64-linux-gnu/libmpg123.so.0.48.2
-7545099be000-7545099bf000 rw-p 0005b000 103:02 18613630                  /usr/lib/x86_64-linux-gnu/libmpg123.so.0.48.2
-7545099bf000-7545099c2000 r--p 00000000 103:02 18614439                  /usr/lib/x86_64-linux-gnu/libopus.so.0.9.0
-7545099c2000-754509a0c000 r-xp 00003000 103:02 18614439                  /usr/lib/x86_64-linux-gnu/libopus.so.0.9.0
-754509a0c000-754509a1c000 r--p 0004d000 103:02 18614439                  /usr/lib/x86_64-linux-gnu/libopus.so.0.9.0
-754509a1c000-754509a1d000 r--p 0005d000 103:02 18614439                  /usr/lib/x86_64-linux-gnu/libopus.so.0.9.0
-754509a1d000-754509a1e000 rw-p 0005e000 103:02 18614439                  /usr/lib/x86_64-linux-gnu/libopus.so.0.9.0
-754509a1e000-754509a32000 r--p 00000000 103:02 18619182                  /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
-754509a32000-754509a35000 r-xp 00014000 103:02 18619182                  /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
-754509a35000-754509aac000 r--p 00017000 103:02 18619182                  /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
-754509aac000-754509ac8000 r--p 0008d000 103:02 18619182                  /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
-754509ac8000-754509ac9000 rw-p 000a9000 103:02 18619182                  /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
-754509ac9000-754509acc000 r--p 00000000 103:02 18619186                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
-754509acc000-754509ae4000 r-xp 00003000 103:02 18619186                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
-754509ae4000-754509af5000 r--p 0001b000 103:02 18619186                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
-754509af5000-754509af6000 r--p 0002b000 103:02 18619186                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
-754509af6000-754509af7000 rw-p 0002c000 103:02 18619186                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
-754509af7000-754509aff000 r--p 00000000 103:02 18619294                  /usr/lib/x86_64-linux-gnu/libFLAC.so.12.1.0
-754509aff000-754509b51000 r-xp 00008000 103:02 18619294                  /usr/lib/x86_64-linux-gnu/libFLAC.so.12.1.0
-754509b51000-754509b59000 r--p 0005a000 103:02 18619294                  /usr/lib/x86_64-linux-gnu/libFLAC.so.12.1.0
-754509b59000-754509b5a000 r--p 00062000 103:02 18619294                  /usr/lib/x86_64-linux-gnu/libFLAC.so.12.1.0
-754509b5a000-754509b5b000 rw-p 00063000 103:02 18619294                  /usr/lib/x86_64-linux-gnu/libFLAC.so.12.1.0
-754509b5b000-754509b71000 r--p 00000000 103:02 18616912                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
-754509b71000-754509c00000 r-xp 00016000 103:02 18616912                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
-754509c00000-754509c2e000 r--p 000a5000 103:02 18616912                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
-754509c2e000-754509c39000 r--p 000d2000 103:02 18616912                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
-754509c39000-754509c3a000 rw-p 000dd000 103:02 18616912                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
-754509c3a000-754509c3b000 rw-p 00000000 00:00 0 
-754509c3b000-754509c54000 r--p 00000000 103:02 18612366                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
-754509c54000-754509ce4000 r-xp 00019000 103:02 18612366                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
-754509ce4000-754509d73000 r--p 000a9000 103:02 18612366                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
-754509d73000-754509d74000 r--p 00138000 103:02 18612366                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
-754509d74000-754509d78000 rw-p 00139000 103:02 18612366                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
-754509d78000-754509d80000 r--p 00000000 103:02 18626865                  /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37
-754509d80000-754509de1000 r-xp 00008000 103:02 18626865                  /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37
-754509de1000-754509dfa000 r--p 00069000 103:02 18626865                  /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37
-754509dfa000-754509dfd000 r--p 00081000 103:02 18626865                  /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37
-754509dfd000-754509dfe000 rw-p 00084000 103:02 18626865                  /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37
-754509dfe000-754509e00000 rw-p 00000000 00:00 0 
-754509e00000-754509e28000 r--p 00000000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
-754509e28000-754509fb0000 r-xp 00028000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
-754509fb0000-754509fff000 r--p 001b0000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
-754509fff000-75450a003000 r--p 001fe000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
-75450a003000-75450a005000 rw-p 00202000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
-75450a005000-75450a012000 rw-p 00000000 00:00 0 
-75450a013000-75450a01b000 rw-p 00000000 00:00 0 
-75450a01b000-75450a01d000 r--p 00000000 103:02 18612495                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
-75450a01d000-75450a01f000 r-xp 00002000 103:02 18612495                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
-75450a01f000-75450a021000 r--p 00004000 103:02 18612495                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
-75450a021000-75450a022000 r--p 00005000 103:02 18612495                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
-75450a022000-75450a023000 rw-p 00006000 103:02 18612495                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
-75450a023000-75450a024000 r--p 00000000 103:02 18612404                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
-75450a024000-75450a026000 r-xp 00001000 103:02 18612404                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
-75450a026000-75450a027000 r--p 00003000 103:02 18612404                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
-75450a027000-75450a028000 r--p 00003000 103:02 18612404                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
-75450a028000-75450a029000 rw-p 00004000 103:02 18612404                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
-75450a029000-75450a02b000 rw-p 00000000 00:00 0 
-75450a02b000-75450a02d000 r--p 00000000 103:02 18619106                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
-75450a02d000-75450a030000 r-xp 00002000 103:02 18619106                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
-75450a030000-75450a033000 r--p 00005000 103:02 18619106                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
-75450a033000-75450a034000 r--p 00007000 103:02 18619106                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
-75450a034000-75450a035000 rw-p 00008000 103:02 18619106                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
-75450a035000-75450a037000 rw-p 00000000 00:00 0 
-75450a037000-75450a03a000 r--p 00000000 103:02 18612796                  /usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.2
-75450a03a000-75450a044000 r-xp 00003000 103:02 18612796                  /usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.2
-75450a044000-75450a04a000 r--p 0000d000 103:02 18612796                  /usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.2
-75450a04a000-75450a04b000 r--p 00013000 103:02 18612796                  /usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.2
-75450a04b000-75450a04c000 rw-p 00014000 103:02 18612796                  /usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.2
-75450a04c000-75450a04e000 r--p 00000000 103:02 18617867                  /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
-75450a04e000-75450a051000 r-xp 00002000 103:02 18617867                  /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
-75450a051000-75450a052000 r--p 00005000 103:02 18617867                  /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
-75450a052000-75450a053000 r--p 00005000 103:02 18617867                  /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
-75450a053000-75450a054000 rw-p 00006000 103:02 18617867                  /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
-75450a054000-75450a05f000 r--p 00000000 103:02 18613642                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
-75450a05f000-75450a072000 r-xp 0000b000 103:02 18613642                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
-75450a072000-75450a07b000 r--p 0001e000 103:02 18613642                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
-75450a07b000-75450a07c000 r--p 00026000 103:02 18613642                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
-75450a07c000-75450a07d000 rw-p 00027000 103:02 18613642                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
-75450a07d000-75450a07e000 r--p 00000000 103:02 18612364                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
-75450a07e000-75450a07f000 r-xp 00001000 103:02 18612364                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
-75450a07f000-75450a080000 r--p 00002000 103:02 18612364                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
-75450a080000-75450a081000 r--p 00002000 103:02 18612364                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
-75450a081000-75450a082000 rw-p 00003000 103:02 18612364                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
-75450a082000-75450a084000 rw-p 00000000 00:00 0 
-75450a084000-75450a086000 r--p 00000000 103:02 18619244                  /usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9
-75450a086000-75450a09f000 r-xp 00002000 103:02 18619244                  /usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9
-75450a09f000-75450a0a3000 r--p 0001b000 103:02 18619244                  /usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9
-75450a0a3000-75450a0a4000 r--p 0001e000 103:02 18619244                  /usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9
-75450a0a4000-75450a0a5000 rw-p 0001f000 103:02 18619244                  /usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9
-75450a0a5000-75450a0a7000 r--p 00000000 103:02 18623848                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
-75450a0a7000-75450a0ae000 r-xp 00002000 103:02 18623848                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
-75450a0ae000-75450a0af000 r--p 00009000 103:02 18623848                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
-75450a0af000-75450a0b0000 r--p 0000a000 103:02 18623848                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
-75450a0b0000-75450a0b1000 rw-p 0000b000 103:02 18623848                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
-75450a0b1000-75450a0b3000 r--p 00000000 103:02 18615023                  /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
-75450a0b3000-75450a0c8000 r-xp 00002000 103:02 18615023                  /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
-75450a0c8000-75450a0e1000 r--p 00017000 103:02 18615023                  /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
-75450a0e1000-75450a0e2000 r--p 0002f000 103:02 18615023                  /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
-75450a0e2000-75450a0e3000 rw-p 00030000 103:02 18615023                  /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
-75450a0e3000-75450a0eb000 rw-p 00000000 00:00 0 
-75450a0eb000-75450a0ed000 r--p 00000000 103:02 18616071                  /usr/lib/x86_64-linux-gnu/libz.so.1.3
-75450a0ed000-75450a0ff000 r-xp 00002000 103:02 18616071                  /usr/lib/x86_64-linux-gnu/libz.so.1.3
-75450a0ff000-75450a105000 r--p 00014000 103:02 18616071                  /usr/lib/x86_64-linux-gnu/libz.so.1.3
-75450a105000-75450a106000 r--p 0001a000 103:02 18616071                  /usr/lib/x86_64-linux-gnu/libz.so.1.3
-75450a106000-75450a107000 rw-p 0001b000 103:02 18616071                  /usr/lib/x86_64-linux-gnu/libz.so.1.3
-75450a107000-75450a10d000 r--p 00000000 103:02 18618444                  /usr/lib/x86_64-linux-gnu/libmvec.so.1
-75450a10d000-75450a12f000 r-xp 00006000 103:02 18618444                  /usr/lib/x86_64-linux-gnu/libmvec.so.1
-75450a12f000-75450a1fe000 r--p 00028000 103:02 18618444                  /usr/lib/x86_64-linux-gnu/libmvec.so.1
-75450a1fe000-75450a1ff000 r--p 000f7000 103:02 18618444                  /usr/lib/x86_64-linux-gnu/libmvec.so.1
-75450a1ff000-75450a200000 rw-p 000f8000 103:02 18618444                  /usr/lib/x86_64-linux-gnu/libmvec.so.1
-75450a200000-75450a251000 r--p 00000000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
-75450a251000-75450a62c000 r-xp 00051000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
-75450a62c000-75450aa33000 r--p 0042c000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
-75450aa33000-75450aa4b000 r--p 00833000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
-75450aa4b000-75450aa50000 rw-p 0084b000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
-75450aa50000-75450aa6a000 rw-p 00000000 00:00 0 
-75450aa6a000-75450aa76000 r--p 00000000 103:02 18614984                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
-75450aa76000-75450aaa6000 r-xp 0000c000 103:02 18614984                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
-75450aaa6000-75450aab7000 r--p 0003c000 103:02 18614984                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
-75450aab7000-75450aab8000 r--p 0004c000 103:02 18614984                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
-75450aab8000-75450aab9000 rw-p 0004d000 103:02 18614984                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
-75450aab9000-75450aacb000 r--p 00000000 103:02 19270634                  /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so
-75450aacb000-75450ab15000 r-xp 00012000 103:02 19270634                  /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so
-75450ab15000-75450ab34000 r--p 0005c000 103:02 19270634                  /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so
-75450ab34000-75450ab36000 r--p 0007a000 103:02 19270634                  /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so
-75450ab36000-75450ab37000 rw-p 0007c000 103:02 19270634                  /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so
-75450ab37000-75450ab47000 r--p 00000000 103:02 18618416                  /usr/lib/x86_64-linux-gnu/libm.so.6
-75450ab47000-75450abc6000 r-xp 00010000 103:02 18618416                  /usr/lib/x86_64-linux-gnu/libm.so.6
-75450abc6000-75450ac1e000 r--p 0008f000 103:02 18618416                  /usr/lib/x86_64-linux-gnu/libm.so.6
-75450ac1e000-75450ac1f000 r--p 000e7000 103:02 18618416                  /usr/lib/x86_64-linux-gnu/libm.so.6
-75450ac1f000-75450ac20000 rw-p 000e8000 103:02 18618416                  /usr/lib/x86_64-linux-gnu/libm.so.6
-75450ac20000-75450ac22000 rw-p 00000000 00:00 0 
-75450ac22000-75450ac4d000 r--p 00000000 103:02 18613540                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
-75450ac4d000-75450acec000 r-xp 0002b000 103:02 18613540                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
-75450acec000-75450ad24000 r--p 000ca000 103:02 18613540                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
-75450ad24000-75450ad2b000 r--p 00101000 103:02 18613540                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
-75450ad2b000-75450ad2c000 rw-p 00108000 103:02 18613540                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
-75450ad2c000-75450ad37000 r--p 00000000 103:02 18619300                  /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
-75450ad37000-75450ad73000 r-xp 0000b000 103:02 18619300                  /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
-75450ad73000-75450ad80000 r--p 00047000 103:02 18619300                  /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
-75450ad80000-75450ad81000 r--p 00054000 103:02 18619300                  /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
-75450ad81000-75450ad82000 rw-p 00055000 103:02 18619300                  /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
-75450ad82000-75450ad8e000 r--p 00000000 103:02 18620681                  /usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2
-75450ad8e000-75450adbf000 r-xp 0000c000 103:02 18620681                  /usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2
-75450adbf000-75450add0000 r--p 0003d000 103:02 18620681                  /usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2
-75450add0000-75450add2000 r--p 0004d000 103:02 18620681                  /usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2
-75450add2000-75450add3000 rw-p 0004f000 103:02 18620681                  /usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2
-75450add3000-75450add5000 r--p 00000000 103:02 18617778                  /usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1
-75450add5000-75450add7000 r-xp 00002000 103:02 18617778                  /usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1
-75450add7000-75450add8000 r--p 00004000 103:02 18617778                  /usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1
-75450add8000-75450add9000 r--p 00004000 103:02 18617778                  /usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1
-75450add9000-75450adda000 rw-p 00005000 103:02 18617778                  /usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1
-75450addc000-75450adde000 rw-s 10ba79000 00:0f 1052                      anon_inode:i915.gem
-75450adde000-75450addf000 rw-s 00000000 00:01 906641                     /memfd:xshmfence (deleted)
-75450ade0000-75450ade2000 rw-s 105465000 00:0f 1052                      anon_inode:i915.gem
-75450ade2000-75450ade3000 rw-s 00000000 00:01 906642                     /memfd:xshmfence (deleted)
-75450ade3000-75450adea000 r--s 00000000 103:02 19311055                  /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
-75450adea000-75450adeb000 rw-s 10198f000 00:0f 1052                      anon_inode:i915.gem
-75450adeb000-75450adec000 rw-s 1050bb000 00:0f 1052                      anon_inode:i915.gem
-75450adec000-75450aded000 rw-s 1050ba000 00:0f 1052                      anon_inode:i915.gem
-75450aded000-75450adfd000 rw-s 1088f1000 00:0f 1052                      anon_inode:i915.gem
-75450adfd000-75450adfe000 rw-s 105018000 00:0f 1052                      anon_inode:i915.gem
-75450adfe000-75450ae00000 rw-p 00000000 00:00 0 
-75450ae00000-75450ae01000 r--p 00000000 103:02 18612301                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
-75450ae01000-75450ae2c000 r-xp 00001000 103:02 18612301                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
-75450ae2c000-75450ae36000 r--p 0002c000 103:02 18612301                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
-75450ae36000-75450ae38000 r--p 00036000 103:02 18612301                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
-75450ae38000-75450ae3a000 rw-p 00038000 103:02 18612301                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
-7ffef3fe0000-7ffef4002000 rw-p 00000000 00:00 0                          [stack]
-7ffef4056000-7ffef405a000 r--p 00000000 00:00 0                          [vvar]
-7ffef405a000-7ffef405c000 r-xp 00000000 00:00 0                          [vdso]
+6326a17da000-6326a18a9000 r--p 00000000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
+6326a18a9000-6326a22ec000 r-xp 000cf000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
+6326a22ec000-6326a26b1000 r--p 00b12000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
+6326a26b1000-6326a2737000 r--p 00ed6000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
+6326a2737000-6326a2813000 rw-p 00f5c000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
+6326a2813000-6326a296a000 rw-p 00000000 00:00 0 
+6326a83f6000-6326a9934000 rw-p 00000000 00:00 0                          [heap]
+7e8f48000000-7e8f48096000 rw-p 00000000 00:00 0 
+7e8f48096000-7e8f4c000000 ---p 00000000 00:00 0 
+7e8f50000000-7e8f57ff9000 rw-p 00000000 00:00 0 
+7e8f57ff9000-7e8f58000000 ---p 00000000 00:00 0 
+7e8f58000000-7e8f58021000 rw-p 00000000 00:00 0 
+7e8f58021000-7e8f5c000000 ---p 00000000 00:00 0 
+7e8f5c000000-7e8f60000000 rw-p 00000000 00:00 0 
+7e8f60000000-7e8f60021000 rw-p 00000000 00:00 0 
+7e8f60021000-7e8f64000000 ---p 00000000 00:00 0 
+7e8f68000000-7e8f68021000 rw-p 00000000 00:00 0 
+7e8f68021000-7e8f6c000000 ---p 00000000 00:00 0 
+7e8f70000000-7e8f70021000 rw-p 00000000 00:00 0 
+7e8f70021000-7e8f74000000 ---p 00000000 00:00 0 
+7e8f78000000-7e8f78021000 rw-p 00000000 00:00 0 
+7e8f78021000-7e8f7c000000 ---p 00000000 00:00 0 
+7e8f7e400000-7e8f7f69c000 r--s 00000000 103:02 19835201                  /home/ryan.underwood/aDocuments/CodingProjects/Pokemon-Sunday-3/Pokemon Sunday (Linux)
+7e8f7f72c000-7e8f7f92c000 rw-s 10be7f000 00:0f 1052                      anon_inode:i915.gem
+7e8f80000000-7e8f80021000 rw-p 00000000 00:00 0 
+7e8f80021000-7e8f84000000 ---p 00000000 00:00 0 
+7e8f842fc000-7e8f8430c000 rw-s 10a7bb000 00:0f 1052                      anon_inode:i915.gem
+7e8f84400000-7e8f84607000 r--s 00000000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
+7e8f84800000-7e8f850ef000 r--s 00000000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
+7e8f851d8000-7e8f85268000 rw-p 00000000 00:00 0 
+7e8f8526c000-7e8f88021000 rw-p 00000000 00:00 0 
+7e8f88021000-7e8f8c000000 ---p 00000000 00:00 0 
+7e8f8c004000-7e8f8c3b8000 rw-p 00000000 00:00 0 
+7e8f8c3bb000-7e8f8c3bc000 ---p 00000000 00:00 0 
+7e8f8c3bc000-7e8f8c45d000 rw-p 00000000 00:00 0 
+7e8f8c45d000-7e8f8c45e000 ---p 00000000 00:00 0 
+7e8f8c45e000-7e8f8c4ff000 rw-p 00000000 00:00 0 
+7e8f8c4ff000-7e8f8c500000 ---p 00000000 00:00 0 
+7e8f8c500000-7e8f8c5a1000 rw-p 00000000 00:00 0 
+7e8f8c5a1000-7e8f8c5a2000 ---p 00000000 00:00 0 
+7e8f8c5a2000-7e8f8c643000 rw-p 00000000 00:00 0 
+7e8f8c643000-7e8f8c644000 ---p 00000000 00:00 0 
+7e8f8c644000-7e8f8c6e5000 rw-p 00000000 00:00 0 
+7e8f8c6e5000-7e8f8c6e6000 ---p 00000000 00:00 0 
+7e8f8c6e6000-7e8f8c787000 rw-p 00000000 00:00 0 
+7e8f8c787000-7e8f8c788000 ---p 00000000 00:00 0 
+7e8f8c788000-7e8f8c829000 rw-p 00000000 00:00 0 
+7e8f8c829000-7e8f8c82a000 ---p 00000000 00:00 0 
+7e8f8c82a000-7e8f8c8cb000 rw-p 00000000 00:00 0 
+7e8f8c8cb000-7e8f8c8cc000 ---p 00000000 00:00 0 
+7e8f8c8cc000-7e8f8c96d000 rw-p 00000000 00:00 0 
+7e8f8c96d000-7e8f8c96e000 ---p 00000000 00:00 0 
+7e8f8c96e000-7e8f8ca0f000 rw-p 00000000 00:00 0 
+7e8f8ca0f000-7e8f8ca10000 ---p 00000000 00:00 0 
+7e8f8ca10000-7e8f8cab1000 rw-p 00000000 00:00 0 
+7e8f8cab1000-7e8f8cab2000 ---p 00000000 00:00 0 
+7e8f8cab2000-7e8f8cb53000 rw-p 00000000 00:00 0 
+7e8f8cb53000-7e8f8cb54000 ---p 00000000 00:00 0 
+7e8f8cb54000-7e8f8cbf5000 rw-p 00000000 00:00 0 
+7e8f8cbf5000-7e8f8cbf6000 ---p 00000000 00:00 0 
+7e8f8cbf6000-7e8f8cc97000 rw-p 00000000 00:00 0 
+7e8f8cc97000-7e8f8cc98000 ---p 00000000 00:00 0 
+7e8f8cc98000-7e8f8cd39000 rw-p 00000000 00:00 0 
+7e8f8cd39000-7e8f8cd3a000 ---p 00000000 00:00 0 
+7e8f8cd3a000-7e8f8cddb000 rw-p 00000000 00:00 0 
+7e8f8cddb000-7e8f8cddc000 ---p 00000000 00:00 0 
+7e8f8cddc000-7e8f8ce7d000 rw-p 00000000 00:00 0 
+7e8f8ce7d000-7e8f8ce7e000 ---p 00000000 00:00 0 
+7e8f8ce7e000-7e8f8cf1f000 rw-p 00000000 00:00 0 
+7e8f8cf1f000-7e8f8cf20000 ---p 00000000 00:00 0 
+7e8f8cf20000-7e8f8cfc1000 rw-p 00000000 00:00 0 
+7e8f8cfc1000-7e8f8cfc2000 ---p 00000000 00:00 0 
+7e8f8cfc2000-7e8f8d063000 rw-p 00000000 00:00 0 
+7e8f8d063000-7e8f8d064000 ---p 00000000 00:00 0 
+7e8f8d064000-7e8f8d105000 rw-p 00000000 00:00 0 
+7e8f8d105000-7e8f8d106000 ---p 00000000 00:00 0 
+7e8f8d106000-7e8f8d1a7000 rw-p 00000000 00:00 0 
+7e8f8d1a7000-7e8f8d1a8000 ---p 00000000 00:00 0 
+7e8f8d1a8000-7e8f8d249000 rw-p 00000000 00:00 0 
+7e8f8d249000-7e8f8d24a000 ---p 00000000 00:00 0 
+7e8f8d24a000-7e8f8d2eb000 rw-p 00000000 00:00 0 
+7e8f8d2eb000-7e8f8d2ec000 ---p 00000000 00:00 0 
+7e8f8d2ec000-7e8f8d38d000 rw-p 00000000 00:00 0 
+7e8f8d38d000-7e8f8d38e000 ---p 00000000 00:00 0 
+7e8f8d38e000-7e8f8d42f000 rw-p 00000000 00:00 0 
+7e8f8d42f000-7e8f8d430000 ---p 00000000 00:00 0 
+7e8f8d430000-7e8f8d4d1000 rw-p 00000000 00:00 0 
+7e8f8d4d1000-7e8f8d4d2000 ---p 00000000 00:00 0 
+7e8f8d4d2000-7e8f8d573000 rw-p 00000000 00:00 0 
+7e8f8d573000-7e8f8d574000 ---p 00000000 00:00 0 
+7e8f8d574000-7e8f8d615000 rw-p 00000000 00:00 0 
+7e8f8d615000-7e8f8d616000 ---p 00000000 00:00 0 
+7e8f8d616000-7e8f8d6b7000 rw-p 00000000 00:00 0 
+7e8f8d6b7000-7e8f8d6b8000 ---p 00000000 00:00 0 
+7e8f8d6b8000-7e8f8d759000 rw-p 00000000 00:00 0 
+7e8f8d759000-7e8f8d75a000 ---p 00000000 00:00 0 
+7e8f8d75a000-7e8f8d7fb000 rw-p 00000000 00:00 0 
+7e8f8d7fb000-7e8f8d7fc000 ---p 00000000 00:00 0 
+7e8f8d7fc000-7e8f8dffc000 rw-p 00000000 00:00 0 
+7e8f8dffc000-7e8f8dffd000 ---p 00000000 00:00 0 
+7e8f8dffd000-7e8f8e7fd000 rw-p 00000000 00:00 0 
+7e8f8e7fd000-7e8f8e7fe000 ---p 00000000 00:00 0 
+7e8f8e7fe000-7e8f8effe000 rw-p 00000000 00:00 0 
+7e8f8effe000-7e8f8efff000 ---p 00000000 00:00 0 
+7e8f8efff000-7e8f8f7ff000 rw-p 00000000 00:00 0 
+7e8f8f7ff000-7e8f8f800000 ---p 00000000 00:00 0 
+7e8f8f800000-7e8f90000000 rw-p 00000000 00:00 0 
+7e8f90000000-7e8f90021000 rw-p 00000000 00:00 0 
+7e8f90021000-7e8f94000000 ---p 00000000 00:00 0 
+7e8f94000000-7e8f94021000 rw-p 00000000 00:00 0 
+7e8f94021000-7e8f98000000 ---p 00000000 00:00 0 
+7e8f98000000-7e8f9bfed000 rw-p 00000000 00:00 0 
+7e8f9bfed000-7e8f9c000000 ---p 00000000 00:00 0 
+7e8f9c004000-7e8f9c1b4000 rw-p 00000000 00:00 0 
+7e8f9c338000-7e8f9c428000 rw-p 00000000 00:00 0 
+7e8f9c428000-7e8f9c429000 ---p 00000000 00:00 0 
+7e8f9c429000-7e8f9cc29000 rw-p 00000000 00:00 0 
+7e8f9cc29000-7e8f9cc2a000 ---p 00000000 00:00 0 
+7e8f9cc2a000-7e8f9d42a000 rw-p 00000000 00:00 0 
+7e8f9d42a000-7e8f9d7fb000 rw-p 00000000 00:00 0 
+7e8f9d7fb000-7e8f9d7fc000 ---p 00000000 00:00 0 
+7e8f9d7fc000-7e8f9dffc000 rw-p 00000000 00:00 0 
+7e8f9dffc000-7e8f9dffd000 ---p 00000000 00:00 0 
+7e8f9dffd000-7e8f9e7fd000 rw-p 00000000 00:00 0 
+7e8f9e7fd000-7e8f9e7fe000 ---p 00000000 00:00 0 
+7e8f9e7fe000-7e8f9effe000 rw-p 00000000 00:00 0 
+7e8f9effe000-7e8f9efff000 ---p 00000000 00:00 0 
+7e8f9efff000-7e8f9f7ff000 rw-p 00000000 00:00 0 
+7e8f9f7ff000-7e8f9f800000 ---p 00000000 00:00 0 
+7e8f9f800000-7e8fa0000000 rw-p 00000000 00:00 0 
+7e8fa0000000-7e8fa4000000 rw-s 00000000 00:01 1144842                    /memfd:pulseaudio (deleted)
+7e8fa4000000-7e8fa4021000 rw-p 00000000 00:00 0 
+7e8fa4021000-7e8fa8000000 ---p 00000000 00:00 0 
+7e8fa8000000-7e8fac000000 rw-s 00000000 00:01 1144841                    /memfd:pulseaudio (deleted)
+7e8fac000000-7e8fac021000 rw-p 00000000 00:00 0 
+7e8fac021000-7e8fb0000000 ---p 00000000 00:00 0 
+7e8fb0000000-7e8fb0021000 rw-p 00000000 00:00 0 
+7e8fb0021000-7e8fb4000000 ---p 00000000 00:00 0 
+7e8fb4000000-7e8fb4021000 rw-p 00000000 00:00 0 
+7e8fb4021000-7e8fb8000000 ---p 00000000 00:00 0 
+7e8fb8004000-7e8fb8294000 rw-p 00000000 00:00 0 
+7e8fb8298000-7e8fb8398000 rw-p 00000000 00:00 0 
+7e8fb839a000-7e8fb84bb000 rw-p 00000000 00:00 0 
+7e8fb84bb000-7e8fb86bb000 rw-s 127955000 00:0f 1052                      anon_inode:i915.gem
+7e8fb86bb000-7e8fb86bc000 ---p 00000000 00:00 0 
+7e8fb86bc000-7e8fb8ebc000 rw-p 00000000 00:00 0 
+7e8fb8ebc000-7e8fb8ebd000 ---p 00000000 00:00 0 
+7e8fb8ebd000-7e8fb96bd000 rw-p 00000000 00:00 0 
+7e8fb96bd000-7e8fb96be000 ---p 00000000 00:00 0 
+7e8fb96be000-7e8fb9ebe000 rw-p 00000000 00:00 0 
+7e8fb9ebe000-7e8fb9ebf000 ---p 00000000 00:00 0 
+7e8fb9ebf000-7e8fba6bf000 rw-p 00000000 00:00 0 
+7e8fba6bf000-7e8fba800000 rw-s 00000000 103:02 17695250                  /home/ryan.underwood/.cache/mesa_shader_cache/index
+7e8fba800000-7e8fbaa00000 rw-s 125521000 00:0f 1052                      anon_inode:i915.gem
+7e8fbaa00000-7e8fbaa01000 r--p 00000000 103:02 18613580                  /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+7e8fbaa01000-7e8fbaa02000 r-xp 00001000 103:02 18613580                  /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+7e8fbaa02000-7e8fbc75e000 r--p 00002000 103:02 18613580                  /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+7e8fbc75e000-7e8fbc75f000 r--p 01d5d000 103:02 18613580                  /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+7e8fbc75f000-7e8fbc760000 rw-p 01d5e000 103:02 18613580                  /usr/lib/x86_64-linux-gnu/libicudata.so.74.2
+7e8fbc764000-7e8fbc7e0000 rw-p 00000000 00:00 0 
+7e8fbc7e0000-7e8fbc7f0000 rw-s 10a7ab000 00:0f 1052                      anon_inode:i915.gem
+7e8fbc800000-7e8fbc868000 r--p 00000000 103:02 18613603                  /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+7e8fbc868000-7e8fbc96d000 r-xp 00068000 103:02 18613603                  /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+7e8fbc96d000-7e8fbc9f7000 r--p 0016d000 103:02 18613603                  /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+7e8fbc9f7000-7e8fbca0a000 r--p 001f7000 103:02 18613603                  /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+7e8fbca0a000-7e8fbca0b000 rw-p 0020a000 103:02 18613603                  /usr/lib/x86_64-linux-gnu/libicuuc.so.74.2
+7e8fbca0b000-7e8fbca0d000 rw-p 00000000 00:00 0 
+7e8fbca0e000-7e8fbca1e000 rw-s 105641000 00:0f 1052                      anon_inode:i915.gem
+7e8fbca1e000-7e8fbca4d000 r--p 00000000 103:02 18612331                  /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+7e8fbca4d000-7e8fbcbb3000 r-xp 0002f000 103:02 18612331                  /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+7e8fbcbb3000-7e8fbcbf5000 r--p 00195000 103:02 18612331                  /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+7e8fbcbf5000-7e8fbcbfe000 r--p 001d6000 103:02 18612331                  /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+7e8fbcbfe000-7e8fbcbff000 rw-p 001df000 103:02 18612331                  /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.14
+7e8fbcbff000-7e8fbcc00000 rw-p 00000000 00:00 0 
+7e8fbcc00000-7e8fbcc9d000 r--p 00000000 103:02 18614443                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+7e8fbcc9d000-7e8fbcde5000 r-xp 0009d000 103:02 18614443                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+7e8fbcde5000-7e8fbce6c000 r--p 001e5000 103:02 18614443                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+7e8fbce6c000-7e8fbce77000 r--p 0026b000 103:02 18614443                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+7e8fbce77000-7e8fbce7a000 rw-p 00276000 103:02 18614443                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+7e8fbce7a000-7e8fbce7e000 rw-p 00000000 00:00 0 
+7e8fbce84000-7e8fbce8c000 rw-p 00000000 00:00 0 
+7e8fbce8c000-7e8fbce9c000 rw-s 105621000 00:0f 1052                      anon_inode:i915.gem
+7e8fbce9c000-7e8fbceac000 rw-s 105611000 00:0f 1052                      anon_inode:i915.gem
+7e8fbceac000-7e8fbcecc000 rw-s 1212a5000 00:0f 1052                      anon_inode:i915.gem
+7e8fbcecc000-7e8fbceec000 rw-s 121ddd000 00:0f 1052                      anon_inode:i915.gem
+7e8fbceec000-7e8fbcf0c000 rw-s 121dbd000 00:0f 1052                      anon_inode:i915.gem
+7e8fbcf0c000-7e8fbcf8c000 rw-s 1281cd000 00:0f 1052                      anon_inode:i915.gem
+7e8fbcf8c000-7e8fbcfcc000 rw-s 1003c0000 00:0f 1052                      anon_inode:i915.gem
+7e8fbcfcc000-7e8fbcfda000 r--p 00000000 103:02 18613434                  /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+7e8fbcfda000-7e8fbcfed000 r-xp 0000e000 103:02 18613434                  /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+7e8fbcfed000-7e8fbcffb000 r--p 00021000 103:02 18613434                  /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+7e8fbcffb000-7e8fbcfff000 r--p 0002e000 103:02 18613434                  /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+7e8fbcfff000-7e8fbd000000 rw-p 00032000 103:02 18613434                  /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+7e8fbd000000-7e8fc5208000 r-xp 00000000 103:02 18626137                  /usr/lib/x86_64-linux-gnu/libLLVM.so.20.1
+7e8fc5208000-7e8fc5209000 ---p 08208000 103:02 18626137                  /usr/lib/x86_64-linux-gnu/libLLVM.so.20.1
+7e8fc5209000-7e8fc589e000 r--p 08208000 103:02 18626137                  /usr/lib/x86_64-linux-gnu/libLLVM.so.20.1
+7e8fc589e000-7e8fc58e6000 rw-p 0889d000 103:02 18626137                  /usr/lib/x86_64-linux-gnu/libLLVM.so.20.1
+7e8fc58e6000-7e8fc598e000 rw-p 00000000 00:00 0 
+7e8fc5994000-7e8fc5998000 rw-p 00000000 00:00 0 
+7e8fc5998000-7e8fc59a0000 r--p 00000000 103:02 18612315                  /usr/lib/x86_64-linux-gnu/libedit.so.2.0.72
+7e8fc59a0000-7e8fc59bf000 r-xp 00008000 103:02 18612315                  /usr/lib/x86_64-linux-gnu/libedit.so.2.0.72
+7e8fc59bf000-7e8fc59cb000 r--p 00027000 103:02 18612315                  /usr/lib/x86_64-linux-gnu/libedit.so.2.0.72
+7e8fc59cb000-7e8fc59cd000 r--p 00033000 103:02 18612315                  /usr/lib/x86_64-linux-gnu/libedit.so.2.0.72
+7e8fc59cd000-7e8fc59ce000 rw-p 00035000 103:02 18612315                  /usr/lib/x86_64-linux-gnu/libedit.so.2.0.72
+7e8fc59ce000-7e8fc59d2000 rw-p 00000000 00:00 0 
+7e8fc59d2000-7e8fc59d6000 r--p 00000000 103:02 18619410                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7e8fc59d6000-7e8fc59fa000 r-xp 00004000 103:02 18619410                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7e8fc59fa000-7e8fc59fe000 r--p 00028000 103:02 18619410                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7e8fc59fe000-7e8fc59ff000 r--p 0002b000 103:02 18619410                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7e8fc59ff000-7e8fc5a00000 rw-p 0002c000 103:02 18619410                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7e8fc5a00000-7e8fc5acf000 r--p 00000000 103:02 18626141                  /usr/lib/x86_64-linux-gnu/libgallium-25.2.8-0ubuntu0.24.04.2.so
+7e8fc5acf000-7e8fc72e2000 r-xp 000cf000 103:02 18626141                  /usr/lib/x86_64-linux-gnu/libgallium-25.2.8-0ubuntu0.24.04.2.so
+7e8fc72e2000-7e8fc8221000 r--p 018e2000 103:02 18626141                  /usr/lib/x86_64-linux-gnu/libgallium-25.2.8-0ubuntu0.24.04.2.so
+7e8fc8221000-7e8fc8347000 r--p 02821000 103:02 18626141                  /usr/lib/x86_64-linux-gnu/libgallium-25.2.8-0ubuntu0.24.04.2.so
+7e8fc8347000-7e8fc8369000 rw-p 02947000 103:02 18626141                  /usr/lib/x86_64-linux-gnu/libgallium-25.2.8-0ubuntu0.24.04.2.so
+7e8fc8369000-7e8fc8533000 rw-p 00000000 00:00 0 
+7e8fc8535000-7e8fc8555000 rw-s 1212c5000 00:0f 1052                      anon_inode:i915.gem
+7e8fc8555000-7e8fc8557000 r--p 00000000 103:02 18613596                  /usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1
+7e8fc8557000-7e8fc855c000 r-xp 00002000 103:02 18613596                  /usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1
+7e8fc855c000-7e8fc855e000 r--p 00007000 103:02 18613596                  /usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1
+7e8fc855e000-7e8fc855f000 r--p 00008000 103:02 18613596                  /usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1
+7e8fc855f000-7e8fc8560000 rw-p 00009000 103:02 18613596                  /usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1
+7e8fc8560000-7e8fc8563000 r--p 00000000 103:02 18613610                  /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.125.0
+7e8fc8563000-7e8fc8579000 r-xp 00003000 103:02 18613610                  /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.125.0
+7e8fc8579000-7e8fc8582000 r--p 00019000 103:02 18613610                  /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.125.0
+7e8fc8582000-7e8fc8583000 r--p 00021000 103:02 18613610                  /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.125.0
+7e8fc8583000-7e8fc8584000 rw-p 00022000 103:02 18613610                  /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.125.0
+7e8fc8584000-7e8fc8587000 r--p 00000000 103:02 18614351                  /usr/lib/x86_64-linux-gnu/libelf-0.190.so
+7e8fc8587000-7e8fc859d000 r-xp 00003000 103:02 18614351                  /usr/lib/x86_64-linux-gnu/libelf-0.190.so
+7e8fc859d000-7e8fc85a1000 r--p 00019000 103:02 18614351                  /usr/lib/x86_64-linux-gnu/libelf-0.190.so
+7e8fc85a1000-7e8fc85a2000 r--p 0001c000 103:02 18614351                  /usr/lib/x86_64-linux-gnu/libelf-0.190.so
+7e8fc85a2000-7e8fc85a3000 rw-p 0001d000 103:02 18614351                  /usr/lib/x86_64-linux-gnu/libelf-0.190.so
+7e8fc85a3000-7e8fc85a6000 r--p 00000000 103:02 18613587                  /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.125.0
+7e8fc85a6000-7e8fc85ac000 r-xp 00003000 103:02 18613587                  /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.125.0
+7e8fc85ac000-7e8fc85ae000 r--p 00009000 103:02 18613587                  /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.125.0
+7e8fc85ae000-7e8fc85af000 r--p 0000a000 103:02 18613587                  /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.125.0
+7e8fc85af000-7e8fc85b0000 rw-p 0000b000 103:02 18613587                  /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.125.0
+7e8fc85b0000-7e8fc85b1000 r--p 00000000 103:02 18626130                  /usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0
+7e8fc85b1000-7e8fc85b2000 r-xp 00001000 103:02 18626130                  /usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0
+7e8fc85b2000-7e8fc85b3000 r--p 00002000 103:02 18626130                  /usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0
+7e8fc85b3000-7e8fc85b4000 r--p 00002000 103:02 18626130                  /usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0
+7e8fc85b4000-7e8fc85b5000 rw-p 00003000 103:02 18626130                  /usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0
+7e8fc85b5000-7e8fc85b8000 r--p 00000000 103:02 18625801                  /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
+7e8fc85b8000-7e8fc85bb000 r-xp 00003000 103:02 18625801                  /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
+7e8fc85bb000-7e8fc85bc000 r--p 00006000 103:02 18625801                  /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
+7e8fc85bc000-7e8fc85bd000 r--p 00007000 103:02 18625801                  /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
+7e8fc85bd000-7e8fc85be000 rw-p 00008000 103:02 18625801                  /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0
+7e8fc85be000-7e8fc85c5000 r--p 00000000 103:02 18625797                  /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7e8fc85c5000-7e8fc85ca000 r-xp 00007000 103:02 18625797                  /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7e8fc85ca000-7e8fc85cd000 r--p 0000c000 103:02 18625797                  /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7e8fc85cd000-7e8fc85ce000 r--p 0000f000 103:02 18625797                  /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7e8fc85ce000-7e8fc85cf000 rw-p 00010000 103:02 18625797                  /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0
+7e8fc85cf000-7e8fc85d1000 r--p 00000000 103:02 18615383                  /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
+7e8fc85d1000-7e8fc85d8000 r-xp 00002000 103:02 18615383                  /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
+7e8fc85d8000-7e8fc85dc000 r--p 00009000 103:02 18615383                  /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
+7e8fc85dc000-7e8fc85dd000 r--p 0000d000 103:02 18615383                  /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
+7e8fc85dd000-7e8fc85de000 rw-p 0000e000 103:02 18615383                  /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
+7e8fc85de000-7e8fc85e1000 r--p 00000000 103:02 18626031                  /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0
+7e8fc85e1000-7e8fc85e4000 r-xp 00003000 103:02 18626031                  /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0
+7e8fc85e4000-7e8fc85e6000 r--p 00006000 103:02 18626031                  /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0
+7e8fc85e6000-7e8fc85e7000 r--p 00007000 103:02 18626031                  /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0
+7e8fc85e7000-7e8fc85e8000 rw-p 00008000 103:02 18626031                  /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0
+7e8fc85e8000-7e8fc85e9000 r--p 00000000 103:02 18621503                  /usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0
+7e8fc85e9000-7e8fc85ea000 r-xp 00001000 103:02 18621503                  /usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0
+7e8fc85ea000-7e8fc85eb000 r--p 00002000 103:02 18621503                  /usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0
+7e8fc85eb000-7e8fc85ec000 r--p 00002000 103:02 18621503                  /usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0
+7e8fc85ec000-7e8fc85ed000 rw-p 00003000 103:02 18621503                  /usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0
+7e8fc85ed000-7e8fc85ef000 r--p 00000000 103:02 18617209                  /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.1.0
+7e8fc85ef000-7e8fc85f1000 r-xp 00002000 103:02 18617209                  /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.1.0
+7e8fc85f1000-7e8fc85f2000 r--p 00004000 103:02 18617209                  /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.1.0
+7e8fc85f2000-7e8fc85f3000 r--p 00004000 103:02 18617209                  /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.1.0
+7e8fc85f3000-7e8fc85f4000 rw-p 00005000 103:02 18617209                  /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.1.0
+7e8fc85f4000-7e8fc85f8000 r--p 00000000 103:02 18632115                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+7e8fc85f8000-7e8fc8615000 r-xp 00004000 103:02 18632115                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+7e8fc8615000-7e8fc861d000 r--p 00021000 103:02 18632115                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+7e8fc861d000-7e8fc861f000 r--p 00028000 103:02 18632115                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+7e8fc861f000-7e8fc8620000 rw-p 0002a000 103:02 18632115                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+7e8fc8620000-7e8fc8621000 r--p 00000000 103:02 18613700                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7e8fc8621000-7e8fc8622000 r-xp 00001000 103:02 18613700                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7e8fc8622000-7e8fc8623000 r--p 00002000 103:02 18613700                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7e8fc8623000-7e8fc8624000 r--p 00002000 103:02 18613700                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7e8fc8624000-7e8fc8625000 rw-p 00003000 103:02 18613700                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7e8fc8625000-7e8fc8630000 r--p 00000000 103:02 18626186                  /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0
+7e8fc8630000-7e8fc8639000 r-xp 0000b000 103:02 18626186                  /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0
+7e8fc8639000-7e8fc863e000 r--p 00014000 103:02 18626186                  /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0
+7e8fc863e000-7e8fc8640000 r--p 00019000 103:02 18626186                  /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0
+7e8fc8640000-7e8fc8641000 rw-p 0001b000 103:02 18626186                  /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0
+7e8fc8641000-7e8fc864c000 r--p 00000000 103:02 18617167                  /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0
+7e8fc864c000-7e8fc8679000 r-xp 0000b000 103:02 18617167                  /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0
+7e8fc8679000-7e8fc8688000 r--p 00038000 103:02 18617167                  /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0
+7e8fc8688000-7e8fc868b000 r--p 00047000 103:02 18617167                  /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0
+7e8fc868b000-7e8fc868c000 rw-p 0004a000 103:02 18617167                  /usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0
+7e8fc868c000-7e8fc868d000 rw-p 00000000 00:00 0 
+7e8fc868d000-7e8fc8690000 r--p 00000000 103:02 18617170                  /usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0
+7e8fc8690000-7e8fc86ab000 r-xp 00003000 103:02 18617170                  /usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0
+7e8fc86ab000-7e8fc86ae000 r--p 0001e000 103:02 18617170                  /usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0
+7e8fc86ae000-7e8fc86af000 r--p 00020000 103:02 18617170                  /usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0
+7e8fc86af000-7e8fc86b0000 rw-p 00021000 103:02 18617170                  /usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0
+7e8fc86b0000-7e8fc86c0000 rw-p 00000000 00:00 0 
+7e8fc86c0000-7e8fc8701000 r--p 00000000 103:02 18617177                  /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0
+7e8fc8701000-7e8fc8740000 r-xp 00041000 103:02 18617177                  /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0
+7e8fc8740000-7e8fc8753000 r--p 00080000 103:02 18617177                  /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0
+7e8fc8753000-7e8fc876f000 r--p 00093000 103:02 18617177                  /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0
+7e8fc876f000-7e8fc8770000 rw-p 000af000 103:02 18617177                  /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0
+7e8fc8770000-7e8fc8778000 rw-p 00000000 00:00 0 
+7e8fc8778000-7e8fc87bb000 r--p 00000000 103:02 18613561                  /usr/lib/x86_64-linux-gnu/libGL.so.1.7.0
+7e8fc87bb000-7e8fc87db000 r-xp 00043000 103:02 18613561                  /usr/lib/x86_64-linux-gnu/libGL.so.1.7.0
+7e8fc87db000-7e8fc87ef000 r--p 00063000 103:02 18613561                  /usr/lib/x86_64-linux-gnu/libGL.so.1.7.0
+7e8fc87ef000-7e8fc87fd000 r--p 00077000 103:02 18613561                  /usr/lib/x86_64-linux-gnu/libGL.so.1.7.0
+7e8fc87fd000-7e8fc87fe000 rw-p 00085000 103:02 18613561                  /usr/lib/x86_64-linux-gnu/libGL.so.1.7.0
+7e8fc87fe000-7e8fc87ff000 rw-p 00000000 00:00 0 
+7e8fc87ff000-7e8fc8800000 ---p 00000000 00:00 0 
+7e8fc8800000-7e8fc9000000 rw-p 00000000 00:00 0 
+7e8fc9000000-7e8fc9575000 r--p 00000000 103:02 18614460                  /usr/lib/locale/locale-archive
+7e8fc9579000-7e8fc957a000 r--p 00000000 103:02 18625325                  /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
+7e8fc957a000-7e8fc957d000 r-xp 00001000 103:02 18625325                  /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
+7e8fc957d000-7e8fc957e000 r--p 00004000 103:02 18625325                  /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
+7e8fc957e000-7e8fc957f000 r--p 00004000 103:02 18625325                  /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
+7e8fc957f000-7e8fc9580000 rw-p 00005000 103:02 18625325                  /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0
+7e8fc9580000-7e8fc9585000 r--p 00000000 103:02 18616349                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
+7e8fc9585000-7e8fc9591000 r-xp 00005000 103:02 18616349                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
+7e8fc9591000-7e8fc9595000 r--p 00011000 103:02 18616349                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
+7e8fc9595000-7e8fc9596000 r--p 00015000 103:02 18616349                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
+7e8fc9596000-7e8fc9597000 rw-p 00016000 103:02 18616349                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
+7e8fc9597000-7e8fc95e4000 rw-p 00000000 00:00 0 
+7e8fc95e4000-7e8fc95e5000 r--p 00000000 103:02 18625385                  /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
+7e8fc95e5000-7e8fc95e6000 r-xp 00001000 103:02 18625385                  /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
+7e8fc95e6000-7e8fc95e7000 r--p 00002000 103:02 18625385                  /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
+7e8fc95e7000-7e8fc95e8000 r--p 00002000 103:02 18625385                  /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
+7e8fc95e8000-7e8fc95e9000 rw-p 00003000 103:02 18625385                  /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
+7e8fc95e9000-7e8fc95eb000 r--p 00000000 103:02 18612873                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7e8fc95eb000-7e8fc95f2000 r-xp 00002000 103:02 18612873                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7e8fc95f2000-7e8fc95f4000 r--p 00009000 103:02 18612873                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7e8fc95f4000-7e8fc95f5000 r--p 0000a000 103:02 18612873                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7e8fc95f5000-7e8fc95f6000 rw-p 0000b000 103:02 18612873                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7e8fc95f6000-7e8fc95f9000 r--p 00000000 103:02 18619487                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7e8fc95f9000-7e8fc9605000 r-xp 00003000 103:02 18619487                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7e8fc9605000-7e8fc9607000 r--p 0000f000 103:02 18619487                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7e8fc9607000-7e8fc9608000 r--p 00011000 103:02 18619487                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7e8fc9608000-7e8fc9609000 rw-p 00012000 103:02 18619487                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7e8fc9609000-7e8fc960b000 r--p 00000000 103:02 18614142                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7e8fc960b000-7e8fc960e000 r-xp 00002000 103:02 18614142                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7e8fc960e000-7e8fc960f000 r--p 00005000 103:02 18614142                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7e8fc960f000-7e8fc9610000 r--p 00005000 103:02 18614142                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7e8fc9610000-7e8fc9611000 rw-p 00006000 103:02 18614142                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7e8fc9611000-7e8fc9613000 r--p 00000000 103:02 18612852                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7e8fc9613000-7e8fc961a000 r-xp 00002000 103:02 18612852                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7e8fc961a000-7e8fc961b000 r--p 00009000 103:02 18612852                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7e8fc961b000-7e8fc961c000 r--p 00009000 103:02 18612852                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7e8fc961c000-7e8fc961d000 rw-p 0000a000 103:02 18612852                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7e8fc961d000-7e8fc961f000 r--p 00000000 103:02 18626873                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7e8fc961f000-7e8fc9625000 r-xp 00002000 103:02 18626873                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7e8fc9625000-7e8fc9627000 r--p 00008000 103:02 18626873                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7e8fc9627000-7e8fc9628000 r--p 00009000 103:02 18626873                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7e8fc9628000-7e8fc9629000 rw-p 0000a000 103:02 18626873                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7e8fc9629000-7e8fc962d000 r--p 00000000 103:02 18612545                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7e8fc962d000-7e8fc9638000 r-xp 00004000 103:02 18612545                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7e8fc9638000-7e8fc963b000 r--p 0000f000 103:02 18612545                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7e8fc963b000-7e8fc963c000 r--p 00011000 103:02 18612545                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7e8fc963c000-7e8fc963d000 rw-p 00012000 103:02 18612545                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7e8fc963d000-7e8fc9640000 rw-p 00000000 00:00 0 
+7e8fc9640000-7e8fc9642000 r--p 00000000 103:02 18612431                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
+7e8fc9642000-7e8fc964b000 r-xp 00002000 103:02 18612431                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
+7e8fc964b000-7e8fc964d000 r--p 0000b000 103:02 18612431                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
+7e8fc964d000-7e8fc964e000 r--p 0000c000 103:02 18612431                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
+7e8fc964e000-7e8fc964f000 rw-p 0000d000 103:02 18612431                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
+7e8fc964f000-7e8fc9653000 r--p 00000000 103:02 18612329                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+7e8fc9653000-7e8fc9669000 r-xp 00004000 103:02 18612329                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+7e8fc9669000-7e8fc9672000 r--p 0001a000 103:02 18612329                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+7e8fc9672000-7e8fc9673000 r--p 00023000 103:02 18612329                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+7e8fc9673000-7e8fc9674000 rw-p 00024000 103:02 18612329                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+7e8fc9674000-7e8fc9678000 r--p 00000000 103:02 18612463                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
+7e8fc9678000-7e8fc9684000 r-xp 00004000 103:02 18612463                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
+7e8fc9684000-7e8fc9687000 r--p 00010000 103:02 18612463                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
+7e8fc9687000-7e8fc9688000 r--p 00012000 103:02 18612463                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
+7e8fc9688000-7e8fc9689000 rw-p 00013000 103:02 18612463                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
+7e8fc9689000-7e8fc968a000 rw-p 00000000 00:00 0 
+7e8fc968a000-7e8fc968e000 r--p 00000000 103:02 18618624                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7e8fc968e000-7e8fc9735000 r-xp 00004000 103:02 18618624                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7e8fc9735000-7e8fc9742000 r--p 000ab000 103:02 18618624                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7e8fc9742000-7e8fc9743000 r--p 000b7000 103:02 18618624                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7e8fc9743000-7e8fc9744000 rw-p 000b8000 103:02 18618624                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+7e8fc9744000-7e8fc9747000 r--p 00000000 103:02 18622605                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7e8fc9747000-7e8fc9769000 r-xp 00003000 103:02 18622605                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7e8fc9769000-7e8fc9774000 r--p 00025000 103:02 18622605                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7e8fc9774000-7e8fc9775000 r--p 00030000 103:02 18622605                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7e8fc9775000-7e8fc9776000 rw-p 00031000 103:02 18622605                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+7e8fc9776000-7e8fc9779000 r--p 00000000 103:02 18615396                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+7e8fc9779000-7e8fc9794000 r-xp 00003000 103:02 18615396                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+7e8fc9794000-7e8fc9796000 r--p 0001e000 103:02 18615396                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+7e8fc9796000-7e8fc9797000 r--p 00020000 103:02 18615396                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+7e8fc9797000-7e8fc9798000 rw-p 00021000 103:02 18615396                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+7e8fc9798000-7e8fc97a7000 r--p 00000000 103:02 18624819                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+7e8fc97a7000-7e8fc989b000 r-xp 0000f000 103:02 18624819                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+7e8fc989b000-7e8fc98d6000 r--p 00103000 103:02 18624819                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+7e8fc98d6000-7e8fc98db000 r--p 0013e000 103:02 18624819                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+7e8fc98db000-7e8fc98df000 rw-p 00143000 103:02 18624819                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+7e8fc98df000-7e8fc98e0000 rw-p 00000000 00:00 0 
+7e8fc98e0000-7e8fc98e3000 r--p 00000000 103:02 18615385                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7e8fc98e3000-7e8fc98e9000 r-xp 00003000 103:02 18615385                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7e8fc98e9000-7e8fc98eb000 r--p 00009000 103:02 18615385                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7e8fc98eb000-7e8fc98ec000 r--p 0000b000 103:02 18615385                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7e8fc98ec000-7e8fc98ed000 rw-p 0000c000 103:02 18615385                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+7e8fc98ed000-7e8fc98f3000 r--p 00000000 103:02 18618409                  /usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0
+7e8fc98f3000-7e8fc9924000 r-xp 00006000 103:02 18618409                  /usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0
+7e8fc9924000-7e8fc9934000 r--p 00037000 103:02 18618409                  /usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0
+7e8fc9934000-7e8fc9935000 r--p 00047000 103:02 18618409                  /usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0
+7e8fc9935000-7e8fc9936000 rw-p 00048000 103:02 18618409                  /usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0
+7e8fc9936000-7e8fc9963000 rw-p 00000000 00:00 0 
+7e8fc9963000-7e8fc9968000 r--p 00000000 103:02 18613630                  /usr/lib/x86_64-linux-gnu/libmpg123.so.0.48.2
+7e8fc9968000-7e8fc99a3000 r-xp 00005000 103:02 18613630                  /usr/lib/x86_64-linux-gnu/libmpg123.so.0.48.2
+7e8fc99a3000-7e8fc99bd000 r--p 00040000 103:02 18613630                  /usr/lib/x86_64-linux-gnu/libmpg123.so.0.48.2
+7e8fc99bd000-7e8fc99be000 r--p 0005a000 103:02 18613630                  /usr/lib/x86_64-linux-gnu/libmpg123.so.0.48.2
+7e8fc99be000-7e8fc99bf000 rw-p 0005b000 103:02 18613630                  /usr/lib/x86_64-linux-gnu/libmpg123.so.0.48.2
+7e8fc99bf000-7e8fc99c2000 r--p 00000000 103:02 18614439                  /usr/lib/x86_64-linux-gnu/libopus.so.0.9.0
+7e8fc99c2000-7e8fc9a0c000 r-xp 00003000 103:02 18614439                  /usr/lib/x86_64-linux-gnu/libopus.so.0.9.0
+7e8fc9a0c000-7e8fc9a1c000 r--p 0004d000 103:02 18614439                  /usr/lib/x86_64-linux-gnu/libopus.so.0.9.0
+7e8fc9a1c000-7e8fc9a1d000 r--p 0005d000 103:02 18614439                  /usr/lib/x86_64-linux-gnu/libopus.so.0.9.0
+7e8fc9a1d000-7e8fc9a1e000 rw-p 0005e000 103:02 18614439                  /usr/lib/x86_64-linux-gnu/libopus.so.0.9.0
+7e8fc9a1e000-7e8fc9a32000 r--p 00000000 103:02 18619182                  /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
+7e8fc9a32000-7e8fc9a35000 r-xp 00014000 103:02 18619182                  /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
+7e8fc9a35000-7e8fc9aac000 r--p 00017000 103:02 18619182                  /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
+7e8fc9aac000-7e8fc9ac8000 r--p 0008d000 103:02 18619182                  /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
+7e8fc9ac8000-7e8fc9ac9000 rw-p 000a9000 103:02 18619182                  /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12
+7e8fc9ac9000-7e8fc9acc000 r--p 00000000 103:02 18619186                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+7e8fc9acc000-7e8fc9ae4000 r-xp 00003000 103:02 18619186                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+7e8fc9ae4000-7e8fc9af5000 r--p 0001b000 103:02 18619186                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+7e8fc9af5000-7e8fc9af6000 r--p 0002b000 103:02 18619186                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+7e8fc9af6000-7e8fc9af7000 rw-p 0002c000 103:02 18619186                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+7e8fc9af7000-7e8fc9aff000 r--p 00000000 103:02 18619294                  /usr/lib/x86_64-linux-gnu/libFLAC.so.12.1.0
+7e8fc9aff000-7e8fc9b51000 r-xp 00008000 103:02 18619294                  /usr/lib/x86_64-linux-gnu/libFLAC.so.12.1.0
+7e8fc9b51000-7e8fc9b59000 r--p 0005a000 103:02 18619294                  /usr/lib/x86_64-linux-gnu/libFLAC.so.12.1.0
+7e8fc9b59000-7e8fc9b5a000 r--p 00062000 103:02 18619294                  /usr/lib/x86_64-linux-gnu/libFLAC.so.12.1.0
+7e8fc9b5a000-7e8fc9b5b000 rw-p 00063000 103:02 18619294                  /usr/lib/x86_64-linux-gnu/libFLAC.so.12.1.0
+7e8fc9b5b000-7e8fc9b71000 r--p 00000000 103:02 18616912                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+7e8fc9b71000-7e8fc9c00000 r-xp 00016000 103:02 18616912                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+7e8fc9c00000-7e8fc9c2e000 r--p 000a5000 103:02 18616912                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+7e8fc9c2e000-7e8fc9c39000 r--p 000d2000 103:02 18616912                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+7e8fc9c39000-7e8fc9c3a000 rw-p 000dd000 103:02 18616912                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+7e8fc9c3a000-7e8fc9c3b000 rw-p 00000000 00:00 0 
+7e8fc9c3b000-7e8fc9c54000 r--p 00000000 103:02 18612366                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7e8fc9c54000-7e8fc9ce4000 r-xp 00019000 103:02 18612366                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7e8fc9ce4000-7e8fc9d73000 r--p 000a9000 103:02 18612366                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7e8fc9d73000-7e8fc9d74000 r--p 00138000 103:02 18612366                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7e8fc9d74000-7e8fc9d78000 rw-p 00139000 103:02 18612366                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+7e8fc9d78000-7e8fc9d80000 r--p 00000000 103:02 18626865                  /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37
+7e8fc9d80000-7e8fc9de1000 r-xp 00008000 103:02 18626865                  /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37
+7e8fc9de1000-7e8fc9dfa000 r--p 00069000 103:02 18626865                  /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37
+7e8fc9dfa000-7e8fc9dfd000 r--p 00081000 103:02 18626865                  /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37
+7e8fc9dfd000-7e8fc9dfe000 rw-p 00084000 103:02 18626865                  /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37
+7e8fc9dfe000-7e8fc9e00000 rw-p 00000000 00:00 0 
+7e8fc9e00000-7e8fc9e28000 r--p 00000000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
+7e8fc9e28000-7e8fc9fb0000 r-xp 00028000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
+7e8fc9fb0000-7e8fc9fff000 r--p 001b0000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
+7e8fc9fff000-7e8fca003000 r--p 001fe000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
+7e8fca003000-7e8fca005000 rw-p 00202000 103:02 18614504                  /usr/lib/x86_64-linux-gnu/libc.so.6
+7e8fca005000-7e8fca012000 rw-p 00000000 00:00 0 
+7e8fca013000-7e8fca01b000 rw-p 00000000 00:00 0 
+7e8fca01b000-7e8fca01d000 r--p 00000000 103:02 18612495                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7e8fca01d000-7e8fca01f000 r-xp 00002000 103:02 18612495                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7e8fca01f000-7e8fca021000 r--p 00004000 103:02 18612495                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7e8fca021000-7e8fca022000 r--p 00005000 103:02 18612495                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7e8fca022000-7e8fca023000 rw-p 00006000 103:02 18612495                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7e8fca023000-7e8fca024000 r--p 00000000 103:02 18612404                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7e8fca024000-7e8fca026000 r-xp 00001000 103:02 18612404                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7e8fca026000-7e8fca027000 r--p 00003000 103:02 18612404                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7e8fca027000-7e8fca028000 r--p 00003000 103:02 18612404                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7e8fca028000-7e8fca029000 rw-p 00004000 103:02 18612404                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7e8fca029000-7e8fca02b000 rw-p 00000000 00:00 0 
+7e8fca02b000-7e8fca02d000 r--p 00000000 103:02 18619106                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7e8fca02d000-7e8fca030000 r-xp 00002000 103:02 18619106                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7e8fca030000-7e8fca033000 r--p 00005000 103:02 18619106                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7e8fca033000-7e8fca034000 r--p 00007000 103:02 18619106                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7e8fca034000-7e8fca035000 rw-p 00008000 103:02 18619106                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+7e8fca035000-7e8fca037000 rw-p 00000000 00:00 0 
+7e8fca037000-7e8fca03a000 r--p 00000000 103:02 18612796                  /usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.2
+7e8fca03a000-7e8fca044000 r-xp 00003000 103:02 18612796                  /usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.2
+7e8fca044000-7e8fca04a000 r--p 0000d000 103:02 18612796                  /usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.2
+7e8fca04a000-7e8fca04b000 r--p 00013000 103:02 18612796                  /usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.2
+7e8fca04b000-7e8fca04c000 rw-p 00014000 103:02 18612796                  /usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.2
+7e8fca04c000-7e8fca04e000 r--p 00000000 103:02 18617867                  /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7e8fca04e000-7e8fca051000 r-xp 00002000 103:02 18617867                  /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7e8fca051000-7e8fca052000 r--p 00005000 103:02 18617867                  /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7e8fca052000-7e8fca053000 r--p 00005000 103:02 18617867                  /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7e8fca053000-7e8fca054000 rw-p 00006000 103:02 18617867                  /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7e8fca054000-7e8fca05f000 r--p 00000000 103:02 18613642                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7e8fca05f000-7e8fca072000 r-xp 0000b000 103:02 18613642                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7e8fca072000-7e8fca07b000 r--p 0001e000 103:02 18613642                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7e8fca07b000-7e8fca07c000 r--p 00026000 103:02 18613642                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7e8fca07c000-7e8fca07d000 rw-p 00027000 103:02 18613642                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7e8fca07d000-7e8fca07e000 r--p 00000000 103:02 18612364                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7e8fca07e000-7e8fca07f000 r-xp 00001000 103:02 18612364                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7e8fca07f000-7e8fca080000 r--p 00002000 103:02 18612364                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7e8fca080000-7e8fca081000 r--p 00002000 103:02 18612364                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7e8fca081000-7e8fca082000 rw-p 00003000 103:02 18612364                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7e8fca082000-7e8fca084000 rw-p 00000000 00:00 0 
+7e8fca084000-7e8fca086000 r--p 00000000 103:02 18619244                  /usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9
+7e8fca086000-7e8fca09f000 r-xp 00002000 103:02 18619244                  /usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9
+7e8fca09f000-7e8fca0a3000 r--p 0001b000 103:02 18619244                  /usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9
+7e8fca0a3000-7e8fca0a4000 r--p 0001e000 103:02 18619244                  /usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9
+7e8fca0a4000-7e8fca0a5000 rw-p 0001f000 103:02 18619244                  /usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9
+7e8fca0a5000-7e8fca0a7000 r--p 00000000 103:02 18623848                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7e8fca0a7000-7e8fca0ae000 r-xp 00002000 103:02 18623848                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7e8fca0ae000-7e8fca0af000 r--p 00009000 103:02 18623848                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7e8fca0af000-7e8fca0b0000 r--p 0000a000 103:02 18623848                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7e8fca0b0000-7e8fca0b1000 rw-p 0000b000 103:02 18623848                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+7e8fca0b1000-7e8fca0b3000 r--p 00000000 103:02 18615023                  /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
+7e8fca0b3000-7e8fca0c8000 r-xp 00002000 103:02 18615023                  /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
+7e8fca0c8000-7e8fca0e1000 r--p 00017000 103:02 18615023                  /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
+7e8fca0e1000-7e8fca0e2000 r--p 0002f000 103:02 18615023                  /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
+7e8fca0e2000-7e8fca0e3000 rw-p 00030000 103:02 18615023                  /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
+7e8fca0e3000-7e8fca0eb000 rw-p 00000000 00:00 0 
+7e8fca0eb000-7e8fca0ed000 r--p 00000000 103:02 18616071                  /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7e8fca0ed000-7e8fca0ff000 r-xp 00002000 103:02 18616071                  /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7e8fca0ff000-7e8fca105000 r--p 00014000 103:02 18616071                  /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7e8fca105000-7e8fca106000 r--p 0001a000 103:02 18616071                  /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7e8fca106000-7e8fca107000 rw-p 0001b000 103:02 18616071                  /usr/lib/x86_64-linux-gnu/libz.so.1.3
+7e8fca107000-7e8fca10d000 r--p 00000000 103:02 18618444                  /usr/lib/x86_64-linux-gnu/libmvec.so.1
+7e8fca10d000-7e8fca12f000 r-xp 00006000 103:02 18618444                  /usr/lib/x86_64-linux-gnu/libmvec.so.1
+7e8fca12f000-7e8fca1fe000 r--p 00028000 103:02 18618444                  /usr/lib/x86_64-linux-gnu/libmvec.so.1
+7e8fca1fe000-7e8fca1ff000 r--p 000f7000 103:02 18618444                  /usr/lib/x86_64-linux-gnu/libmvec.so.1
+7e8fca1ff000-7e8fca200000 rw-p 000f8000 103:02 18618444                  /usr/lib/x86_64-linux-gnu/libmvec.so.1
+7e8fca200000-7e8fca251000 r--p 00000000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
+7e8fca251000-7e8fca62c000 r-xp 00051000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
+7e8fca62c000-7e8fcaa33000 r--p 0042c000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
+7e8fcaa33000-7e8fcaa4b000 r--p 00833000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
+7e8fcaa4b000-7e8fcaa50000 rw-p 0084b000 103:02 23378479                  /home/ryan.underwood/mkxp-z/linux/build-x86_64/lib/libruby.so.3.1.3
+7e8fcaa50000-7e8fcaa6a000 rw-p 00000000 00:00 0 
+7e8fcaa6a000-7e8fcaa76000 r--p 00000000 103:02 18614984                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+7e8fcaa76000-7e8fcaaa6000 r-xp 0000c000 103:02 18614984                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+7e8fcaaa6000-7e8fcaab7000 r--p 0003c000 103:02 18614984                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+7e8fcaab7000-7e8fcaab8000 r--p 0004c000 103:02 18614984                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+7e8fcaab8000-7e8fcaab9000 rw-p 0004d000 103:02 18614984                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+7e8fcaab9000-7e8fcaacb000 r--p 00000000 103:02 19270634                  /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so
+7e8fcaacb000-7e8fcab15000 r-xp 00012000 103:02 19270634                  /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so
+7e8fcab15000-7e8fcab34000 r--p 0005c000 103:02 19270634                  /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so
+7e8fcab34000-7e8fcab36000 r--p 0007a000 103:02 19270634                  /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so
+7e8fcab36000-7e8fcab37000 rw-p 0007c000 103:02 19270634                  /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so
+7e8fcab37000-7e8fcab47000 r--p 00000000 103:02 18618416                  /usr/lib/x86_64-linux-gnu/libm.so.6
+7e8fcab47000-7e8fcabc6000 r-xp 00010000 103:02 18618416                  /usr/lib/x86_64-linux-gnu/libm.so.6
+7e8fcabc6000-7e8fcac1e000 r--p 0008f000 103:02 18618416                  /usr/lib/x86_64-linux-gnu/libm.so.6
+7e8fcac1e000-7e8fcac1f000 r--p 000e7000 103:02 18618416                  /usr/lib/x86_64-linux-gnu/libm.so.6
+7e8fcac1f000-7e8fcac20000 rw-p 000e8000 103:02 18618416                  /usr/lib/x86_64-linux-gnu/libm.so.6
+7e8fcac20000-7e8fcac22000 rw-p 00000000 00:00 0 
+7e8fcac22000-7e8fcac4d000 r--p 00000000 103:02 18613540                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7e8fcac4d000-7e8fcacec000 r-xp 0002b000 103:02 18613540                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7e8fcacec000-7e8fcad24000 r--p 000ca000 103:02 18613540                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7e8fcad24000-7e8fcad2b000 r--p 00101000 103:02 18613540                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7e8fcad2b000-7e8fcad2c000 rw-p 00108000 103:02 18613540                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+7e8fcad2c000-7e8fcad37000 r--p 00000000 103:02 18619300                  /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+7e8fcad37000-7e8fcad73000 r-xp 0000b000 103:02 18619300                  /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+7e8fcad73000-7e8fcad80000 r--p 00047000 103:02 18619300                  /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+7e8fcad80000-7e8fcad81000 r--p 00054000 103:02 18619300                  /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+7e8fcad81000-7e8fcad82000 rw-p 00055000 103:02 18619300                  /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+7e8fcad82000-7e8fcad8e000 r--p 00000000 103:02 18620681                  /usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2
+7e8fcad8e000-7e8fcadbf000 r-xp 0000c000 103:02 18620681                  /usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2
+7e8fcadbf000-7e8fcadd0000 r--p 0003d000 103:02 18620681                  /usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2
+7e8fcadd0000-7e8fcadd2000 r--p 0004d000 103:02 18620681                  /usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2
+7e8fcadd2000-7e8fcadd3000 rw-p 0004f000 103:02 18620681                  /usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2
+7e8fcadd3000-7e8fcadd5000 r--p 00000000 103:02 18617778                  /usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1
+7e8fcadd5000-7e8fcadd7000 r-xp 00002000 103:02 18617778                  /usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1
+7e8fcadd7000-7e8fcadd8000 r--p 00004000 103:02 18617778                  /usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1
+7e8fcadd8000-7e8fcadd9000 r--p 00004000 103:02 18617778                  /usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1
+7e8fcadd9000-7e8fcadda000 rw-p 00005000 103:02 18617778                  /usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1
+7e8fcaddc000-7e8fcadde000 rw-s 103090000 00:0f 1052                      anon_inode:i915.gem
+7e8fcadde000-7e8fcaddf000 rw-s 00000000 00:01 1141980                    /memfd:xshmfence (deleted)
+7e8fcade0000-7e8fcade2000 rw-s 105651000 00:0f 1052                      anon_inode:i915.gem
+7e8fcade2000-7e8fcade3000 rw-s 00000000 00:01 1141981                    /memfd:xshmfence (deleted)
+7e8fcade3000-7e8fcadea000 r--s 00000000 103:02 19311055                  /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+7e8fcadea000-7e8fcadeb000 rw-s 106f8c000 00:0f 1052                      anon_inode:i915.gem
+7e8fcadeb000-7e8fcadec000 rw-s 1027a1000 00:0f 1052                      anon_inode:i915.gem
+7e8fcadec000-7e8fcaded000 rw-s 101dcc000 00:0f 1052                      anon_inode:i915.gem
+7e8fcaded000-7e8fcadfd000 rw-s 102fb0000 00:0f 1052                      anon_inode:i915.gem
+7e8fcadfd000-7e8fcadfe000 rw-s 101da1000 00:0f 1052                      anon_inode:i915.gem
+7e8fcadfe000-7e8fcae00000 rw-p 00000000 00:00 0 
+7e8fcae00000-7e8fcae01000 r--p 00000000 103:02 18612301                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7e8fcae01000-7e8fcae2c000 r-xp 00001000 103:02 18612301                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7e8fcae2c000-7e8fcae36000 r--p 0002c000 103:02 18612301                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7e8fcae36000-7e8fcae38000 r--p 00036000 103:02 18612301                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7e8fcae38000-7e8fcae3a000 rw-p 00038000 103:02 18612301                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffee8e73000-7ffee8e95000 rw-p 00000000 00:00 0                          [stack]
+7ffee8fa2000-7ffee8fa6000 r--p 00000000 00:00 0                          [vvar]
+7ffee8fa6000-7ffee8fa8000 r-xp 00000000 00:00 0                          [vdso]
 ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
 
 
