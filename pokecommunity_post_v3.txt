@@ -1,0 +1,1203 @@
+[CENTER][SIZE=7]Pokémon Sunday [v3.0.0] DOWNLOAD [/SIZE]
+
+
+[SIZE=4][URL='https://bit.ly/pokemon-sunday']Google Drive Download Here[/URL][/SIZE]
+
+
+[SIZE=3][URL='https://discord.gg/DUnUAyQwuE']Discord[/URL][/SIZE]
+
+[SIZE=3][URL='https://pokemonsunday.fandom.com/']Pokémon Sunday Wiki[/URL][/SIZE]
+[/CENTER]
+Download Instructions:
+[Spoiler]
+This game will run on Windows, a Windows emulator or Joiplay for Android.
+Download the file.  Use Winrar to extract the file into a readable format.
+Run Pokemon Sunday.exe
+[/SPOILER]
+
+[SIZE=3]Features:[/SIZE]
+[CENTER]
+
+Pokémon Sunday Version is a classic style Pokémon game set in the Kiraki Region using gen 3 style tilesets and the full National Dex through Gen 9 (1,046 Pokémon, including the new Legends Z-A Megas), plus 23 Fakémon and 11 new forms of existing Pokémon.
+
+The Gen 9 update completely rebuilds the game on Pokémon Essentials v21.1. Pokémon now follow you in the overworld, and the game is playable in 6 languages: English, French, German, Spanish, Italian and Japanese.
+
+It is a completed game with a complex plot, intricate maps, and 8 fun gyms with puzzles that include a matching game, dodging ninjas, flooding or unflooding pools in the proper order, warp tiles, regional trivia and more.
+
+A complex battle tower with 1390 hand-built competitive Smogon sets and 4 tiers of Pokémon for battling. Choose 3v3, 6v6 or Doubles at Basic, Normal, Competitive, or Ultra Tier, or try the new rental mode!
+
+[IMG]https://i.imgur.com/GNvpgzc.png[/IMG]
+
+
+There are 23 original Fakémon: the three starter lines, two new Eeveelutions (Light and Flying types), an alternate Yanma evolution, two Bug-types, a Ghost/Ice snowman line, a Poison/Ice deep sea line, a Fire/Electric boxer, a Dark tarsier, a Psychic bird, a Steel/Ground satellite, and a Light/Ground Legendary.
+There are also regional variants of the Sentret line, Taillow line, and Skarmory, plus a Kiraki Vivillon pattern.
+Rotom and Castform gain new forms (including the new Locust Castform), and there is a Flygon Mega evolution.
+
+The new Light type is super effective against Dark, Ghost, Water.
+Not very effective against Fire, Grass.
+Weak to Dark, Dragon.
+Resists Water, Ice.
+Immune to Fire.
+
+33 new, completely animated moves (mostly Light-type)
+
+An original soundtrack for the overworld Routes and Towns, and the Intro music is created by Jeff Clements.
+
+The player can become a member of the Elite Four or Champion after playing through the main story line, and be challenged (and possibly replaced!) by many of the strong trainers and gym leaders of the region.  The elite four will change over time as challengers take down current members.
+
+Get a special punch on your trainer card for every same type team of Pokémon that you use to successfully become Champion!
+
+[IMG]https://i.imgur.com/2VSoBYm.png[/IMG]
+
+Acquire a special Legendite, which will rebalance the stats of the Pokémon holding it to be on par with a Legendary Pokémon, so that any Pokémon can be useful.
+
+[IMG]https://i.imgur.com/ku5EIK4.png[/IMG]
+
+Become a member of the Bike co-op. Returning a bike to empty Bike racks across Kiraki will yield nice prizes.
+
+Explore the Kiraki research library which contains a rich history of Kiraki, and in its private collection, historical clues of where Legendary Pokémon may lie.
+
+Acquire items to get through obstacles instead of using an HM slave
+
+Play through in a challenge mode where Pokémon cannot be revived, and you can only catch one Pokémon per Route.
+
+Mega Trainer Postgame- Find all of the Master Mega Trainers and earn a mega stone by defeating them with a normal version of the Pokémon.
+Gigantamax forms are now new Mega evolutions.
+
+
+Mystery Gift! At the Pokémon league is a woman who will give you various mystery gift Pokémon if you have the proper code. If you would like to add a mystery gift Pokémon to be included, send me a private message with your desired Pokémon, shininess?, ability, moveset, nature, nickname,  original trainer name, and a passcode to unlock your gift (7 or fewer letters all caps). If you have designed a mystery gift Pokémon, feel free to place your code in the comments. Collect other's mystery gifts by getting codes here or on discord.
+
+Check out the new [URL='https://pokemonsunday.fandom.com/']Pokémon Sunday Wiki[/URL] for the full Pokédex, moves, abilities, and locations!
+
+[/CENTER]
+
+Plot:
+
+[SPOILER]
+
+The player washes up on the shores of the Igandea River near Germanium Village with no memory of who they are or how they got there.  The local Pokémon researcher, Professor Cherry suggests visiting the gym leaders of nearby towns. As they are community leaders, he suggests they may recognize you. The player journeys around, meeting the gym leaders, and slowly realizing that while some people recognize them, they seem hesitant to help the player out.
+The player goes on a journey of rooting out corruption as they try to discover their identity.
+[/SPOILER]
+
+Fakemon
+
+[SPOILER]
+The player gets a choice of 3 original Fakémon in a neutral type trio (Flying type Clowd, Light type Photowyrm, and Fairy type Cauldream).
+There are additionally new Rotom and Castform forms, Light-type and Flying-type Eeveelutions, and a Dragon-Bug type Mega Evolution for Flygon.
+There are Nimbee (Bug-Ground), and Yimbee (Bug-Steel) as well!
+Regional forms exist for Sentret (Normal Grass, evolves to Furret at L25), Yanma (Bug type, gets a new Evolution Yamselia (Bug Fairy), Level with Fairy Wind), Skarmory (Ghost Flying), Taillow and Swellow (Flying/Ground)
+New in the Gen 9 update: Snowygast and Palossnow (Ghost/Ice snow forts), Actinotox and Leoterygi (Poison/Ice deep sea predators), Tarfelon (Dark), Roobop (Fire/Electric), Wikiniki (Psychic), and Spudnick (Steel/Ground satellite)!
+An ultra powerful Legendary called Protosolaria is available in the Postgame!
+
+[IMG]https://i.imgur.com/RKS1hsw.png[/IMG][IMG]https://i.imgur.com/VY8n0Wx.png[/IMG][IMG]https://i.imgur.com/zn1CRJy.png[/IMG]
+[IMG]https://i.imgur.com/BPdd5aM.png[/IMG][IMG]https://i.imgur.com/il1d6l5.png[/IMG][IMG]https://i.imgur.com/r9lGPAv.png[/IMG]
+[IMG]https://i.imgur.com/IpbTHSd.png[/IMG][IMG]https://i.imgur.com/rDjikd6.png[/IMG][IMG]https://i.imgur.com/i87jAOY.png[/IMG]
+[IMG]https://i.imgur.com/5Aoh1rX.png[/IMG][IMG]https://i.imgur.com/ToMeheB.png[/IMG][IMG]https://i.imgur.com/lifzxpH.png[/IMG]
+[IMG]https://i.imgur.com/1vL8FBh.png[/IMG][IMG]https://i.imgur.com/i5nYuBs.png[/IMG][IMG]https://i.imgur.com/qzKxObn.png[/IMG]
+[IMG]https://i.imgur.com/3WYZQSm.png[/IMG][IMG]https://i.imgur.com/N9eBq1m.png[/IMG][IMG]https://i.imgur.com/t2s8vGU.png[/IMG]
+[IMG]https://i.imgur.com/F0WyDnk.png[/IMG][IMG]https://i.imgur.com/URPp7DZ.png[/IMG][IMG]https://i.imgur.com/9h1d78M.png[/IMG]
+[IMG]https://i.imgur.com/MGMMSOs.png[/IMG][IMG]https://i.imgur.com/9BKn8PH.png[/IMG][IMG]https://i.imgur.com/9eHKFpo.png[/IMG]
+
+[/SPOILER]
+
+Controls:
+[SPOILER]
+Arrow keys: Movement
+C or Enter: Select, yes
+X or ESC: Back, no, open start menu
+Z: Toggle running shoes on/off
+ALT: Speed up key
+F: Fly once you have the fly whistle item
+I: Use itemfinder if you have it
+R: Ride bike if you have it
+L: Use flashlight if you have it
+J: Use best current fishing rod (J looks like a fishing hook. F was taken. Idk
+F5: Registered item list
+
+[/SPOILER]
+
+Pokémon Stats and Movesets:
+[SPOILER]
+Full up to date stats, movesets and locations are on the [URL='https://pokemonsunday.fandom.com/']Pokémon Sunday Wiki[/URL]
+Version 2.1.0+
+[URL]https://pastebin.com/ad4bMvvb[/URL]
+[/SPOILER]
+
+Non Standard Mechanics:
+[SPOILER]
+Moves which are supereffective against an opponent's primary type do 2.1X damage, vs 1.9X damage against the secondary type
+Similarly, Not very effective moves on primary type do 0.45X damage, whereas if NVE on secondary type, does 0.55X damage
+Evolutions:
+Inkay-> Malamer: Level 30, no upside down needed
+Meltan->Melmetal: Level 50
+Phione->Manaphy Level 50
+Galar Farfetchd->Sirfetch'd: Level while holding Leek (plan to change to standard, code just isn't working atm)
+Galar Yamask->Runerigus: Same method as canon, just go under Precious Metal bridge after taking 49 damage
+Milcery->Alcremie: Level 25. Toppings chosen at will in the museum
+Rockruff-> Dusk Lycanrok: Does not need Own Tempo, any Rockruff can evolve to Dusk form if leveled at dusk
+Trade evolutions with no item (e.g. Machoke->Machamp): NPCs around the world will be looking to trade with you
+Trade evolutions with an item (e.g. Rhydon with protector) Can be done in the museum
+Location Evolutions:
+    -Mossy stone-Mt. Silicon Forest
+    -Icy Stone/Mt Lanakila- Mt. Silicon
+    -Magnetic Fields- Iron Town
+Fossil resurrection: Each Galar fossil has been remapped to one Pokémon instead of needing a pair. Collect in Iron Town. Resurrect in the museum.
+
+Breeding: Either parent with Hidden Ability has a 40% chance to pass it on. If both parents have HA it is 100%.
+Gender neutral Pokémon can breed with gender neutral Pokémon in the same egg group.
+Shiny Pokémon have 1/40 chance of being passed on if neither parent is Ditto. Shiny Charm increases odds to 1/20.
+Flame body/armor stack additively to increase hatch rate.
+
+Light type or type modified Pokémon:
+Clefairy line: Fairy/Light
+Vulpix line: Fire/Light
+Chinchou line: Water/Light
+Mareep line: Electric/Light
+Stantler:Normal/Light
+Volbeat and Illumise: Bug/Light
+Spoink line: Psychic/Light
+Swablu: Light/Flying
+Altaria: Dragon/Light
+Solrock:Rock/Light
+Lunatone:Rock/Dark
+Duskull line: Ghost/Light
+Absol: Dark/Light
+Latias: Dragon/Light
+Jirachi: Steel/Light
+Lucario: Fighting/Light
+Lumineon: Water/Light
+Porygon-Z: Light/Normal
+Uxie: Light
+Mesprit: Fairy
+Serperior: Grass/Light
+Cryogonal: Ice/Light
+Braviary: Flying/Light
+Helioptile Line: Light/Electric
+Tadbulb line: Electric/Light
+Xerneas: Light/Fairy
+Lurantis: Grass/Light
+Minior: Rock/Light
+Cosmog/Cosmoem: Light/Psychic
+Solgaleo: Light/Steel
+Lunala: Light/Ghost
+Blacephalon: Light/Fire
+Necrozma: Light (Mega Necrozma: Light/Dragon)
+Mega Floette: Fairy/Light
+Grapploct: Fighting/Light
+Calyrex (Ice Rider): Light/Ice
+Calyrex (Shadow Rider): Light/Ghost
+
+Now Light Type Moves:
+Tail glow, Swift, Confuse Ray, Flash, Moonlight, Morning Sun, Luster Purge, Light Screen, Reflect, Lunar Dance, Light of Ruin, Prismatic Laser, Spotlight, Photon Geyser
+
+Special Attacks:
+Gamma Ray Burst: BP 90 Uses Spatk stat, but uses def not spdef in damage calc, like Psyshock
+Sunrise: BP 120, Priority +1, works only first turn entering battle
+Shine: BP 50
+Sunbeam: BP 40, works like Fury Cutter powering up after each hit
+Beacon: BP 25 hits 2-5 times
+Shimmer Orb: BP 65 with 35 % chance of lowering spdef
+Fancy Flash: BP 90, lowers opponents accuracy (only learnable via mystery gift Photeon or Let's Go Eevee)
+Lithium Burn: BP 120, guarantees a burn. Protosolaria signature move
+
+Physical Attacks
+Laser Claw: BP 75, 10% chance of flinch
+Solar Fists: BP 40, hits twice
+Holy Blade: BP 70 with 15% chance to crit
+Supernova: 250 BP, self destruct
+Blinding Rush: 90 BP Wildcharge type recoil
+
+Status/Other:
+Flicker: Lowers attack
+X-Ray Eyes: Cures Status of target
+Prism Shot: Lowers accuracy and has a 15% chance of confusing as well
+Light Speed: Greatly Increases Speed
+Blinding Beam: Cuts targets HP by 50% (like super fang)
+Sunset: 2 round perish song
+Dance of Dawn: Protosolaria signature, light type Geomancy
+Bright Terrain: Light terrain for 5 turns, grounded Pokémon are dazzled and less accurate
+
+Other New Moves
+Nor'easter: Onehit KO flying type move that has priority. Galefront Signature move
+Mystery Potion: Essentially fairy type ancient power with base power 80. Cauldread's signature move
+Terra Firma: BP 100 ground type physical attacking move. Traps opponent in and guarantees 100% hit rate on next move.
+Icy Terrain: Freezes the ground for 5 turns, Pokémon on the ground may slip when making contact
+Locust Plague: A devouring swarm rises for 5 turns. It hurts all but Bug types, whose Defense rises
+Ice Wall: The user evades all attacks and coats the ground in ice. Palossnow signature move
+Fetid Freeze: BP 65 Ice special attack that may poison the target
+Left Right Blitz: Roobop signature, punches twice dealing first Fire then Electric damage
+
+New Forms:
+Mega Flygon: Dragon/Bug
+Sandstorm Castform: Rock
+Locust Castform: Bug
+Lamp Rotom: Light/Electric
+Kiraki Sentret and Furret: Normal/Grass
+Kiraki Skarmoy: Ghost/Flying
+Kiraki Yanma: Bug
+Yamselia (Yanma evolution-> Level knowing Fairy Wind) Bug/Fairy
+Kiraki Taillow/Swellow: Flying/Ground
+Kiraki Vivillon pattern: Bug/Flying
+
+
+New Abilities:
+Downpour- Galefront Hidden ability. In rain changes form. Becomes Flying/Water with electric immunity. Stats are raised.
+Light Show: Chordalux's hidden ability, grants immunity to dark type moves
+Witch's Brew: Cauldread's hidden ability, grants immunity to poison type moves.
+Snow Fort: Snowygast and Palossnow's hidden ability. In snow or hail, restores 1/8 HP and raises Defense and Sp. Def each turn.
+Stellar Aura: Protosolaria's ability. Emits an aura on entry that neutralizes the power of Legendite held by any battler.
+Deorbit: Spudnick's ability. Fire moves or low HP trigger a crash: maxes Speed and powers up self-destruct moves.
+Swarm Leader: Nimbee and Yimbee's ability. Boosts Speed and doubles the damage of Locust Plague.
+
+New Items:
+Legendite: Rebalances the holders stats to a BST of 600. HP stat is unaffected, other stats scale proportionally.
+Pink Glitter: Boosts fairy type like charcoal does for fire
+Magnifying Glass: Boosts light type like charcoal does for fire
+Flygonite: Mega stone for flygon
+Greninjite: Replaces battle bond with a mega stone
+Necrozmite: Ultra Necrozma accessed via Mega evolution
+Chordaluxite: Megastone for Chordalux. Mega chordalux is Light/Dragon
+G-max megastones: All G-max forms are included as mega evolutions and have an associated Mega stone
+Prism Plate: Arceus Light type
+Light Memory: Silvally Legendary
+
+[/SPOILER]
+
+TM List:
+[SPOILER]
+[URL]https://pastebin.com/0na1Kp4F[/URL]
+[/SPOILER]
+
+Encounters:
+[SPOILER]
+I highly recommend trying to find Pokémon yourself first, the locations for most should be quite intuitive based on the demographics of the routes, and most Pokémon lines should have a trainer that will give you the seen for the Pokédex. But for those who need help, locations are listed on the [URL='https://pokemonsunday.fandom.com/']wiki[/URL], or:
+[URL]https://pastebin.com/5BfcxmB3[/URL]
+[/SPOILER]
+
+Mystery Gift Codes:
+
+[Spoiler]
+(More Available on Discord)
+DAGGER
+SNAPE
+LIZARD
+CHUNLI
+NULL
+
+[/Spoiler]
+
+Credits:
+
+[Spoiler]
+Pokémon Sunday
+Softshade
+
+Overworld, Intro and Battle Music, Fakémon Cries:
+Jeffrey Clements
+
+Fakemon Battle Sprites
+Softshade
+Ashley, Phoenixwuffs, Shade
+
+End Credit Music
+Pokeli
+
+Generation 9 Pack for Essentials v21.1
+Caruban
+Lucidious89
+And all script, PBS, and sprite contributors to the Gen 9 Pack, including the Smogon Scarlet/Violet Sprite Project
+
+Following Pokemon EX
+Golisopod User
+Nononever, Help-14, zingzags, Rayd12smitty, Venom12, mej71, PurpleZaffre, Akizakura16, Thundaga, Armin, Maruno
+
+Elite Battle System
+by Luka S.J.
+dragonnite
+BadSamaritan
+Tebited15
+redblueyellow
+Eli
+Pokecheck.org
+
+Additional EBS Style Moves
+WolfPP
+
+"Pokémon Essentials" was created by:
+Flameguru
+Poccil (Peter O.)
+Maruno
+
+With contributions from:
+AvatarMonkeyKirby
+Luka S.J.
+Boushy
+MiDas Mike
+Brother1440
+Near Fantastica
+FL.
+PinkMan
+Genzai Kawakami
+Popper
+Harshboy
+Rataime
+help-14
+SoundSpawn
+IceGod64
+the__end
+Jacob O. Wobbrock
+Venom12
+KitsuneKouta
+Wachunga
+Lisa Anthony
+xLeD
+
+Tilesets
+Dawn Bronze
+TheDeadHeroAlistair
+Heartlessdragoon
+DeviantART:
+Calis Projects
+Cilerba
+Magiscarf
+DaNerdyDude
+XDinky
+KyleDove
+
+Evolution Moves Script by Crystal Noel and Zerokid
+
+Photeon inspired by Pokemon Cosmic Quest`s Radeon
+
+Custom Trainer Script
+Stochastic
+
+Turbo Script
+Wootius
+
+Custom Sprites:
+All contributors to the
+Smogon XY Sprite Project
+
+All contributors to the
+Smogon Sun/Moon Sprite Project and Gen 8 Project
+
+Other Gen VII sprites:
+Amethyst
+Jan
+Zumi
+Bazaro
+Koyo
+Smeargletail
+Alex
+Noscium
+Leparagon
+N-kin
+fishbowlsoul90
+princess-phoenix
+DatLopunnyTho
+Conyjams
+kaji atsu
+The cynical poet
+LuigiPlayer
+Falgaia
+Pikafan2000
+Lord-Myre
+
+Other misc. sprites:
+Silver
+RadicalRaptr
+SakuraMota
+shivanking
+Ody-chan
+SpeedXaaa
+
+Gen VII Moves and Abilities:
+Marin
+Zeak6464
+Tapu Fini
+SpartaLazor
+leparagon
+BlackOutG5
+Rune
+M3rein
+Rigbycwts
+Rot8er_ConeX
+James Davy
+Luka S.J.
+Amethyst and the Pokémon Reborn team
+
+DexNav code:
+Phantombass
+Suzerain
+Nuri Yuri
+Marin
+
+Battle Tower Sets:
+Smaster
+Mr Geets
+Softshade
+Pixelmon
+Matt
+
+Move Animations
+Pokemon Reborn
+Softshade
+
+Gen VIII Moves and Abilities:
+WolfPP
+
+"RPG Maker XP" by:
+Enterbrain
+
+Pokémon is owned by:
+The Pokémon Company
+Nintendo
+Affiliated with Game Freak
+
+
+
+
+[/Spoiler]
+
+Updates and Changelog:
+
+[Spoiler]
+
+For minor updates, just download the rgssad patch file and replace the version in your game project root folder.
+For major updates, replace your whole folder with the full download (The save file is elsewhere)
+Make sure the .rgssad, .exe, and .configuration file all have the same name; e.g. Sunday.exe, Sunday.rgssad
+
+
+[SIZE=3]09/02/26 - v3.0.0[/SIZE]
+[URL='https://bit.ly/2WZoTka']Download [/URL] and replace the full game folder to update to this version
+The Gen 9 Update!!
+Complete engine rebuild from Essentials v17 to v21.1
+Adds all Pokémon through Gen 9, including Scarlet/Violet, The Teal Mask, The Indigo Disk, and Legends Z-A. The full dex is now 1,046 species
+Legends Z-A Mega Evolutions included (Mega Feraligatr, Mega Eelektross, Mega Pyroar and more)
+8 new Fakémon: Snowygast, Palossnow, Tarfelon, Roobop, Wikiniki, Actinotox, Leoterygi, and Spudnick
+New forms: Locust Castform and a Kiraki Vivillon pattern
+New moves including Bright Terrain, Icy Terrain, Locust Plague, Ice Wall, Fetid Freeze, and Left Right Blitz
+New abilities: Snow Fort, Stellar Aura, Deorbit, and Swarm Leader
+Battle Tower expanded to 1390 sets, plus a new rental mode
+Pokémon now follow you in the overworld
+The game is now playable in 6 languages: English, French, German, Spanish, Italian, and Japanese
+New Pokémon Sunday Wiki: https://pokemonsunday.fandom.com/
+
+[SIZE=3]10/02/22 - v2.9.5[/SIZE]
+[URL='https://bit.ly/2WZoTka']Download [/URL] and replace the full game folder to update to this version
+Fixes a game breaking bug with the Cherry battle
+Moves Landorus T and Lucario to proper battle tower tiers
+Adds close combat to Blaziken's moveset
+
+[SIZE=3]09/19/22 - v2.9.4[/SIZE]
+Download and replace the full game folder to update to this version
+Finally adds backsprites for Legends Arceus Pokemon
+Adds mystery gift and custom trainer for Renegame_Master
+Small bug and text fixes
+Adds a few immersion QoL improvements and events, like a Geodude on R2 who throws rocks at you for no reason other than I found it funny.
+
+[SIZE=3]06/04/22 - v2.9.3[/SIZE]
+Fixed Overqwil's type, H-Decidueye's ability
+Minor text fixes
+Made it so all Vivillon forms appear (custom one was previously missing)
+Custom Vivillon now stronger than other patterns
+
+[SIZE=3]05/20/22 - v2.9.2[/SIZE]
+Fixed evolution method for Kleavor
+Labeled Enamorus as legendary to get the proper shiny rate
+
+[SIZE=3]05/18/22 - v2.9.1[/SIZE]
+Fixed evolution method for Basculegion
+Set spawn location for White Stripe Basculin
+Fixed white stripe basculin ability
+Included method to get Enamorus
+Copied frontsprites of new PLA pokemon as temporary backsprites to prevent crash
+Fixed a bug with U-turning into a pokemon with Illusion ability
+Made it so Landorus-T is in competitive tier at battle tower
+
+[SIZE=3]05/16/22 - v2.9.0[/SIZE]
+Adds Legends Arceus Pokemon and moves (Currently no backsprites, waiting on Gen 8 sprite project)
+Updated sets for battle tower
+Pokemon exchanged for regional variants have movepool properly reset
+Many small bug and text fixes
+Changed/fixed some movesets
+A bunch of way overdue Mystery Gifts
+Custom trainers at the gold city tournament for @digass01 and [USER=336990]@Zagan[/USER]
+
+[SIZE=3]10/03/21 - v2.8.17[/SIZE]
+Adds Mr. Geets Championship team from the showdown tournament to the Gold City arena
+Fixes a bug with misty terrain
+Changes fly spot for Germanium Village to match postgame house
+Adds a nurse outside battle tower
+Carbon Slums gym trainers no longer move after defeated to prevent softlocks
+
+[SIZE=3]09/05/21 - v2.8.16[/SIZE]
+Makes Furfrou forms not revert in PC box
+Makes Griseous Orbs and Drives purchaseable for BP if radio tower quest is finished
+Fixes and adds some shiny tiles
+
+Adds a new custom trainer to the tournament for Shoeless
+Makes the Custom Shiny Vivillon its own form, and restores normal shinies
+Minor Text fixes
+
+
+[SIZE=3]08/12/21 - v2.8.15[/SIZE]
+Max number of storage boxes increased to 100
+Furfrou forms added, can be changed at gold city groomer
+Groomer can do unlimited grooms per day but at $2,000 cost
+Fixed a bug with Skydrop
+Fixed 2 Vivillon front sprites
+Added Mystery Gifts
+Added a custom trainer for tigrangel for completing the national dex
+
+[SIZE=3]07/03/21 - v2.8.14[/SIZE]
+Download the [URL='https://bit.ly/2NRPGKw%22']Patch[/URL] into your game folder if you are on v2.8.11+ already. If you are on an older version, [URL='https://bit.ly/2WZoTka']Download[/URL] and replace the full game folder to update
+Fixes a bug with Battle tower pokemon that don't have full movesets (like Ditto with just one move)
+Small tileset and bug fixes
+
+[SIZE=3]06/28/21 - v2.8.13[/SIZE]
+Bans Lightball Pikachu to Normal for Battle Tower
+Fixes @Wooftydog#3177 Mystery gift
+Adds new mystery gifts
+Many small bug, tileset and text fixes
+Adds graphic for Dream Ball
+
+[SIZE=3]06/21/21 - v2.8.12[/SIZE]
+Fixes a bug with BP rewards
+Makes it so you can cancel out of Arceus Shrine menu without being put into a battle even if pressing x
+
+[SIZE=3]06/20/21 - v2.8.11[/SIZE]
+A bunch of small bug fixes for moves
+2 new mystery gifts
+Postgame requirements tweaked
+Battle Tower Encrypted
+Other small bug fixes
+
+[SIZE=3]05/29/21 - v2.8.6[/SIZE]
+Adds new legendary Pokemon- Protosolaria! (Light/Ground Type)
+Small bug fixes
+Adds a new MG
+Encrypts BT trainer data
+
+[SIZE=3]05/26/21 - v2.8.5[/SIZE]
+Fixes a bunch of small bugs introduced in 2.8.0-2.8.4, primarily with battle tower but also the door in the first house
+
+[SIZE=3]05/25/21 - v2.8.0[/SIZE]
+Battle Tower now located at the end of R16!
+R16 Training Ground revamped
+Quality of life fixes and small bug fixes
+Will autorelocate save file from Generic RGSS Game folder to Pokemon Sunday Folder
+2 new Mystery Gifts
+Special Thanks to Smaster and Mr Geets for their Contributions to the battle tower update
+
+[SIZE=3]05/10/21 - v2.7.2[/SIZE]
+Properly fixes the cemetery music bug
+
+[SIZE=3]05/09/21 - v2.7.1[/SIZE]
+Fixes the new tournament mode to autoheal between battles
+
+[SIZE=3]05/09/21 - v2.7.0[/SIZE]
+[URL='https://bit.ly/2WZoTka']Download [/URL] and replace the full game folder to update to this version
+New Tournament Option in Gold City- vs Custom Trainers
+Earn BP for items!
+Removes Custom Trainers from league tryout tournament
+New Custom trainer for Smaster
+Several new Mystery Gifts
+Adds Utility Umbrella, Eject Pack, and Room Service items into the code/game
+Fixes a bug where the cemetery legendary quest would continue playing music after event- even after game closed and restarted. If you have this bug return to the cemetery and interact with any of the special graves and it should resolve
+
+[SIZE=3]04/10/21 - v2.6.3[/SIZE]
+By popular demand, removes Ice type weakness to Light, and adds Light resistance to Ice instead
+Changes IV master to be able to set IVs to any value rather than just max them
+Minor QoL fixes including adding some moves to move tutor
+2 new Mystery Gifts
+
+[SIZE=3]04/02/21 - v2.6.2[/SIZE]
+Adds some long overdue mystery gifts
+Minor text and bug fixes
+Adds a new custom trainer for lazez who became champion as every type
+Tweaks a few move pools e.g. adding Iron tail to Photowyrm, more light type moves to Serperior
+
+[SIZE=3]02/22/21 - v2.6.1[/SIZE]
+Adds one more mystery gift and fixes a moveset on Klinklang MG
+
+[SIZE=3]02/21/21 - v2.6.0[/SIZE]
+Adds a dexnav style route encounter list in the Pokegear, which is given at the rival battle in the cemetery. If you are past the 4th gym it should be added automatically
+Adds a rival encounter after the boron gym
+Adds 4 new mystery gifts and 2 new personal trainers
+Fixes a bug which made choice items not lock properly if you u-turned into a Pokemon with the choice item
+Fixes a bug where Galarian rapidash had galarian slowpoke's cry
+Fixed a bug that could get you locked in Mewtwo's dungeon
+Changed the tournament so that you encounter only 1 custom trainer, always in the second round.
+Minor bug, graphical, and text fixes
+Tweaks Arceus and Blacephalon move sets so they don't have self destructing moves when you encounter them
+
+[SIZE=3]02/01/21 - v2.5.16[/SIZE]
+Fixes two newly added overworld pokemon that can cause crashes
+
+[SIZE=3]01/31/21 - v2.5.15[/SIZE]
+Adds a bunch of new custom shinies from [USER=939993]@Galacta[/USER]
+Fixes a bug where sometimes all of the elite four spots could be taken up when you were supposed to be in.
+Adds 7 new mystery gifts!
+Minor QoL and text fixes
+
+[SIZE=3]01/27/21 - v2.5.14[/SIZE]
+Fixes lag in battle (or if you are on 2.5.13, out of battle as well
+Nerfs difficulty of Tournament and elite four by 3 levels on easy mode
+Prevents user made custom trainers from appearing in easy mode tournament
+Trainers use a fixed team of 6 rather than rotating their pokemon for easy mode tournament and e4.
+
+[SIZE=3]01/26/21 - v2.5.13[/SIZE]
+ Reduces lag from battle animations by loading them into cache (May slow down game once at first to save all animations to cache)
+
+[SIZE=3]01/24/21 - v2.5.12[/SIZE]
+New Special Tournament trainer for sliversky for becoming champion as all 19 type
+New Mystery gift scyther with new shiny sprite
+Fixes longtime bug that game would crash after intro played through
+Changed remaining EBS move animations to Reborn animations
+
+[SIZE=3]1/13/21 - v2.5.11[/SIZE]
+Added a new MG
+Makes it so that static encounter legendaries  that are defeated will respawn after becoming champion
+Added Throat Spray as an item
+Minor text fixes
+
+[SIZE=3]1/8/21 - v2.5.10[/SIZE]
+Fixed a bug with the elite 4 if you battled them for the first time it could crash
+Added back sprites for Calyrex Riders/horses
+Tweaked trainer card badge icons
+
+[SIZE=3]12/20/20 - v2.5.9[/SIZE]
+4 new light type moves!
+Blinding Rush- light type wild charge
+Solar Fists- BP 40 light type double hit
+Shimmer Sphere- BP 65 special move that has a 35% chance of lowering special defense
+Holy Sword- Light type night slash
+New custom trainer for Matt for becoming every type champion
+Tweaked some pokemon movesets based on request
+Tweaked some e4 pokemon to make them more competitive
+Fixed braille text at the back of the caves for Regieleki and regidrago
+Added Light Gem to game
+New mystery gift
+Fixed whirlwind/dragon tail style moves to end wild battles
+Changed Mega Flygon's ability to Adaptability
+Fixed AI to acknowledge Primal abilities to give immunity to water/fire, and Light is immune to fire
+
+[SIZE=3]12/12/20 - v2.5.8[/SIZE]
+Minor text, bug, moveset and graphical fixes
+Fixes Revive to work on Shedinja
+Makes sure all sinks have flavour text
+Adds healing bed to postgame house
+
+[SIZE=3]12/05/20 - v2.5.7[/SIZE]
+Changes how Mystery Gift codes are claimed
+Adds 6 new mystery gift codes
+Adds a special trainer for LHFF for completing the living (all forms) national dex
+Adds an automatic backup for save files
+Relocates an out of reach hidden item in the Gold city Pokemon Center
+Fixes a few sprites
+
+[SIZE=3]11/16/20 - v2.5.6[/SIZE]
+Fixes Fiery Wrath from Physical to special
+Adds 3 Mystery Gifts
+Fixes a misplaced tree
+Fixes one trainer in the league tryout tournament
+Fixes Triage
+
+[SIZE=3]11/14/20 - v2.5.5[/SIZE]
+Adds a special trainer into the game for Mastro Kastro for finishing the national dex
+Adds missing code for Triage into the game
+Fixes Natural cure/ regenerator to work for switch outs caused by Uturn/roar etc.
+Adds Zygarde's signature moves to move tutor
+Fixes a minor bug with the elite 4 that could allow the same person to be in two spots at once.
+
+[SIZE=3]11/09/20 - v2.5.4[/SIZE]
+Makes both Shellos/Gastrodon forms available
+Fixes an off by one bug in Randomizer mode- if you have already started, go to Cherry's lab and talk to the screen behind him, say yes when it asks to reshuffle random order.
+Fixes (For real this time) the Argon Radio quest if you had already finished, you can now get the final quest
+
+[SIZE=3]11/09/20 - v2.5.3[/SIZE]
+Fixes Mega Charizard Y stats
+Adds 2 new mystery gifts
+Fixes previous attempt at resetting Radio Quest
+Fixes Unfusing certain legendaries if they were first in the party
+
+[SIZE=3]11/08/20 - v2.5.1[/SIZE]
+Adds a player's personal trainer to the tournament for becoming champion specializing in all 19 types
+Fixes stats for some of the new Crown Tundra Pokes
+Minor mapping tweaks and text fixes
+Fixes Rider Abilities
+Makes it so that if you already finished the Radio quest, it will jump back so you can get the griseous orb
+
+[SIZE=3]11/08/20 - v2.5.1[/SIZE]
+Major bug fixes from 2.5.0 for R10 and Barium Cemetery
+Battle bg fixed for new map
+Mapping tweaks
+Added Galarica Wreath
+Evolution items now respawn once per day
+
+[SIZE=3]11/07/20 - v2.5.0[/SIZE]
+Crown Tundra Update- All crown tundra Pokemon
+New Area of R10
+Previously missing battle items such as Seeds, Eject button
+Rebalances G-max and fakemon Megas to be +100BST with no HP changes the way normal megas are
+Adds missing Psychic type e4 challenger
+Adds missing Poison Memory
+Adds Griseous Orb
+Renames R15 training area to R16
+Changes fixed moves from trainers in Randomizer mode to reflect new species
+Minor bug, text and mapping fixes
+
+[SIZE=3]10/15/20 - v2.4.5[/SIZE]
+Minor bug fixes for Embargo, Destiny bond, Psychic Terrain
+New Mystery Gift code
+
+[SIZE=3]10/13/20 - v2.4.4[/SIZE]
+Fixes a bug introduced in 2.4.2 that prevented mystery gift Pokemon from coming with their Hidden abilities
+Adds a new mystery gift
+Boosts shiny chances for starters and legendaries
+
+[SIZE=3]10/11/20 - v2.4.3[/SIZE]
+Tweaks Vulpix and ninetales move pools to add more light type moves
+
+[SIZE=3]10/07/20 - v2.4.2[/SIZE]
+Adds a custom trainer for Naphy, who completed the game as a mono type champion for all 19 types
+Adds a mystery gift
+Makes original starter Pokemon come with Hidden Ability
+Tweaks some Pokemon movesets
+Adds missing graphics for roaming legendary tracker
+
+[SIZE=3]09/30/20 - v2.4.1[/SIZE]
+Adds the ability to turn off Randomizer and Nuzlocke Challenge modes off from Cherry's lab
+Fixes a slight bug with Pokemart sell screen
+Changes to Battle, bike, pokemart audio to be compatible with WINE for Mac/Linux
+Buffs safari ball catch rate
+Changes Callisto's ace from Raikou to Zapdos
+Adds Sitrus berry to Silver market and the berry Island
+Minor QoL upgrades
+Fixed a bug where escape rope trigger point wasn't properly turned off in one location
+Adds placeholder cries for Yamselia, Nimbee and Yimbee
+
+[SIZE=3]09/26/20 - v2.4.0[/SIZE]
+Adds new Randomizer mode for random encounters/trainer battles
+Improves the PokeScan Roaming Legendary tracker- now shows an icon if it is on the same route as you
+2 New Fakemon- Nimbee and Yimbee!
+Fixes Rotom-Lamp's party icon
+Tweaks backsprites for Chordalux and Galefront
+Fixes a bug where if you lost to the champion on your first attempt, it can hard lock your game
+Fixes a bug where if you lose on Route 1 before healing you can soft lock your game
+Minor text and QoL fixes
+2 New mystery gifts
+
+
+[SIZE=3]09/19/20 - v2.3.9[/SIZE]
+Fixed a bug with the move Lash Out
+Minor tileset/text fixes fixes
+Adds 3 New Mystery gifts
+
+[SIZE=3]09/17/20 - v2.3.8[/SIZE]
+Fixes a small bug that could prevent championship run mono types from being properly registered on the trainer card.
+
+[SIZE=3]09/13/20 - v2.3.7[/SIZE]
+New Sprites for Clowd, Storrm, Chromasp, and full Cauldream line!
+Fixed missing Careful mint from shop
+
+[SIZE=3]09/05/20 - v2.3.6[/SIZE]
+Fixes Shiny rate at daycare to desired level
+
+[SIZE=3]09/05/20 - v2.3.5[/SIZE]
+Adds 2 more mystery gifts
+Adds remainder of gen 7 sprites from smogon sprite project
+Fixes a bug with Mega Appletun
+Changes Necrozma-Solgaleo fusion to Psychic-Light type
+Makes Flame Body and magma armor stack additively so you can have up to 5X egg hatching speed
+Makes shiny odds 1/20 if you have a shiny non-ditto parent for breeding
+Adds a cap on the number of claimable mystery gifts at 32
+
+[SIZE=3]08/31/20 - v2.3.4[/SIZE]
+Adds a Mystery gift
+Fixes mega grimmsnarl master and adds Grimmsnarl shiny frontsprite
+Enables ditto with Hidden Ability to pass on HA to offspring
+
+[SIZE=3]08/28/20 - v2.3.3[/SIZE]
+Fixes a bug for the move tutor introduced in 2.3.2
+
+[SIZE=3]08/27/20 - v2.3.2[/SIZE]
+Adds another Mystery gift
+Fixes Frogadier abilities
+Minor text fixes
+Adds the rest of the sprites from Gen 8 sprite project
+Adds Event only moves like V-create and hold back to move tutor
+
+[SIZE=3]08/24/20 - v2.3.1[/SIZE]
+Adds performance updates from Pokemon Reborn to slightly decrease lag
+
+[SIZE=3]08/22/20 - v2.3.0[/SIZE]
+Adds a regional form for Taillow/Swellow
+Adds move animations from Pokemon Reborn
+2 new mystery gifts
+Minor Bug fixes
+
+[SIZE=3]08/17/20 - v2.2.4[/SIZE]
+Fixes a bug where the minerals which respawn in Iron town can cause a crash if the respawn happens while you are on a nearby map other than Iron town
+
+[SIZE=3]08/16/20 - v2.2.3[/SIZE]
+Adds a final missing 30th Zygarde Core
+Makes it so that you can use items in the qualifying tournament
+Adds a new mystery gift
+
+[SIZE=3]08/12/20 - v2.2.2[/SIZE]
+Adds trainers with Skarmory
+Adds way to get regular skarmory
+Makes minerals in Iron town respawn daily
+
+[SIZE=3]08/11/20 - v2.2.1[/SIZE]
+[URL='https://bit.ly/2WZoTka']Download [/URL]  and replace the full game folder to update to this version
+New Skarmory regional form
+Minor text fixes
+
+[SIZE=4]08/08/20 - v2.2.0[/SIZE]
+Adds new regional variants for a few Pokemon! More to come soon
+Buffs wild Pokemon level in most places
+Adds a mystery gift
+Silver town Pokeball store now adds more options with more gym badges
+Minor quality of life changes and text fixes
+
+[SIZE=3]08/02/20 - v2.1.22[/SIZE]
+Adds several sprites such as shiny alcremie backsprites, alcremie mints backsprites, G-max urshifu sprites, Kubfu, Urshifu backsprites.
+Removes cost to change type of custom ball
+Buffs e4 and tournament prize money
+Fixes shortcut on Route 2
+
+[SIZE=3]07/30/20 - v2.1.21[/SIZE]
+Adds in Soul Heart ability which was apparently never coded.
+Adds a shortcut on Route 2
+Makes it so HM-like moves such as Strength can be forgotten without going to move Deleter
+
+[SIZE=3]07/26/20 - v2.1.20[/SIZE]
+Fixed an issue with special shiny tiles which caused them to not work properly
+Increased Hippopotas spawn rate on Route 2 North
+
+[SIZE=3]07/26/20 - v2.1.19[/SIZE]
+Fixed graphical bug on R15
+Added Power items (weight, belt, e.g.)
+Added EV bars to summary screen
+Minor text fixes
+
+[SIZE=3]07/25/20 - v2.1.18[/SIZE]
+Fixed Regenerator and Natural Cure abilities
+Added two new mystery gifts
+New slot machine art courtesy of Shade
+Fixed legendite to prevent evolution while held
+Changed R15 to make it easier to select which Pokemon to battle
+Fixed certain fossils
+Fixed Crabrawler evo to Mt. SIlicon summit location, or Ice stone
+Minor bug fixes
+Minor text fixes
+
+[SIZE=3]07/19/20 - v2.1.17[/SIZE]
+Fixed a bug I introduced to the bag in 2.1.16
+
+[SIZE=3]07/18/20 - v2.1.16[/SIZE]
+Added Mega Chordalux. Sprite courtesy of Shade
+Fixes Germanium Bike rack (click on sign to reset the rack)
+Adds party sprites for Gmax mega evos
+Other minor bug fixes
+
+[SIZE=3]07/15/20 - v2.1.15[/SIZE]
+Fixes a bug with the e4 and champion that was fixed in 2.1.5, but somehow reverted in more recent versions, likely due to a dropbox syncing error
+
+[SIZE=3]07/15/20 - v2.1.14[/SIZE]
+Fixes a bug in the AI for Aurora Veil which makes opponents of high skill level not be able to move.
+Minor text fixes
+
+[SIZE=3]07/14/20 - v2.1.13[/SIZE]
+Adds a new mystery gift!
+Fixes a bug with radio prize check for Darmanitan
+Nerfs Galefront's Hidden Ability to not start rain on battle entry
+Fixes Mega Diancie trainer
+Makes Ultra Necrozma a Mega Evolution
+Minor bug fixes with trainers, fuser, hiddenitems and moves
+
+[SIZE=3]07/12/20 - v2.1.12[/SIZE]
+Fixes Lycanroc evolution (Though I do not require own tempo rockruff to get Dusk form)
+Adds Griseous Orb
+Adds a few shiny tiles to maps that didn't have one
+Resets shiny tile flash every day
+Adds Necrozma and Kyurem fuser at the museum
+
+[SIZE=3]07/11/20 - v2.1.11[/SIZE]
+Added a Pokeball Remasker in Carbon Slums
+Made IVs appear by default on Pokemon Summary screen
+Fixed Galar Darumaka evolution
+Fixed Eiscue Noice face reverting back after battle
+Added all Vivillon Patterns
+
+[SIZE=3]07/10/20 - v2.1.10[/SIZE]
+Fixes metronome (move)
+Adds Soul Dew, Oval Charm, Reveal Glass, Prison Bottle and Gracidea Flower in a revamped Argon Radio tower
+
+[SIZE=3]07/09/20 - v2.1.9[/SIZE]
+Fixes for a few moves and abilities that caused them to activate or display twice, or just not work
+Adds Bottle Caps and Gold Bottle Caps for IV training (Casino prize)
+
+[SIZE=3]07/08/20 - v2.1.8[/SIZE]
+Minor textual fixes
+2 New mystery gifts
+
+[SIZE=3]07/08/20 - v2.1.7[/SIZE]
+New Fakemon- Flying type Eeveelution Hoveon (evolves with Dawn Stone)- In collaboration with WillMewlYou aka Phoenixwuffs
+Eevee can now be caught earlier (Route 9 vs Route 13)
+New mystery gift
+
+[SIZE=3]07/07/20 - v2.1.6[/SIZE]
+Fixes a bug with masterball
+Fixes Zamazenta form change with Rusted Shield
+Minor graphical and textual fixes
+
+[SIZE=3]07/06/20 - v2.1.5[/SIZE]
+Fixes a critical bug with the champion
+
+[SIZE=3]07/06/20 - v2.1.4[/SIZE]
+
+Fixes Rusted Sword and Shield
+Fixes battle sprite naming for Minior and Silvally
+Adds a mystery gift code
+
+[SIZE=3]07/05/20 - v2.1.3[/SIZE]
+Adds a new mystery gift code
+Fixes EVs and Trainer IDs for mystery gift Pokemon
+Makes it so other Pokeball types besides the Route specific balls are unusable in challenge mode
+Makes certain types of items sellable
+Minor graphical and textual fixes
+
+[SIZE=3]07/05/20 - v2.1.2[/SIZE]
+Adds Mega Urshifu
+Fixes Mega Meowth, Mega Slowbro, and Mega Toxtricity
+Changes meowth in the Steel type gym to the right form
+Adds ability capsules
+Adds Rusty Sword and Rusty Shield
+Fixes galar slowbro party icon
+
+[SIZE=3]07/02/20 - v2.1.1[/SIZE]
+Fixes some small bugs with patch 2.1.0
+Adds a new mystery gift code
+Adds a panorama view from the top of the Argon Casino
+
+[SIZE=4]07/01/20 - v2.1.0[/SIZE]
+Major Update!
+Ultra beast postgame quest added
+New Battle backgrounds
+Hyper Leveler for faster move grinding.
+New Locations- Beryllium Island, Ultra Space
+All Isle of Armor Pokemon and moves added
+Added mint system to change natures
+Added a move tutor that has every move that has ever been a TM/TR/Move tutor move which is not already available as a TM in game
+Fixed some bugs with the Elite four
+Fixed a graphical bug that displayed IVs wrong on the Pokemon summary page
+
+[SIZE=3]06/26/20 - v2.0.13[/SIZE]
+Adds Crabrawler as an encounter which was accidentally left out
+Fixes a bug with the move Obstruct
+Adds a mark on the trainer card for finishing the game in Nuzlocke mode
+Fixes a small bug with the Alola Pokedex
+
+[SIZE=3]06/25/20 - v2.0.12[/SIZE]
+Fixed a bug which could cause cause you to not be able to get starter Pokemon
+Fixed a bug which let you move in intro cutscene
+Fixed a bug where you could get into an area of Diglett's cave in the early game that you shouldn't be able to
+Added 3 new Mystery Gift codes
+Added more gen 8 backsprites- just missing new Isle of Armor ones now
+
+[SIZE=3]06/24/20 - v2.0.11[/SIZE]
+Fixed a bug which could cause the Pokedex to crash when looking at the area of certain Pokemon
+Fixed Steel type to properly resist Fairy
+Added some Gen 8 Back sprites
+
+[SIZE=3]06/22/20 - v2.0.10[/SIZE]
+Added more checks to make sure the no item battle rules implemented in the Elite 4 don't get stuck on
+
+[SIZE=3]06/21/20 - v2.0.9[/SIZE]
+Fixed one of the champion's Pokemon that could cause a crash
+
+[SIZE=3]06/07/20 - v2.0.8[/SIZE]
+Added a feature that allows you to give up your title as champion so you can rechallenge as a new type specialist without throwing the match
+Prevents pokemon with Poisonheal ability from taking poison damage in the overworld
+Changed Mega Butterfree to Bug-Fairy and Mega Charizard G (Gigantamax charizard sprite) to Pure Fire type
+Fixed incorrect graphics for two trainers
+Fixed Light/Fairy Pokedex Labels
+
+[SIZE=3]06/06/20 - v2.0.7[/SIZE]
+Fixed a bug where sometimes mega evolutions didn't revert after battle
+
+[SIZE=3]06/05/20 - v2.0.6[/SIZE]
+Fixed a bug with Sunstone
+New Mystery gift code
+
+[SIZE=3]06/04/20 - v2.0.5[/SIZE]
+Fixes a bug with the egg hatching animation introduced by switching to essentials v17.1
+Return of version number to options screen
+
+[SIZE=3]06/03/20 - v2.0.4[/SIZE]
+Fixes a bug with using the pondpatch to surf
+Fixes a bug with the Germanium Bike Rack (if it is glitched, read the sign near the bike rack)
+
+[SIZE=3]05/31/20 - v2.0.3[/SIZE]
+Mega Flygon!
+Fixes another legendary event that was slightly bugged
+Fixes Female Trainer Card
+Adds a mystery gift code
+Fixes a bug that prevents access to a TM on Route 15
+
+[SIZE=3]05/28/20 - v2.0.2[/SIZE]
+Fixes a legendary event that was slightly bugged
+Removes screen size adjustment at start of game
+
+[SIZE=3]05/27/20 - v2.0.1[/SIZE]
+Adds an NPC outside of Pokecenters that will fix items, Pokemon, and the pokedex broken from migrating to the Gen6-8 framework
+
+[SIZE=4]05/26/20 - v2.0.0[/SIZE]
+Gen 6-8 Update!!
+Switch from Essentials v16.2 to Essentials v17.1
+Many small text, graphical and bug fixes
+All gen 6-8 Pokemon except Ultra Beasts, Hoopa, and Cosmog line (Coming soon)
+New Rotom Lamp Form
+New Castform Sandstorm Form
+New Elite 4 Trainers
+Pokemon choices that Elite 4 trainers can choose from 9 each, so battles vary
+Elite 4 members and some trainers now have Mega Pokemon
+Switch to Static Sprites from animated sprites
+Major sprite revamp for Photowyrm, Chordalux (Now Chromasp), Chromas (Now Chordalux), and Galefront
+Minor Sprite revamps for Storrm and Clowd.
+Rework movesets for all Pokemon to include light type moves/TMs
+New Requirement for final postgame battle/acquiring Arceus: See every legendary pokemon instead of every pokemon (Not yet possible until I add Hoopa and Cosmog line)
+New easy mode: More XP from battles, further benefits coming soon
+
+[SIZE=3]05/15/20 - v1.2.6[/SIZE]
+Small graphical and text fixes
+
+[SIZE=3]04/28/20 - v1.2.5[/SIZE]
+Graphical and text fixes
+
+[SIZE=3]04/21/20 - v1.2.4[/SIZE]
+Fixed a bug where I accidentally introduced a block to a path on Route 3
+
+[SIZE=3]03/31/20 - v1.2.3[/SIZE]
+One more mystery gift Pokemon added
+
+[SIZE=3]03/29/20 - v1.2.2[/SIZE]
+Fixed a bug where you could get stuck in the fighting gym if you saved and quit between trainers.
+
+[SIZE=3]03/16/20 - v1.2.1[/SIZE]
+Buffed final battle levels
+Added mystery gift code
+
+[SIZE=3]01/26/20 - v1.2.0[/SIZE]
+Major overworld graphical updates, especially Helium City, Boron Village, Routes 2, 3, 11, 12, Victory Road.
+Patched it so that pools reset by default on entry into gym 5
+
+[SIZE=3]12/09/19 - v1.1.14[/SIZE]
+Patched Fling and Copycat which are bugged in Essentials 16.2
+Fixed item needed for Electabuzz evolution
+
+[SIZE=3]12/08/19 - v1.1.12[/SIZE]
+Fixed a bug where if you talked to the comissioner as champion you could not decline taking on a challenger
+Added a Fly Spot to Route 15
+Fixed a bug where an exit to Regirock's cave was in the wrong spot
+Added a mystery gift for Bug
+Fixed lots of Pokemons' evolution moves
+
+[SIZE=3]12/03/19 - v1.1.10[/SIZE]
+Fixed a bug where you could get locked out of e4 if you left after attendant moved aside
+Added icons graphics for Nuzlocke mode balls
+Fixed Shin's Blissey in E4 and tournament
+Fixed Alakazam's Evolution Move
+
+[SIZE=3]12/01/19 - v1.1.9[/SIZE]
+Deleted incorrect text on Deoxys form changing pillars
+Fixed a bug that prevented certain legendaries from showing up in the postgame
+Added a mystery gift
+Changed Woman in Mewtwo's puzzle to look different in first room
+
+[SIZE=3]11/30/19 - v1.1.7[/SIZE]
+Fixed a critical bug that prevented you from getting back into e4 if you were kicked out
+
+[SIZE=3]11/30/19 - v1.1.6[/SIZE]
+Fixed mystery gift woman not giving out Mega Ring
+Added abilities for Primal Kyogre, Groudon, Mega Rayquaza
+Sunbeam no longer mistakenly treated as a sound based move
+Tile passability fixed
+
+[SIZE=3]11/29/19 - v1.1.5[/SIZE]
+Fixed missing link in apricorn trade side quest
+
+[SIZE=3]11/29/19 - v1.1.4[/SIZE]
+Adjust Ice type resistances to gen 6 standard
+Fixed ledge which jumped both ways in Diglett's Cave, and an event in Diglett's cave
+Fixed pokemon getting healed in PC in challenge mode
+Nerfed Pokemon League tournament battle 1 slightly
+
+[SIZE=3]11/27/19 - v1.1.3[/SIZE]
+Removed an event used for testing
+Added more Escape Rope points
+Adjust Steel type resistances to gen 6 standard
+Patched missing fairy typing for Ralts line and Mawile
+Graphics patch contains fixed Grovyle Sprite
+New Mystery Gift Code
+
+[SIZE=3]11/24/19 - v1.1.2[/SIZE]
+Patched a bug that could trap you in the elite 4.
+Minor text fixes
+Escape rope fixes
+
+[SIZE=3]11/16/19 - v1.1.0[/SIZE]
+Mega evolutions now included!!
+Master Mega Trainers appear scattered around the region after making it to the Pokemon League!
+Claim your Mega Ring from the Mystery Gift woman at platinum heights.
+Defeat the Mega Trainer of the respective Pokemon to receive its mega stone.
+Small text fixes
+
+[SIZE=3]6/27/19 - v1.0.10[/SIZE]
+Small bug fixes
+
+[SIZE=3]6/16/19 - v1.0.9[/SIZE]
+Fixed a bug where the Pokemon League tryouts did not properly reinitialize if you lost to the 2nd or third trainer.
+
+[SIZE=3]6/25/19 - v1.0.8[/SIZE]
+Fixed a bug where you cannot rebattle eighth gym leader if you lose.
+
+[SIZE=3]6/24/19 - v1.0.7[/SIZE]
+Fixed a critical tileset blockage introduced in 1.0.6
+
+[SIZE=3]6/12/19 - v1.0.6[/SIZE]
+Added a mystery gift code
+Raised game corner prices
+Tweaked lithium town
+Nerfed cemetery difficulty after 10 failed tries to escape
+
+[SIZE=3]6/9/19 - v1.0.5[/SIZE]
+Added a mystery gift code
+Nerfed Gym 1 slightly
+Buffed Grass spawn rates in Argon City some
+
+[SIZE=3]6/2/19 - v1.0.4[/SIZE]
+Added some Mystery gift codes
+Improved Argon City some
+Added more interactiveness to objects especially in Germanium Village
+
+[SIZE=3]4/29/19 - v1.0.3[/SIZE]
+Added some Mystery gift codes
+Added missing water encounters for Routes 10, 13
+
+[SIZE=3]4/27/19 - v1.0.2[/SIZE]
+Added and altered Turbo script by Wootius (press alt up to two times to increase gameplay speed 1.75X or 2.5X)
+Made legendite accessible earlier in game
+Altered some trainer text
+
+[SIZE=3]4/23/19 - v1.0.1[/SIZE]
+Forgot to upload necessary .dll file
+
+[SIZE=3]4/22/19 - v1.0.0[/SIZE]
+First posted
+
+[/Spoiler]
