@@ -1,4 +1,4 @@
-# Pokémon Sunday 3.0.13
+# Pokémon Sunday 3.0.14
 
 A fan game built on Pokémon Essentials v21.1, with Elite Battle: DX and
 Following Pokémon EX. Kiraki is its own region: sixteen routes, eight gyms,
