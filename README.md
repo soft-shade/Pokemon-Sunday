@@ -11,17 +11,18 @@ lives separately.
 
 ## Playing
 
-Windows only for now.
+Runs on Windows, Mac, Linux and Android.
 
 **Just want to play:** click the green **Code** button above, then
-**Download ZIP**, and unzip it. Then run the launcher for your system, all
-three of which sit in the folder beside the game:
+**Download ZIP**, and unzip it. Then run the launcher for your system. The
+three desktop launchers sit in the folder beside the game:
 
 | | |
 |---|---|
 | Windows | **Pokémon Sunday (Windows).exe** |
 | Linux | **Pokemon Sunday (Linux)** |
 | macOS | **Pokemon Sunday (macOS).app** |
+| Android | open the unzipped folder in **JoiPlay** |
 
 **macOS, first run only.** The app is not signed, so macOS refuses it and says
 it is damaged. It is not. Open **System Settings → Privacy & Security**, scroll
