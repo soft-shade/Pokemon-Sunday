@@ -326,6 +326,26 @@ jobs:
           # bundle's parent, and leaving it invites someone to edit a config
           # that has no effect. Removed so the bundle holds only the engine.
           rm -rf "Pokemon Sunday (macOS).app/Contents/Game"
+          # The engine's own icon replaced by the game's (Graphics/Icon.png), as an
+          # icns built here with sips and iconutil, which every macOS runner has.
+          # Only resource files change: the bundle carries no signature over them.
+          ICONSRC="$GITHUB_WORKSPACE/game/Graphics/Icon.png"
+          SET="$(mktemp -d)/icon.iconset"
+          mkdir -p "$SET"
+          for s in 16 32 64 128 256 512; do
+            sips -z $s $s "$ICONSRC" --out "$SET/s$s.png" >/dev/null
+          done
+          cp "$SET/s16.png"  "$SET/icon_16x16.png"
+          cp "$SET/s32.png"  "$SET/icon_16x16@2x.png"
+          cp "$SET/s32.png"  "$SET/icon_32x32.png"
+          cp "$SET/s64.png"  "$SET/icon_32x32@2x.png"
+          cp "$SET/s128.png" "$SET/icon_128x128.png"
+          cp "$SET/s256.png" "$SET/icon_128x128@2x.png"
+          cp "$SET/s256.png" "$SET/icon_256x256.png"
+          cp "$SET/s512.png" "$SET/icon_256x256@2x.png"
+          rm "$SET"/s*.png
+          iconutil -c icns "$SET" -o "Pokemon Sunday (macOS).app/Contents/Resources/icon.icns"
+          cp "$ICONSRC" "Pokemon Sunday (macOS).app/Contents/Resources/Assets.bundle/Contents/Resources/icon.png"
           du -sh "Pokemon Sunday (macOS).app"
           # ditto, not zip: it keeps the bundle's symlinks and permission bits,
           # and a .app that loses either does not launch.
