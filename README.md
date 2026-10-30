@@ -48,8 +48,7 @@ title screen lists them by character. Starting a new game over an old one does
 not destroy it any more.
 
 There is an optional Autosave in Options, off by default. It saves after
-battles, which does mean a battle can overwrite the file you were relying on —
-the state it replaces is kept as that character's autosave slot.
+battles.
 
 ## Reporting a problem
 
