@@ -1,4 +1,4 @@
-# Pokémon Sunday 3.1.11
+# Pokémon Sunday 3.1.12
 
 A fan game built on Pokémon Essentials v21.1, 
 
