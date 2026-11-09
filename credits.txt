@@ -112,6 +112,36 @@ developer. Also shown in the in-game credits roll.
     St. Cooler
         The Gen 8 Move Animation Project it grew from
 
+    Elinthind (Pokémon Plume)
+        Elite Four, gym leader and Musician sprites
+
+    A. Somersault (Pokémon Uprising)
+        Sinope's trainer sprites
+
+    MickelPickelYT (Pokémon Zephyr)
+        Themisto's trainer sprites
+
+    Teraneck
+        Pasiphae's trainer sprites
+
+    terriblejared
+        Daled's trainer sprites
+
+    pinkscales
+        Shin's battle sprite
+
+    Kyle-Dove
+        Samekh's battle sprite
+
+    icejkai
+        Khof's battle sprite
+
+    fersure4
+        Khof's overworld sprite
+
+    Aveontrainer, starsparkless
+        The sprites fersure4 built it on
+
 
 ======================================================================
 ENGINE
